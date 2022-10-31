@@ -2,5 +2,6 @@ collections:
   joelyn:
     output: true
     order:
+      - Ensel.md
       - terms-of-use.md
       - faq.md
