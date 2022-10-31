@@ -1,4 +1,5 @@
 collections:
   anything:
     output: true
-    order: []
+    order:
+      - Skyrise Greenery.md
