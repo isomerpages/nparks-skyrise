@@ -17,3 +17,5 @@ Rooftop greenery refers to the greening of rooftop surfaces. When appropriately 
 *   Increased energy efficiency
 
 There are two main categories of rooftop greenery ranging from a simple green roof (extensive rooftop greenery) to an elaborate roof garden (intensive rooftop greenery). However, in recent years, many hybrid forms of rooftop greenery can be seen emerging throughout the island.
+
+**Rooftop greenery**
