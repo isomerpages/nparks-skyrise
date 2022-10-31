@@ -1,4 +1,5 @@
 collections:
   di:
     output: true
-    order: []
+    order:
+      - Training.md
