@@ -2,4 +2,5 @@ collections:
   joelyn:
     output: true
     order:
+      - terms-of-use.md
       - faq.md
