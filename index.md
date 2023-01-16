@@ -4,23 +4,24 @@ title: Isomer Site
 description: Brief site description here
 image: /images/isomer-logo.svg
 permalink: /
-notification: Here's a notification bar you can use!
+notification: NParks will never send an SMS to request for payment/money
+  transfers or link to ask for users' login credentials/passwords
 sections:
   - hero:
       title: GARDENS IN THE SKY
       subtitle: Where greenery is integrated into urbanscapes
-      background: /images/hero-banner.png
-      button: Contact Us
+      background: /images/SG Main Page/20221026_142734.jpg
+      button: Explore
       url: /contact-us/
       key_highlights:
-        - title: Highlight A
-          description: Important highlight A is important
+        - title: Skyrise Greenery Incentive Scheme
+          description: ""
           url: https://google.com
-        - title: Highlight B
-          description: Important highlight B is equally important
+        - title: Projects
+          description: ""
           url: https://gmail.com
-        - title: Page A
-          description: Page A is important too
+        - title: Resources
+          description: ""
           url: /privacy/
   - infobar:
       title: Infobar title
