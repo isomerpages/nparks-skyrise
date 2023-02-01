@@ -11,23 +11,7 @@ sections:
       title: GARDENS IN THE SKY
       subtitle: Where greenery is integrated into urbanscapes
       background: /images/SG Main Page/20221026_142734.jpg
-      button: Explore
-      url: /contact-us/
-      key_highlights:
-        - title: Skyrise Greenery Incentive Scheme
-          description: ""
-          url: https://google.com
-        - title: Projects
-          description: ""
-          url: https://gmail.com
-        - title: Resources
-          description: ""
-          url: /privacy/
-  - infobar:
-      title: Infobar title
-      subtitle: Subtitle
-      description: About a sentence worth of description here
-      button: Button text
-      url: /faq/
+      dropdown:
+        title: Hero Dropdown Title
+        options: []
 ---
-
