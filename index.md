@@ -12,14 +12,17 @@ sections:
       subtitle: Where greenery is integrated into urbanscapes
       background: /images/SG Main Page/20221026_142734.jpg
   - infobar:
-      title: Infobar Title
-      subtitle: Infobar Subtitle
-      description: Infobar description
-      button: Button Text
+      title: 155 ha
+      subtitle: " "
+      description: Existing skyrise greenery area in Singapore
+      button: test
+      url: /permalink
   - infopic:
-      title: Infopic Title
-      subtitle: Infopic Subtitle
-      description: Infopic description
-      button: Button Text
-      alt: Image alt text
+      title: 200 ha
+      subtitle: test
+      description: Skyrise greenery 2030 target
+      button: test
+      alt: Skyrise Greenery
+      image: /images/SG Main Page/20221026_143211 (2).jpg
+      url: /permalink
 ---
