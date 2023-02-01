@@ -1,8 +1,12 @@
 logo: /images/isomer-logo.svg
 links:
-  - title: Contact Us
-    url: /contact-us/
-  - title: Example Page
-    url: /example-page/
-  - title: Anything
-    collection: anything
+  - title: Skyrise Greenery
+    url: /permalink
+    sublinks:
+      - title: What is skyrise greenery?
+        url: /permalink
+      - title: Rooftop greenery
+        url: /permalink
+  - title: "Incentive Scheme "
+    url: /permalink
+    sublinks: []
