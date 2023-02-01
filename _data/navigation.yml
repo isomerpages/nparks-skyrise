@@ -33,3 +33,12 @@ links:
         url: /permalink
       - title: FAQ
         url: /permalink
+  - title: Explore
+    url: /permalink
+    sublinks:
+      - title: Showcase Projects
+        url: /permalink
+      - title: Skyrise Greenery Trails
+        url: /permalink
+      - title: Vertical Greenery Competition
+        url: /permalink
