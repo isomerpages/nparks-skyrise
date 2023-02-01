@@ -11,9 +11,6 @@ sections:
       title: GARDENS IN THE SKY
       subtitle: Where greenery is integrated into urbanscapes
       background: /images/SG Main Page/20221026_142734.jpg
-      dropdown:
-        title: What is Skyrise Greenery?
-        options: []
   - infobar:
       title: Infobar Title
       subtitle: Infobar Subtitle
