@@ -12,6 +12,17 @@ sections:
       subtitle: Where greenery is integrated into urbanscapes
       background: /images/SG Main Page/20221026_142734.jpg
       dropdown:
-        title: Hero Dropdown Title
+        title: What is Skyrise Greenery?
         options: []
+  - infobar:
+      title: Infobar Title
+      subtitle: Infobar Subtitle
+      description: Infobar description
+      button: Button Text
+  - infopic:
+      title: Infopic Title
+      subtitle: Infopic Subtitle
+      description: Infopic description
+      button: Button Text
+      alt: Image alt text
 ---
