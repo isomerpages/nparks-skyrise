@@ -3,18 +3,18 @@ url: https://www.open.gov.sg
 favicon: /images/favicon-isomer.ico
 colors:
   primary-color: "#417505"
-  secondary-color: "#417505"
+  secondary-color: "#7a9a01"
   media-colors:
     - title: media-color-one
-      color: "#50e3c2"
+      color: "#ddcba4"
     - title: media-color-two
-      color: "#f8e71c"
+      color: "#ef3340"
     - title: media-color-three
-      color: "#be57cd"
+      color: "#ff931b"
     - title: media-color-four
-      color: "#00838f"
+      color: "#75787b"
     - title: media-color-five
-      color: "#00838f"
+      color: "#f7d117"
 description: An Isomer site of the Singapore Government
 permalink: none
 baseurl: ""
