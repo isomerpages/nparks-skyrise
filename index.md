@@ -2,7 +2,7 @@
 layout: homepage
 title: Skyrise Greenery
 description: An Isomer site of the Singapore Government
-image: /images/isomer-logo.svg
+image: /images/Skyrise Greenery Logo.png
 permalink: /
 notification: NParks will never send an SMS to request for payment/money
   transfers or links to ask for users' login credentials/passwords
@@ -26,3 +26,4 @@ sections:
       image: /images/SG Main Page/20221026_143211 (2).jpg
       url: /permalink
 ---
+
