@@ -9,18 +9,26 @@ notification: NParks will never send an SMS to request for payment/money
 sections:
   - hero:
       background: /images/test.jpg
-  - infobar:
-      title: 155 ha
-      subtitle: " "
-      description: Existing skyrise greenery area in Singapore
-      button: test
-      url: /permalink
   - infopic:
-      title: 200 ha
-      subtitle: test
-      description: Skyrise greenery 2030 target
-      button: test
+      title: " What is Skyrise Greenery?"
+      button: Find out more!
       alt: Skyrise Greenery
       image: /images/SG Main Page/20221026_143211 (2).jpg
       url: /permalink
+  - infobar:
+      title: Skyrise Greenery Incentive Scheme
+      subtitle: Infobar Subtitle
+      description: Infobar description
+      button: Button Text
+  - infopic:
+      title: Showcase Projects
+      subtitle: Infopic Subtitle
+      description: Infopic description
+      button: Button Text
+      alt: Image alt text
+  - infobar:
+      title: Resouces
+      subtitle: Infobar Subtitle
+      description: Infobar description
+      button: Button Text
 ---
