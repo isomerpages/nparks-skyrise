@@ -7,7 +7,8 @@ permalink: /
 notification: NParks will never send an SMS to request for payment/money
   transfers or links to ask for users' login credentials/passwords
 sections:
-  - hero: {}
+  - hero:
+      background: /images/SGBanner.jpg
   - infobar:
       title: 155 ha
       subtitle: " "
