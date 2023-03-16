@@ -8,9 +8,7 @@ notification: NParks will never send an SMS to request for payment/money
   transfers or links to ask for users' login credentials/passwords
 sections:
   - hero:
-      title: GARDENS IN THE SKY
-      subtitle: Where greenery is integrated into urbanscapes
-      background: /images/SG Main Page/20221026_142734.jpg
+      background: /images/Banner.png
   - infobar:
       title: 155 ha
       subtitle: " "
@@ -26,4 +24,3 @@ sections:
       image: /images/SG Main Page/20221026_143211 (2).jpg
       url: /permalink
 ---
-
