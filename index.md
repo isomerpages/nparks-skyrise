@@ -26,6 +26,7 @@ sections:
       description: Infopic description
       button: Button Text
       alt: Image alt text
+      image: /images/Capture.png
   - infobar:
       title: Resouces
       subtitle: Infobar Subtitle
