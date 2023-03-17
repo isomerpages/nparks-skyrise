@@ -2,5 +2,6 @@ collections:
   skyrise-greenery:
     output: true
     order:
+      - Vertical Greenery.md
       - Rooftop Greenery.md
       - What is Skyrise Greenery?.md
