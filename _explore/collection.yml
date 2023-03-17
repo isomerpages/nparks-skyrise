@@ -1,0 +1,4 @@
+collections:
+  explore:
+    output: true
+    order: []
