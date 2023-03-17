@@ -1,4 +1,5 @@
 collections:
   explore:
     output: true
-    order: []
+    order:
+      - Showcase Projects.md
