@@ -2,8 +2,8 @@ collections:
   resources:
     output: true
     order:
-      - Frequently Asked Questions.md
+      - Plant resources.md
       - Guidelines.md
       - Research and Publications.md
       - Contractors.md
-      - Plant resources.md
+      - Frequently Asked Questions.md
