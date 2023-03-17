@@ -32,7 +32,7 @@ links:
       - title: Contractors
         url: /resources/contractors
       - title: FAQ
-        url: /faq/resources/faq
+        url: /resources/faq
   - title: Explore
     url: /permalink
     sublinks:
@@ -41,4 +41,4 @@ links:
       - title: Skyrise Greenery Trails
         url: /explore/trails
       - title: Vertical Greenery Competition
-        url: /vgc
+        url: /explore/vgc/
