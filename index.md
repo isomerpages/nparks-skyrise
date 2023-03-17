@@ -9,7 +9,7 @@ notification: NParks will never send an SMS to request for payment/money
 sections:
   - hero:
       background: /images/test.jpg
-      title: GARDENS IN THE SKY
+      title: Gardens in the Sky
       subtitle: Where greenery is integrated into buildings
   - infopic:
       title: " What is Skyrise Greenery?"
