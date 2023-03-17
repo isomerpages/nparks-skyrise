@@ -10,16 +10,16 @@ links:
       - title: Vertical greenery
         url: /permalink
   - title: "Incentive Scheme "
-    url: /permalink
+    url: /incentive-scheme
     sublinks:
       - title: "About "
         url: /permalink
       - title: Categories
-        url: /permalink
+        url: /incentive-scheme/categories/
       - title: How to apply
-        url: /permalink
+        url: /incentive-scheme/apply
       - title: More Information
-        url: /permalink
+        url: /incentive-scheme/more-information
   - title: Resources
     url: /resources
     sublinks:
