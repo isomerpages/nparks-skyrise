@@ -27,9 +27,11 @@ sections:
       alt: Image alt text
       image: /images/Capture3.png
       url: /permalink
-  - infobar:
+  - infopic:
       title: Resouces
-      subtitle: Infobar Subtitle
-      description: Infobar description
+      subtitle: Infopic Subtitle
+      description: Infopic description
       button: Button Text
+      image: /images/Resources.png
+      alt: Image alt text
 ---
