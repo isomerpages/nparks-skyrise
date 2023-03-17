@@ -2,7 +2,7 @@ title: Skyrise Greenery
 url: https://www.open.gov.sg
 favicon: /images/favicon-isomer.ico
 colors:
-  primary-color: "#78a22f"
+  primary-color: "#417505"
   secondary-color: "#417505"
   media-colors:
     - title: media-color-one
@@ -12,10 +12,10 @@ colors:
     - title: media-color-three
       color: "#ff931b"
     - title: media-color-four
-      color: "#75787b"
+      color: "#78a22f"
     - title: media-color-five
       color: "#f7d117"
-description: An Isomer site of the Singapore Government
+description: ""
 permalink: none
 baseurl: ""
 exclude:
