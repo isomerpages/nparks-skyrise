@@ -21,6 +21,7 @@ sections:
       title: Skyrise Greenery Incentive Scheme
       button: Learn more
       url: /permalink
+      description: Your project may be eligible for up to 50% funding
   - infopic:
       title: Showcase Projects
       description: Looking for inspirations for your projects?
