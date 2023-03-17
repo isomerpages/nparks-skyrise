@@ -10,6 +10,7 @@ sections:
   - hero:
       background: /images/test.jpg
       title: Gardens in the Sky
+      subtitle: Where greenery is integrated into buildings
   - infopic:
       title: " What is Skyrise Greenery?"
       button: Find out more!
