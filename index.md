@@ -18,17 +18,19 @@ sections:
       image: /images/3 environmental .png
       url: /permalink
       description: Do you  know that 'Skyrise Greenery' is a term coined in Singapore?
-  - infobar:
+  - infopic:
       title: Skyrise Greenery Incentive Scheme
-      button: Find out more
-      url: /permalink
+      subtitle: Infopic Subtitle
       description: Your project may be eligible for up to 50% funding
+      button: Button Text
+      url: Find out more
+      alt: Image alt text
   - infopic:
       title: Showcase Projects
       description: Looking for inspirations for your projects?
       button: "Check out our e-booklet "
       alt: Image alt text
-      image: /images/Capture3.png
+      image: /images/Skyrise Greenery/CapitaSpring.jpg
       url: /permalink
   - infopic:
       title: Technical Resources
