@@ -1,4 +1,5 @@
 collections:
   incentive-scheme:
     output: true
-    order: []
+    order:
+      - More Information.md
