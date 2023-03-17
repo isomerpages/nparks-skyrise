@@ -23,7 +23,7 @@ sections:
       url: /permalink
   - infopic:
       title: Showcase Projects
-      description: Infopic descriptionLooking for inspirations for your projects?
+      description: Looking for inspirations for your projects?
       button: "Check out our e-booklet "
       alt: Image alt text
       image: /images/Capture3.png
