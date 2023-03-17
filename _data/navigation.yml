@@ -5,10 +5,10 @@ links:
     sublinks:
       - title: What is Skyrise Greenery?
         url: /whatis
-      - title: Rooftop greenery
-        url: /permalink
-      - title: Vertical greenery
-        url: /permalink
+      - title: Rooftop Greenery
+        url: /skyrise-greenery/rooftop
+      - title: Vertical Greenery
+        url: /skyrise-greenery/vertical
   - title: "Incentive Scheme "
     url: /incentive-scheme
     sublinks:
