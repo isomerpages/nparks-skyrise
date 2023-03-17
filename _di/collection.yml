@@ -1,5 +1,0 @@
-collections:
-  di:
-    output: true
-    order:
-      - Training.md
