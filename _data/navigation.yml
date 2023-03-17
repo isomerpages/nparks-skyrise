@@ -1,7 +1,7 @@
 logo: /images/Skyrise Greenery Logo.png
 links:
   - title: Skyrise Greenery
-    url: /permalink
+    url: /whatis
     sublinks:
       - title: What is Skyrise Greenery?
         url: /whatis
@@ -10,7 +10,7 @@ links:
       - title: Vertical Greenery
         url: /skyrise-greenery/vertical
   - title: "Incentive Scheme "
-    url: /incentive-scheme
+    url: /incentive-scheme/about
     sublinks:
       - title: "About "
         url: /incentive-scheme/about
@@ -21,7 +21,7 @@ links:
       - title: More Information
         url: /incentive-scheme/more-information
   - title: Resources
-    url: /resources
+    url: /resources/plant-resources
     sublinks:
       - title: Plant resources
         url: /resources/plant-resources
@@ -34,7 +34,7 @@ links:
       - title: FAQ
         url: /resources/faq
   - title: Explore
-    url: /permalink
+    url: /explore/showcase-projects
     sublinks:
       - title: Showcase Projects
         url: /explore/showcase-projects
