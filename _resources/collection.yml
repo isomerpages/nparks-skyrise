@@ -2,6 +2,7 @@ collections:
   resources:
     output: true
     order:
+      - Frequently Asked Questions.md
       - Guidelines.md
       - Research and Publications.md
       - Contractors.md
