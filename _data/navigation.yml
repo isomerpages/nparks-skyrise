@@ -24,15 +24,15 @@ links:
     url: /resources
     sublinks:
       - title: Contractors
-        url: /contractors
+        url: /resources/contractors
       - title: Plant resources
-        url: /resources/plantresources
+        url: /resources/plant-resources
       - title: Research and Publications
-        url: /permalink
+        url: research-and-publications
       - title: Guidelines
-        url: /permalink
+        url: /guidelines
       - title: FAQ
-        url: /permalink
+        url: /faq
   - title: Explore
     url: /permalink
     sublinks:
