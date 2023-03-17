@@ -29,9 +29,9 @@ sections:
       url: /permalink
   - infopic:
       title: Resouces
-      subtitle: Infopic Subtitle
-      description: Infopic description
-      button: Button Text
+      description: To help you with your skyrise journey
+      button: read on
       image: /images/Resources.png
       alt: Image alt text
+      url: /permalink
 ---
