@@ -21,12 +21,12 @@ links:
       - title: More Information
         url: /permalink
   - title: Resources
-    url: /permalink
+    url: /resources
     sublinks:
       - title: Contractors
-        url: /permalink
+        url: /contractors
       - title: Plant resources
-        url: /permalink
+        url: /resources/plantresources
       - title: Research and Publications
         url: /permalink
       - title: Guidelines
