@@ -2,4 +2,5 @@ collections:
   explore:
     output: true
     order:
+      - Skyrise Greenery Trails.md
       - Showcase Projects.md
