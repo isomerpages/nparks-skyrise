@@ -29,7 +29,7 @@ sections:
       image: /images/Capture3.png
       url: /permalink
   - infopic:
-      title: Resouces
+      title: Technical Resources
       description: To help you with your skyrise journey
       button: read on
       image: /images/Resources.png
