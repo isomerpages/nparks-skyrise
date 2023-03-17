@@ -23,14 +23,14 @@ links:
   - title: Resources
     url: /resources
     sublinks:
-      - title: Contractors
-        url: /resources/contractors
       - title: Plant resources
         url: /resources/plant-resources
-      - title: Research and Publications
-        url: research-and-publications
       - title: Guidelines
         url: /guidelines
+      - title: Research and Publications
+        url: research-and-publications
+      - title: Contractors
+        url: /resources/contractors
       - title: FAQ
         url: /faq
   - title: Explore
