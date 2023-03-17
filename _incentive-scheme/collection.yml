@@ -2,4 +2,5 @@ collections:
   incentive-scheme:
     output: true
     order:
+      - How to apply.md
       - More Information.md
