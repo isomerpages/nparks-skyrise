@@ -2,5 +2,6 @@ collections:
   explore:
     output: true
     order:
+      - Vertical Greenery Competition.md
       - Skyrise Greenery Trails.md
       - Showcase Projects.md
