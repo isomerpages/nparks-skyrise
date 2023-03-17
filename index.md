@@ -15,7 +15,7 @@ sections:
       title: " What is Skyrise Greenery?"
       button: Learn more
       alt: Skyrise Greenery
-      image: /images/3 environmental .png
+      image: /images/Graphics/Whatis.png
       url: /permalink
       description: Do you  know that 'Skyrise Greenery' is a term coined in Singapore?
   - infopic:
