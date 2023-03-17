@@ -1,7 +1,0 @@
-collections:
-  joelyn:
-    output: true
-    order:
-      - John.md
-      - terms-of-use.md
-      - faq.md
