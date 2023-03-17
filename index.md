@@ -19,7 +19,7 @@ sections:
       url: /permalink
   - infobar:
       title: Skyrise Greenery Incentive Scheme
-      button: Learn more
+      button: Find out more
       url: /permalink
       description: Your project may be eligible for up to 50% funding
   - infopic:
