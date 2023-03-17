@@ -26,13 +26,13 @@ links:
       - title: Plant resources
         url: /resources/plant-resources
       - title: Guidelines
-        url: /guidelines
+        url: /resources/guidelines
       - title: Research and Publications
-        url: research-and-publications
+        url: /resources/research-and-publications
       - title: Contractors
         url: /resources/contractors
       - title: FAQ
-        url: /faq
+        url: /faq/resources/faq
   - title: Explore
     url: /permalink
     sublinks:
