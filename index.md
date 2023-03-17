@@ -13,7 +13,7 @@ sections:
       title: " What is Skyrise Greenery?"
       button: Find out more!
       alt: Skyrise Greenery
-      image: /images/SG Main Page/20221026_143211 (2).jpg
+      image: /images/_storage_emulated_0_Pictures_Cartoon_Photo_cartoon1678975724895.jpg
       url: /permalink
   - infobar:
       title: Skyrise Greenery Incentive Scheme
