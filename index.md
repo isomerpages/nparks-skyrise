@@ -22,11 +22,11 @@ sections:
       button: Button Text
   - infopic:
       title: Showcase Projects
-      subtitle: Infopic Subtitle
-      description: Infopic description
-      button: Button Text
+      description: Infopic descriptionLooking for inspirations for your projects?
+      button: "Check out our e-booklet "
       alt: Image alt text
       image: /images/Capture3.png
+      url: /permalink
   - infobar:
       title: Resouces
       subtitle: Infobar Subtitle
