@@ -13,10 +13,11 @@ sections:
       subtitle: Where greenery is integrated into buildings
   - infopic:
       title: " What is Skyrise Greenery?"
-      button: Find out more!
+      button: Learn more
       alt: Skyrise Greenery
       image: /images/3 environmental .png
       url: /permalink
+      description: Do you  know that 'Skyrise Greenery' is a term coined in Singapore?
   - infobar:
       title: Skyrise Greenery Incentive Scheme
       button: Find out more
