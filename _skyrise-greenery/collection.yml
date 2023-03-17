@@ -1,4 +1,5 @@
 collections:
   skyrise-greenery:
     output: true
-    order: []
+    order:
+      - What is Skyrise Greenery?.md
