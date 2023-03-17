@@ -2,5 +2,5 @@ collections:
   resources:
     output: true
     order:
-      - Plant resources.md
       - Contractors.md
+      - Plant resources.md
