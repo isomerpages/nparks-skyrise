@@ -13,7 +13,7 @@ sections:
       title: " What is Skyrise Greenery?"
       button: Find out more!
       alt: Skyrise Greenery
-      image: /images/SGBanner.jpg
+      image: /images/3 environmental benefits.png
       url: /permalink
   - infobar:
       title: Skyrise Greenery Incentive Scheme
