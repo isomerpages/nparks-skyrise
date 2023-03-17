@@ -2,4 +2,5 @@ collections:
   skyrise-greenery:
     output: true
     order:
+      - Rooftop greenery/.keep
       - What is Skyrise Greenery?.md
