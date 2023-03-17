@@ -9,6 +9,7 @@ notification: NParks will never send an SMS to request for payment/money
 sections:
   - hero:
       background: /images/test.jpg
+      subtitle: Gardens in the Sky
   - infopic:
       title: " What is Skyrise Greenery?"
       button: Find out more!
@@ -17,9 +18,8 @@ sections:
       url: /permalink
   - infobar:
       title: Skyrise Greenery Incentive Scheme
-      subtitle: Infobar Subtitle
-      description: Infobar description
-      button: Button Text
+      button: Learn more
+      url: /permalink
   - infopic:
       title: Showcase Projects
       description: Infopic descriptionLooking for inspirations for your projects?
