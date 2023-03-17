@@ -25,6 +25,7 @@ sections:
       button: Button Text
       url: Find out more
       alt: Image alt text
+      image: /images/Skyrise Greenery/Kim Tian.jpg
   - infopic:
       title: Showcase Projects
       description: Looking for inspirations for your projects?
