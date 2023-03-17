@@ -8,7 +8,7 @@ notification: NParks will never send an SMS to request for payment/money
   transfers or links to ask for users' login credentials/passwords
 sections:
   - hero:
-      background: /images/banner plq.png
+      background: /images/test.jpg
   - infopic:
       title: " What is Skyrise Greenery?"
       button: Find out more!
