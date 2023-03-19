@@ -31,7 +31,7 @@ sections:
       description: Looking for inspirations for your projects?
       button: "Check out our e-booklet "
       alt: Image alt text
-      image: /images/Skyrise Greenery/CapitaSpring.jpg
+      image: /images/Skyrise Greenery/CapitaSpring.png
       url: /explore/showcase-projects
   - infopic:
       title: Technical Resources
