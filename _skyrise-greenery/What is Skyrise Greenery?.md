@@ -9,4 +9,4 @@ Skyrise greenery refers to rooftop and/or vertical greenery where greenery is ex
 
 By creating multi-tiers of greenery and optimising the use of urban spaces for greenery and recreation, urban dwellers will be immersed in greenery not only at ground level but also at elevated spaces, enhancing their quality of life through their work and living environment.
 
-![](/images/Capture3.png)
+![](/images/Skyrise%20Greenery%20-%20rooftop%20vertical.png)
