@@ -20,10 +20,9 @@ sections:
       description: Do you  know that 'Skyrise Greenery' is a term coined in Singapore?
   - infopic:
       title: Skyrise Greenery Incentive Scheme
-      subtitle: Infopic Subtitle
       description: Your project may be eligible for up to 50% funding
       button: Find out more
-      url: /whatis
+      url: /incentive-scheme/about
       alt: Image alt text
       image: /images/Skyrise Greenery/Kim Tian.jpg
   - infopic:
