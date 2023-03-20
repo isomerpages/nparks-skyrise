@@ -30,14 +30,14 @@ links:
       - title: Vertical Greenery Competition
         url: /explore/vgc/
   - title: Technical Resources
-    url: /resources/plant-resources
+    url: /resources/guidelines
     sublinks:
-      - title: Plant resources
-        url: /resources/plant-resources
       - title: Guidelines
         url: /resources/guidelines
       - title: Research and Publications
         url: /resources/research-and-publications
+      - title: Plant resources
+        url: /resources/plant-resources
       - title: Contractors
         url: /resources/contractors
       - title: FAQ
