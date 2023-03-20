@@ -23,14 +23,19 @@ A support system consists of planters mounted at regular intervals (typically 3 
 Cassette systems consist of modular units containing growing media that can be easily mounted on metal framings as standalone systems or attached to wall surfaces.
 
 **Planter Systems**
+
 Planter systems consist of individual pots mounted at regular intervals onto a structure or frame. Draping or trailing plant species are ideal for this type of system, as they create the appearance of a continuous wall of greenery.
+
 **Pocket Systems**
+
 A pocket system consists of panels fabricated from at least two layers of moisture retention mats. These mats are attached to a rigid backing for support and pockets are created out of the outer layer for plant placement.
 Components of a Vertical Greenery System
 There are 3 basic components:
-•	Plants
-•	System and media
-•	Irrigation
+* Plants
+* System and media
+* Irrigation
+
+
 There have been many different systems developed, each experimenting with different ways of containing the media for vertical planting. However beyond the efficiency, weight, and suitability of the system and media, the key criteria for a successful vertical greenery system are the planting and irrigation factors.
  
 It is also pertinent to take note of the drainage outlet for vertical greenery installations so as to avoid unsightly puddles forming at the base of the wall. Simple drainage trays at the base of the installation or even locating the green wall strategically at a natural drainage outlet are some possible solutions.
