@@ -12,3 +12,4 @@ Rooftop greenery refers to the greening efforts and landscaping on rooftop surfa
 * Roof gardens (intensive)
 
 Increasingly, rooftop spaces are also being transformed into spaces for urban farming.
+![](/images/Graphics/Rooftop%20Greenery.png)
