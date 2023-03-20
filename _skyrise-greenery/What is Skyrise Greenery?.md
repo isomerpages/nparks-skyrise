@@ -11,3 +11,5 @@ By creating multi-tiers of greenery and optimising the use of urban spaces for g
 
 
 ![](/images/Graphics/Skyrise%20Greenery%20-%20rooftop%20vertical.png)
+
+![](/images/Graphics/Skyrise%20Greenery%20-%20rooftop%20vertical300.png)
