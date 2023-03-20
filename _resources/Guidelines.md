@@ -23,7 +23,8 @@ Beyond the infancy of this initial phase of Skyrise Greenery, new areas of conce
  **Handbook on Developing Sustainable Highrise Gardens**
  
  *Please click on the image below to download a copy.*
- ![](/images/Skyrise%20Greenery%20Handbook.png)
+
+ ![](/images/Skyrise%20Greenery%20Handbook%20icon.png)
  
  **Guidelines and Planting Considerations for Trees on Rooftops**
 
