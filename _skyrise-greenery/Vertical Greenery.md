@@ -26,6 +26,8 @@ Cassette systems consist of modular units containing growing media that can be e
 
 Planter systems consist of individual pots mounted at regular intervals onto a structure or frame. Draping or trailing plant species are ideal for this type of system, as they create the appearance of a continuous wall of greenery.
 
+![](/images/Graphics/4%20type%20of%20vertical%20-%20combined.png)
+
 **Pocket Systems**
 
 A pocket system consists of panels fabricated from at least two layers of moisture retention mats. These mats are attached to a rigid backing for support and pockets are created out of the outer layer for plant placement.
