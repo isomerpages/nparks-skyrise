@@ -3,10 +3,7 @@ title: What is Skyrise Greenery?
 permalink: /whatis/
 description: ""
 ---
-
-
-
-### What is skyrise greenery?
+### What is Skyrise G![Skyrise Greenery]()reenery?
 
 Skyrise greenery refers to rooftop and/or vertical greenery where greenery is extended skywards in the built environment through the greening of facades, balconies, mid-level and roof spaces.
 
