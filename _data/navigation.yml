@@ -20,6 +20,15 @@ links:
         url: /incentive-scheme/apply
       - title: More Information
         url: /incentive-scheme/more-information
+  - title: Explore
+    url: /explore/showcase-projects
+    sublinks:
+      - title: Showcase Projects
+        url: /explore/showcase-projects
+      - title: Skyrise Greenery Trails
+        url: /explore/trails
+      - title: Vertical Greenery Competition
+        url: /explore/vgc/
   - title: Technical Resources
     url: /resources/plant-resources
     sublinks:
@@ -33,12 +42,3 @@ links:
         url: /resources/contractors
       - title: FAQ
         url: /resources/faq
-  - title: Explore
-    url: /explore/showcase-projects
-    sublinks:
-      - title: Showcase Projects
-        url: /explore/showcase-projects
-      - title: Skyrise Greenery Trails
-        url: /explore/trails
-      - title: Vertical Greenery Competition
-        url: /explore/vgc/
