@@ -20,10 +20,11 @@ Some of the topics in progress, pertaining to Rooftop Greenery standards & guide
 
 Beyond the infancy of this initial phase of Skyrise Greenery, new areas of concern / issues that surface will subsequently be brought to attention and addressed in the near future. When necessary, new standards & guidelines will be developed to cater to the growing industry demand.
 
-** Handbook on Developing Sustainable Highrise Gardens**
+ **Handbook on Developing Sustainable Highrise Gardens**
  
  *Please click on the image below to download a copy.*
+ ![](/images/Skyrise%20Greenery%20Handbook.png)
  
- ### Guidelines and Planting Considerations for Trees on Rooftops
+ **Guidelines and Planting Considerations for Trees on Rooftops**
 
-Please click on the image below to download a copy.
+*Please click on the image below to download a copy.*
