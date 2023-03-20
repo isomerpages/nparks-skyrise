@@ -17,7 +17,7 @@ The incentive scheme aims to achieve the following objectives:
 * Encourage the installation of skyrise greenery on existing buildings across Singapore.
 * Create a distinctive image of the city in the tropical climate through extensive greenery adorning building facades and skyrise levels; and,
 * Bring about environmental benefits such as mitigating the urban island heat effect and improving the air quality through the plants’ transpiration and filtration of dust particles.
-* 
+
 **Effective Date**
 
 The incentive scheme is effective from 1 April 2015 and will expire on 31 March 2023 or when the incentive scheme funds are fully disbursed, whichever earlier. Participation in the scheme will be on a first-come, first-served basis, subject to availability of funds.
@@ -33,4 +33,4 @@ Types of development that are eligible for this scheme are:
 * Residential: Non-landed, mixed commercial & residential development and others (approved case-by-case)
 * Non-Residential: Commercial, business parks, industrial, educational institutions, community buildings (approved case-by-case)
 
-Both Rooftop Greenery and Vertical Greenery installations are funded under this scheme.    
+Both Rooftop Greenery and Vertical Greenery installations are funded under this scheme.
