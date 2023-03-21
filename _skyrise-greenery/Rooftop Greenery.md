@@ -4,6 +4,7 @@ permalink: /skyrise-greenery/rooftop/
 description: ""
 ---
 # **Rooftop greenery - THE HORIZONTAL DIMENSION**
+![](/images/Skyrise%20Greenery/Dulwich.jpg)
 
 Rooftop greenery refers to the greening efforts and landscaping on rooftop surfaces. In general, there are three types of rooftop greenery:
 
