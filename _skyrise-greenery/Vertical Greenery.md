@@ -52,4 +52,4 @@ Plant selection is crucial to the success of vertical greenery. The types of pla
  
 Due to the thin profile of the system and gravity, the substrate media dries up rapidly and contributes to the high rate of evaporation. As such, drought-tolerant plants are a better choice for vertical greenery systems despite having a complete irrigation system in place. However, it is not an absolute criterion. With a suitable and timely irrigation regime, appropriate planting media, and proper system design, it is still possible to grow a wide variety of plants.
  
-Click here for a recommended list of plants for green walls.
+Head to our plant resources page for recommendations of plants for green walls.
