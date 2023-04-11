@@ -47,7 +47,7 @@ There have been many different systems developed, each experimenting with differ
 It is also pertinent to take note of the drainage outlet for vertical greenery installations to avoid unsightly puddles forming at the base of the wall. Simple drainage trays at the base of the installation or even locating the green wall strategically at a natural drainage outlet are some possible solutions.
 
 ### **Plant Selection**
-### 
+
 Plant selection is crucial to the success of vertical greenery. The types of plants selected depend on system type, design intention, environmental factors, budget, and expected degree of maintenance. There are numerous plant species that can be grown vertically.
  
 Due to the thin profile of the system and gravity, the substrate media dries up rapidly and contributes to the high rate of evaporation. As such, drought-tolerant plants are a better choice for vertical greenery systems despite having a complete irrigation system in place. However, it is not an absolute criterion. With a suitable and timely irrigation regime, appropriate planting media, and proper system design, it is still possible to grow a wide variety of plants.
