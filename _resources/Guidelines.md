@@ -3,12 +3,11 @@ title: Guidelines
 permalink: /resources/guidelines/
 description: ""
 ---
-
-
- **Handbook on Developing Sustainable Highrise Gardens**
+**Handbook on Developing Sustainable Highrise Gardens**
  
  *Please click on the image below to download a copy.*
- ![](/images/Graphics/Skyrise%20Greenery%20Handbook.png)
+ 
+ [![](/images/Graphics/Skyrise%20Greenery%20Handbook.png)](/files/nparks%20skyrise%20greenery%20handbook_202303.pdf)
  
  **Guidelines and Planting Considerations for Trees on Rooftops**
 
