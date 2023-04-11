@@ -24,8 +24,8 @@ Published in 2022, this edition features projects completed in 2021
 #### 2nd Edition
 
 Published in 2021, this edition features projects completed in 2020
-[](/files/Explore%20Tab/skyrise%20greenery%20showcase%202nd%20edition_final.pdf)
+[click here](/files/Explore%20Tab/skyrise%20greenery%20showcase%202nd%20edition_final.pdf)
 
 #### 1st Edition
 Published in 2020, this edition features projects completed in 2019
-[](/files/Explore%20Tab/compressed%20final%20e-booklet%20on%20skyrise%20greenery%20project%20showcase_1st%20ed%202019.pdf)
+[click here](/files/Explore%20Tab/compressed%20final%20e-booklet%20on%20skyrise%20greenery%20project%20showcase_1st%20ed%202019.pdf)
