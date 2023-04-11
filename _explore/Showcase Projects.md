@@ -11,7 +11,7 @@ Check out our e-booklet on skyrise greenery projects by landscape designers!
 
 *If you would like to feature your projects on our newsletter, do feel free to drop us an email at* skyrisegreenery@nparks.gov.sg.
 
-#### **3rd Edition **
+#### 3rd Edition 
 
 Published in 2022, this editions features projects completed in year 2021  
 
