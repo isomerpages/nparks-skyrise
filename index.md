@@ -33,7 +33,7 @@ sections:
       image: /images/Graphics/Showcase editions.png
       url: /explore/showcase-projects
   - infopic:
-      title: Technical Resources
+      title: Resources
       description: To help you with your skyrise journey
       button: Read on
       image: /images/Resources.png
