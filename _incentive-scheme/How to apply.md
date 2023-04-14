@@ -22,11 +22,11 @@ Your proposed skyrise greenery project will be assessed for SGIS based on the pr
 
 If your application is approved, you will receive a letter of offer from NParks. This letter of offer will be valid for 12 months during which the project should be completed, with extension allowed upon request. **You may only begin installation works upon receiving the letter of offer**.
 
-***Additional steps for MOE schools***
+##### *Additional steps for MOE schools*
 
 Schools under the Ministry of Education (MOE) are required to inform MOE (School Campus Division) of their proposed skyrise greenery installation. A copy of MOE SCD's written acknowledgement of the works should be submitted to NParks together with the application documents.
 
-#### Documents Required for SGIS Application for Rooftop/Vertical Greenery 
+#### **Documents Required for SGIS Application for Rooftop/Vertical Greenery **
 
 * Completed Application Form - Application form will be provided after NParks confirms that the site is eligible for SGIS
 * Completed SGIS application checklist 
@@ -37,7 +37,7 @@ Schools under the Ministry of Education (MOE) are required to inform MOE (School
 * Document showing estimated cost of Rooftop/Vertical Greenery (e.g., Quotation from contractor)
 * Details of irrigation and drainage if applicable
 
-#### Alteration
+#### **Alteration**
 NParks’ prior approval should be sought for any changes to the submitted plant species or rooftop/vertical greenery plan as deviation from the approved plan may affect SGIS approval and subsequent reimbursement.
 
 ## **Stage 2: Reimbursement**
