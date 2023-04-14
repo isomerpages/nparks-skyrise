@@ -3,6 +3,5 @@ collections:
     output: true
     order:
       - About.md
-      - Categories.md
       - How to apply.md
       - More Information.md
