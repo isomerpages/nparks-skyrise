@@ -14,12 +14,8 @@ links:
     sublinks:
       - title: About
         url: /incentive-scheme/about
-      - title: Categories
-        url: /incentive-scheme/categories/
       - title: How to apply
         url: /incentive-scheme/apply
-      - title: More Information
-        url: /incentive-scheme/more-information
   - title: Explore
     url: /explore/showcase-projects
     sublinks:
