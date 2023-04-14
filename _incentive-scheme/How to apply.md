@@ -26,7 +26,7 @@ If your application is approved, you will receive a letter of offer from NParks.
 
 Schools under the Ministry of Education (MOE) are required to inform MOE (School Campus Division) of their proposed skyrise greenery installation. A copy of MOE SCD's written acknowledgement of the works should be submitted to NParks together with the application documents.
 
-#### **Documents Required for SGIS Application for Rooftop/Vertical Greenery **
+#### **Documents Required for SGIS Application for Rooftop/Vertical Greenery**
 
 * Completed Application Form - Application form will be provided after NParks confirms that the site is eligible for SGIS
 * Completed SGIS application checklist 
