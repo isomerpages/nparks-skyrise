@@ -40,7 +40,7 @@ Schools under the Ministry of Education (MOE) are required to inform MOE (School
 #### Alteration
 NParks’ prior approval should be sought for any changes to the submitted plant species or rooftop/vertical greenery plan as deviation from the approved plan may affect SGIS approval and subsequent reimbursement.
 
-## Stage 2: Reimbursement
+## **Stage 2: Reimbursement**
 Once the installation is completed, please contact your Skyrise Greenery Manager to begin the reimbursement process. NParks will arrange a site inspection to ensure that **80% greenery coverage** of the proposed plan has been achieved.
 
 **Documents Required for Reimbursement for Rooftop/Vertical Greenery**
