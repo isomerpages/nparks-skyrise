@@ -3,7 +3,7 @@ title: How to apply
 permalink: /incentive-scheme/apply/
 description: ""
 ---
-## **Application Process**
+# **Application Process**
 
 To begin an application for SGIS, please submit your details on [**FormSG**](https://form.gov.sg/5cee3b050a5be80010bd5a73)**.**
 
@@ -14,7 +14,7 @@ There are two stages in the SGIS application process:
 *  Reimbursement stage
 
 
-### **Stage 1: Application**
+## **Stage 1: Application**
 
 After submitting your details, our Skyrise Greenery Manager will contact you to guide you on the process, including the submission of relevant application forms and supporting documents. You are required to submit your application before any site work begins.
 
@@ -40,7 +40,7 @@ Schools under the Ministry of Education (MOE) are required to inform MOE (School
 #### Alteration
 NParks’ prior approval should be sought for any changes to the submitted plant species or rooftop/vertical greenery plan as deviation from the approved plan may affect SGIS approval and subsequent reimbursement.
 
-### Stage 2: Reimbursement
+## Stage 2: Reimbursement
 Once the installation is completed, please contact your Skyrise Greenery Manager to begin the reimbursement process. NParks will arrange a site inspection to ensure that **80% greenery coverage** of the proposed plan has been achieved.
 
 **Documents Required for Reimbursement for Rooftop/Vertical Greenery**
@@ -55,4 +55,4 @@ Once the installation is completed, please contact your Skyrise Greenery Manager
 * Direct credit authorisation form or PayNow authorisation form
 * Letter of undertaking to maintain the Rooftop/Vertical Greenery for the Holding Period of a minimum of 5 years 
 
-You will receive a reimbursement letter once the reimbursement is approved. Please be reminded that the rooftop/vertical greenery must be maintained for a period of **5 years ** after completion as part of the undertaking period, failing which NParks reserve the right to recover the funds. Please seek NParks approval prior to implementing any changes to the rooftop/vertical greenery that will result in a reduction in the Total Green Area during the undertaking period. 
+You will receive a reimbursement letter once the reimbursement is approved. Please be reminded that the rooftop/vertical greenery must be maintained for a period of **5 years ** after completion as part of the undertaking period, failing which NParks reserve the right to recover the funds. Please seek NParks approval prior to implementing any changes to the rooftop/vertical greenery that will result in a reduction in the Total Green Area during the undertaking period.
