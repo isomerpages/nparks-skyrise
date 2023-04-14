@@ -3,7 +3,6 @@ title: How to apply
 permalink: /incentive-scheme/apply/
 description: ""
 ---
-       
 ## **Application Process**
 
 To begin an application for SGIS, please submit your details on [**FormSG**](https://form.gov.sg/5cee3b050a5be80010bd5a73)**.**
@@ -38,4 +37,10 @@ Schools under the Ministry of Education (MOE) are required to inform MOE (School
 * Document showing estimated cost of Rooftop/Vertical Greenery (e.g., Quotation from contractor)
 * Details of irrigation and drainage if applicable
 
+#### Alteration
+NParks’ prior approval should be sought for any changes to the submitted plant species or rooftop/vertical greenery plan as deviation from the approved plan may affect SGIS approval and subsequent reimbursement.
 
+### Stage 2: Reimbursement
+Once the installation is completed, please contact your Skyrise Greenery Manager to begin the reimbursement process. NParks will arrange a site inspection to ensure that 80% greenery coverage of the proposed plan has been achieved.
+
+Documents Required for Reimbursement for Rooftop/Vertical Greenery 
