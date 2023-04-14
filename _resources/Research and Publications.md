@@ -8,8 +8,6 @@ In association with our partners, the results of our studies are published in va
 ### Publications
 <img style="width:400px;" src="/images/Icons/guidelines%20on%20design%20for%20safety%20of%20skyrise%20greenery_icon.jpg)">
 
-<img style="width:400px;" alt="<your image description>" src="/images/<your image file name here>">
-
 <img style="width:400px;" alt="<your image description>" src="/images/<guidelines on design for safety of skyrise greenery_icon.jpg>">
 
 <img style="width:400px;" alt="<your image description>" src="/images/guidelines on design for safety of skyrise greenery_icon.jpg">
