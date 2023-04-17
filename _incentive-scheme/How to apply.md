@@ -22,6 +22,8 @@ Your proposed skyrise greenery project will be assessed for SGIS based on the pr
 
 If your application is approved, you will receive a letter of offer from NParks. This letter of offer will be valid for 12 months during which the project should be completed, with extension allowed upon request. **You may only begin installation works upon receiving the letter of offer**.
 
+![](/images/Graphics/application%20process.png)
+
 ##### *Additional steps for MOE schools*
 
 Schools under the Ministry of Education (MOE) are required to inform MOE (School Campus Division) of their proposed skyrise greenery installation. A copy of MOE SCD's written acknowledgement of the works should be submitted to NParks together with the application documents.
