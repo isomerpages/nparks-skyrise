@@ -45,6 +45,8 @@ NParks’ prior approval should be sought for any changes to the submitted plant
 ## **Stage 2: Reimbursement**
 Once the installation is completed, please contact your Skyrise Greenery Manager to begin the reimbursement process. NParks will arrange a site inspection to ensure that **80% greenery coverage** of the proposed plan has been achieved.
 
+![](/images/Graphics/reimbursement%20process.png)
+
 #### **Documents Required for Reimbursement for Rooftop/Vertical Greenery**
 
 * Completed Reimbursement Form – *Reimbursement form will be provided by NParks*
