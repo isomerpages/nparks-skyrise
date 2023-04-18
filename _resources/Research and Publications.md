@@ -29,7 +29,8 @@ In association with our partners, the results of our studies are published in va
 			<td><img style="width:200px" src="/images/Icons/a-selection-of-plants-for-green-roofs-in-singapore-2nd-edition.png"> <a href="https://botanicgardensshop.sg/collections/books/products/a-selection-of-plants-for-green-roofs-in-singapore-2nd-edition"> A Selection of Plants for Green Roofs in Singapore (2nd Edition) </a></td>
 	</tr>
 		<tr>
-		<td><img style="width:200px" src="/images/Icons/guidelines-on-design-for-safety-of-skyrise-greenery_icon.jpg"><a href="Guidelines on Design for Safety for Rooftop Greenery - This standard highlights safety considerations during the design, installation and maintenance phases. A useful reference for designers and installers of rooftop gardens. ISBN: 978-981-08-5232-0"></a></td>
+		<td><img style="width:200px" src="/images/Icons/guidelines-on-design-for-safety-of-skyrise-greenery_icon.jpg"> <b>Guidelines on Design for Safety for Rooftop Greenery</b> - This standard highlights safety considerations during the design, installation and maintenance phases. A useful reference for designers and installers of rooftop gardens.
+ISBN: 978-981-08-5232-0</td>
 			<td><img style="height:250px" src="/images/Icons/guidelines-on-design-for-safety-of-skyrise-greenery_icon.jpg"></td> 
 				</tr>
 	<tr>		
