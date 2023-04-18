@@ -18,6 +18,4 @@ In association with our partners, the results of our studies are published in va
 		<td><a href="www.google.com"> Click here to view the document</a></td>
 	</tr>
 </tbody>
-</table>	
-
-
+</table>
