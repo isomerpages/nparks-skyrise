@@ -26,13 +26,12 @@ In association with our partners, the results of our studies are published in va
 	<tbody>
 		<tr>
 		<td><img src="/images/Icons/guidelines-on-design-for-safety-of-skyrise-greenery_icon.jpg" style="width:200px"></td>
-			<td><img src="/images/Icons/guidelines-on-design-for-safety-of-skyrise-greenery_icon.jpg" style="height=200px"></td> 
+			<td><img src="/images/Icons/guidelines-on-design-for-safety-of-skyrise-greenery_icon.jpg" style="height=180px"></td> 
 			<td><img src="/images/Icons/a-selection-of-plants-for-green-roofs-in-singapore-2nd-edition.png" style="width:200px"></td>
-			<td><img src="/images/Icons/a-selection-of-plants-for-green-roofs-in-singapore-2nd-edition.png" style="width:200px"></td>	
 	</tr>
 		<tr>
 		<td><img src="/images/Icons/guidelines-on-design-for-safety-of-skyrise-greenery_icon.jpg" style="width:200px"></td>
-			<td><img src="/images/Icons/guidelines-on-design-for-safety-of-skyrise-greenery_icon.jpg" style="height:300px"></td> 
+			<td><img src="/images/Icons/guidelines-on-design-for-safety-of-skyrise-greenery_icon.jpg" style="height:180px"></td> 
 				</tr>
 	<tr>		
 		<td><a href="www.google.com"> Guidelines on Design for Safety of Skyrise Greenery</a></td>
