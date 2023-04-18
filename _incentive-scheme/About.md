@@ -8,13 +8,11 @@ The Skyrise Greenery Incentive Scheme (SGIS) provides funding of up to 50% of in
 SGIS was introduced in 2009 by NParks to increase the greenery provision in Singapore by encouraging the installation of new skyrise greenery on existing buildings. More than 200 buildings have benefited from SGIS, and projects supported include edible community rooftop gardens, recreational and therapeutic rooftop gardens, extensive green roofs, and lush verdant green walls. 
 
 
-## Objectives
-With skyrise greenery being an important strategy under Singapore’s City in Nature vision and a key pillar of Singapore Green Plan 2030, SGIS aims to achieve the following objectives:
 <ul class="jekyllcodex_accordion">
 <li>
     <input id="accordion2" type="checkbox">
-    <label for="accordion2"><font size="5">  
-    Objectives
+    <label for="accordion2"><font size="7"><b>  
+			Objectives</b>
 </font></label>
     <div>
       <p> With skyrise greenery being an important strategy under Singapore’s City in Nature vision and a key pillar of Singapore Green Plan 2030, SGIS aims to achieve the following objectives</p>
