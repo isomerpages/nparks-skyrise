@@ -38,7 +38,7 @@ description: ""
     <div>
       <p>
         This is all going
-        to become just one line even though there are <br>multiple lines <br> testing testing testing if these will become one line?
+        to become just one line even though there are <br>multiple lines 
       </p>
     </div>
   </li>
