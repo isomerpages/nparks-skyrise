@@ -10,7 +10,8 @@ description: ""
     <div>
       <p>This is a simple one line item</p>
     </div>
-	</li>  
+	</li> 
+	
   <li>
     <input id="accordion2" type="checkbox">
     <label for="accordion2">Multi-line Block</label>
@@ -20,6 +21,7 @@ description: ""
         This is line 3</p>
     </div>
   </li>
+	
   <li>
     <input id="accordion3" type="checkbox">
     <label for="accordion3">Multi-line Folded</label>
@@ -30,6 +32,7 @@ description: ""
       </p>
     </div>
   </li>
+	
   <li>
     <input id="accordion4" type="checkbox">
     <label for="accordion4">Ordered List</label>
@@ -41,6 +44,7 @@ description: ""
       </ol>
     </div>
   </li>
+	
   <li>
     <input id="accordion5" type="checkbox">
     <label for="accordion5">Unordered List</label>
@@ -52,4 +56,5 @@ description: ""
       </ul>
     </div>
   </li>
+	
 </ul>
