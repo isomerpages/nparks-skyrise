@@ -3,6 +3,16 @@ title: Accordion
 permalink: /accordion/
 description: ""
 ---
+<!--Notes for you: 
+
+1. Just make sure to copy everything between <li> and </li> for each and every accordion item
+
+ 2. For each accordion item, make sure the id is unique e.g.: accordion1, accordion2, e.t.c.
+
+3. Any content in the accordion is to be done within the <p> </p>
+
+4. To understand HTML, refer to a guide here: go.gov.sg/isomer-html-cheatsheet-->
+
 <ul class="jekyllcodex_accordion">
   <li>
     <input id="accordion1" type="checkbox">
