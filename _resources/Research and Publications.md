@@ -8,23 +8,16 @@ In association with our partners, the results of our studies are published in va
 ### Publications
 
 <table>
-	<tbody><tr>
+	<tbody>
+		<tr>
 		<td><img style="width:200px" src="/images/Icons/guidelines-on-design-for-safety-of-skyrise-greenery_icon.jpg"></td>
 		<td><a href="www.google.com"> Click here to view the document</a></td>
 	</tr>
 	<tr>
-		<td><img style="width:200px" src="/images/Icons/guidelines-on-design-for-safety-of-skyrise-greenery_icon.jpg"></td>
+		<td><img style="width:200px" src="/images/Icons/a-selection-of-plants-for-green-roofs-in-singapore-2nd-edition.png"></td>
 		<td><a href="www.google.com"> Click here to view the document</a></td>
 	</tr>
-</tbody></table>	
+</tbody>
+</table>	
 
 
-
-
-<img style="width:400px;" alt="<your image description>" src="/images/<guidelines on design for safety of skyrise greenery_icon.jpg>">
-
-<img style="width:400px;" alt="<your image description>" src="/images/guidelines on design for safety of skyrise greenery_icon.jpg">
-
-![](/images/Icons/guidelines%20on%20design%20for%20safety%20of%20skyrise%20greenery_icon.jpg)
-
-![2nd ed](/images/Icons/a%20selection%20of%20plants%20for%20green%20roofs%20in%20singapore%20(2nd%20edition).PNG)
