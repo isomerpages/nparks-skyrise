@@ -11,11 +11,35 @@ In association with our partners, the results of our studies are published in va
 	<tbody>
 		<tr>
 		<td><img style="width:200px" src="/images/Icons/guidelines-on-design-for-safety-of-skyrise-greenery_icon.jpg"></td>
-		<td><a href="www.google.com"> Click here to view the document</a></td>
+		<td><a href="https://botanicgardensshop.sg/collections/books/products/cs-e11-design-for-safety-of-skyrise-greenery"> Click here to view the document</a></td>
 	</tr>
 	<tr>
 		<td><img style="width:200px" src="/images/Icons/a-selection-of-plants-for-green-roofs-in-singapore-2nd-edition.png"></td>
 		<td><a href="www.google.com"> Click here to view the document</a></td>
 	</tr>
+</tbody>
+</table>
+
+
+
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <table><tbody><tr><td><img style="width:200px" src="/images/Icons/guidelines-on-design-for-safety-of-skyrise-greenery_icon.jpg"></td>
+
+<td><img style="width:200px" src="/images/Icons/a-selection-of-plants-for-green-roofs-in-singapore-2nd-edition.png"></td>
+
+<td><img style="width:200px" src="/images/Icons/guidelines-on-design-for-safety-of-skyrise-greenery_icon.jpg"></td></tr><tr><td><a href="https://botanicgardensshop.sg/collections/books/products/cs-e11-design-for-safety-of-skyrise-greenery"> Click here to view the document</a></td><td><a href="www.google.com"> Click here to view the document</a></td>
+							
+<td><a href="www.google.com"> Click here to view the document</a></td></tr>
+
 </tbody>
 </table>
