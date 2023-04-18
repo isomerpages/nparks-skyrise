@@ -9,3 +9,14 @@ SGIS was introduced in 2009 by NParks to increase the greenery provision in Sing
 
 ## Objectives
 With skyrise greenery being an important strategy under Singapore’s City in Nature vision and a key pillar of Singapore Green Plan 2030, SGIS aims to achieve the following objectives:
+
+<li>
+    <input id="accordion2" type="checkbox">
+    <label for="accordion2">Objectives</label>
+    <div>
+      <p>## Objectives
+With skyrise greenery being an important strategy under Singapore’s City in Nature vision and a key pillar of Singapore Green Plan 2030, SGIS aims to achieve the following objectives:This is line 1</p>
+      <p>This is line 2<br>
+        This is line 3</p>
+    </div>
+  </li>
