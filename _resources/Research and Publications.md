@@ -31,7 +31,8 @@ In association with our partners, the results of our studies are published in va
 		<tr>
 		<td><img style="width:200px" src="/images/Icons/guidelines-on-design-for-safety-of-skyrise-greenery_icon.jpg"> <b>Guidelines on Design for Safety for Rooftop Greenery</b> - This standard highlights safety considerations during the design, installation and maintenance phases. A useful reference for designers and installers of rooftop gardens.
 ISBN: 978-981-08-5232-0</td>
-			<td><img style="height:250px" src="/images/Icons/guidelines-on-design-for-safety-of-skyrise-greenery_icon.jpg"></td> 
+			<td><img style="height:250px" src="/images/Icons/guidelines-on-design-for-safety-of-skyrise-greenery_icon.jpg"><b>Guidelines on Design for Safety for Rooftop Greenery</b> - This standard highlights safety considerations during the design, installation and maintenance phases. A useful reference for designers and installers of rooftop gardens.
+ISBN: 978-981-08-5232-0</td> 
 				</tr>
 	<tr>		
 		<td><a href="www.google.com"> Guidelines on Design for Safety of Skyrise Greenery</a></td>
