@@ -19,8 +19,8 @@ SGIS was introduced in 2009 by NParks to increase the greenery provision in Sing
          </div>
   </li>
 	<li>
-    <input id="accordion2" type="checkbox">
-    <label for="accordion2">Multi-line Block</label>
+    <input id="accordion3" type="checkbox">
+    <label for="accordion3">Multi-line Block</label>
     <div>
       <p>This is line 1</p>
       <p>This is line 2<br>
