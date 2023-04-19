@@ -20,7 +20,7 @@ description: ""
 		2.	If plants are exposed to a prolonged period of drought, will they grow back subsequently?</b></font>
 </label>
     <div>
-      <p>It depends on your choice of plants, hardy and drought-tolerant plant species are more likely to survive prolonged periods of drought.</p><br>
+      <p>It depends on your choice of plants, hardy and drought-tolerant plant species are more likely to survive prolonged periods of drought.</p>
          </div>
 </li>
 	<li>
@@ -30,7 +30,7 @@ description: ""
 </b></font><font color="green">
 </font></label>
     <div>
-      <p>The average weight of green roof system ranges from 50-150 kg/m2. It is advisable to consult a certified Professional Engineer on the load bearing capacity of the roof structure, regardless of whether you are working with a new or existing building.</p><br>
+      <p>The average weight of green roof system ranges from 50-150 kg/m2. It is advisable to consult a certified Professional Engineer on the load bearing capacity of the roof structure, regardless of whether you are working with a new or existing building.</p>
          </div>
 </li>
 	<li>
