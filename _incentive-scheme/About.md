@@ -18,4 +18,13 @@ SGIS was introduced in 2009 by NParks to increase the greenery provision in Sing
       <p>With skyrise greenery being an important strategy under Singapore’s City in Nature vision and a key pillar of Singapore Green Plan 2030, SGIS aims to promote the implementation of sustainably designed and well-maintained rooftop and vertical greenery that can contribute towards Singapore’s climate, ecological and social resilience. </p>
          </div>
   </li>
+	<li>
+    <input id="accordion2" type="checkbox">
+    <label for="accordion2"><font size="7"><b><font color="green">  
+			Effective Date</font></b><font color="green">
+</font></font></label>
+    <div>
+      <p>SGIS will end on 31 March 2026, or when SGIS funds have been fully disbursed, whichever is earlier. Interested applicants are encouraged to apply for SGIS early as participation in the scheme will be on a first-come, first-served basis, and subject to availability of funds.</p>
+         </div>
+  </li>
 	</ul>
