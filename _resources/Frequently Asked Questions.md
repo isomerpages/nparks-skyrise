@@ -7,7 +7,7 @@ description: ""
 <ul class="jekyllcodex_accordion">
 <li>
     <input id="accordion1" type="checkbox">
-    <label for="accordion1"><font size="5"><b>
+    <label for="accordion1"><font size="4"><b>
 			1.	My building is not applicable under SGIS. Is it still possible for us to seek your advice?</b></font>
 </label>
     <div>
@@ -16,19 +16,19 @@ description: ""
 </li>
 <li>
     <input id="accordion2" type="checkbox">
-    <label for="accordion2"><font size="5"><b><font color="green">    
-		2.	If plants are exposed to a prolonged period of drought, will they grow back subsequently?</font></b><font color="green">
-</font></font></label>
+    <label for="accordion2"><font size="4"><b>
+		2.	If plants are exposed to a prolonged period of drought, will they grow back subsequently?</b></font>
+</label>
     <div>
       <p>It depends on your choice of plants, hardy and drought-tolerant plant species are more likely to survive prolonged periods of drought.</p><br>
          </div>
 </li>
 	<li>
     <input id="accordion3" type="checkbox">
-    <label for="accordion3"><font size="5"><b><font color="green">    
+    <label for="accordion3"><font size="4"><b>    
 		3.	What is the average weight of a green roof system?
-</font></b><font color="green">
-</font></font></label>
+</b></font><font color="green">
+</font></label>
     <div>
       <p>The average weight of green roof system ranges from 50-150 kg/m2. It is advisable to consult a certified Professional Engineer on the load bearing capacity of the roof structure, regardless of whether you are working with a new or existing building.</p><br>
          </div>
