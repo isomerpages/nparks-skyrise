@@ -151,7 +151,7 @@ Please refer to  <a href="https://www.skyrisegreenery.nparks.gov.sg/incentive-sc
 </b></font>
 </label>
     <div>
-      <p>The cash incentive covers up to 50% of the Skyrise Greenery installation costs or a maximum of $200 per metre square for rooftop greenery and a maximum of $500 per metre square for vertical greenery, <b>whichever is lower.</b> 
+      <p>The cash incentive covers up to 50% of the Skyrise Greenery installation costs or a maximum of $200 per metre square for rooftop greenery and a maximum of $500 per metre square for vertical greenery, whichever is lower.
 </p>
          </div>
 </li>
