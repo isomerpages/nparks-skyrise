@@ -5,11 +5,11 @@ description: ""
 ---
 The Skyrise Greenery Incentive Scheme (SGIS) provides funding of up to 50% of installation costs for rooftop greenery and vertical greenery projects on existing buildings, with a cap of $200 per square metre for rooftop greenery and $500 per square metre for vertical greenery. Projects will be assessed for SGIS based on the project’s merits and ability to contribute towards climate, ecological and social resilience goals.
 
-SGIS was introduced in 2009 by NParks to increase the greenery provision in Singapore by encouraging the installation of new skyrise greenery on existing buildings. More than 200 buildings have benefited from SGIS, and projects supported include edible community rooftop gardens, recreational and therapeutic rooftop gardens, extensive green roofs, and lush verdant green walls. <p>
+SGIS was introduced in 2009 by NParks to increase the greenery provision in Singapore by encouraging the installation of new skyrise greenery on existing buildings. More than 200 buildings have benefited from SGIS, and projects supported include edible community rooftop gardens, recreational and therapeutic rooftop gardens, extensive green roofs, and lush verdant green walls. 
 
 
 
-</p><ul class="jekyllcodex_accordion">
+<ul class="jekyllcodex_accordion">
 <li>
     <input id="accordion1" type="checkbox">
     <label for="accordion1"><font size="6"><b><font color="green">    
