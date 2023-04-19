@@ -158,22 +158,32 @@ Please refer to here for more details on eligibility.
 	<li>
     <input id="accordion7" type="checkbox">
     <label for="accordion7"><font size="4"><b>    
-7.	Is rooftop greenery expensive to maintain?
+7.	Is it necessary to wait for NParks’ approval before proceeding with the installation?
 </b></font>
 </label>
     <div>
-      <p>Correct installation of a green roof will not have any adverse effect on the waterproofing. The additional layers of a green roof can protect the roofing membrane from UV rays, extreme temperature fluctuations and puncture. The reduced stress can double the serviceable life of the waterproofing.
+      <p> 
 </p>
          </div>
 </li>
 	<li>
     <input id="accordion8" type="checkbox">
     <label for="accordion8"><font size="4"><b>    
-8.	How can I post pictures under the ‘projects’ page and/or be listed as a contractor under the 'resources' page?
+8.	How long will it take for the cash incentive to be disbursed?
 </b></font>
 </label>
     <div>
-      <p> Please let us know by clicking <a href="https://form.gov.sg/5febdf5027a5850012d2848c">here to fill up a query form.</a> 
+      <p> Processing takes about eight weeks upon inspection of completed works and submission of approved invoice.
+</p>
+         </div>
+</li>	<li>
+    <input id="accordion9" type="checkbox">
+    <label for="accordion9"><font size="4"><b>    
+9.	Why is it necessary to have the five year maintenance contract or assurance?
+</b></font>
+</label>
+    <div>
+      <p> The purpose of SGIS is to encourage public-private partnership in environmental sustainability and the five years of maintenance contract is to ensure its usefulness.
 </p>
          </div>
 </li></ul>
