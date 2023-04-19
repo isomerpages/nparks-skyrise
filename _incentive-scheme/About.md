@@ -59,7 +59,7 @@ The proposed skyrise greenery project should:<br>
 			Funding Support </font></b><font color="green">
 </font></font></label>
     <div>
-      <p>There are two categories to consider when applying for SGIS – Rooftop Greenery and Vertical Greenery. SGIS works on a co-funding basis with funding provided through reimbursement. Successful applicants may receive funding of up to 50% of the installation costs for Rooftop Greenery and/or Vertical Greenery, subject to the following cap:<br>
+      <p>There are two categories to consider when applying for SGIS – Rooftop Greenery and Vertical Greenery. SGIS works on a co-funding basis with funding provided through reimbursement. Successful applicants may receive funding of up to 50% of the installation costs for Rooftop Greenery and/or Vertical Greenery, subject to the following cap:</p><p>
 •	<b>Rooftop Greenery	</b> – reimbursement is capped at $200 per square metre of planted area within the green roof<br>
 •		<b>Vertical Greenery 	</b>– reimbursement is capped at $500 per square metre of green coverage within the vertical greenery installation
 <br>
@@ -75,8 +75,15 @@ The proposed skyrise greenery project should:<br>
 •	Drainage material – geotextile membrane, water retention tray, drainage cells, etc.<br>
 •	Consultancy fees, Professional Engineer (PE) costs, submission to authorities – where required and specific to the rooftop/vertical greenery<br>
 •	Other items that support the growth of the plants under a natural lighting condition<br>
-
 </p>
-         </div>
-  </li>
-	</ul>
+			SGIS <b>does not</b> support the following cost items:<br>
+•	Maintenance costs <br>
+•	Lighting (including growth lights)<br>
+•	Artificial plants and turf<br>
+•	Hardscape elements such as benches, decking, footpath, feature walls, etc<br>
+•	Signages<br>
+•	Goods and Services Tax (GST) <br>
+•	Movable pots  <p>
+The grant will be disbursed after the completion of works and the submission of the completed reimbursement form with supporting documents. </p><p>
+         </p></div>
+	</li></ul>
