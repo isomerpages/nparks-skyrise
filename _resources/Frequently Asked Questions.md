@@ -102,8 +102,8 @@ description: ""
          </div>
 </li>
 <li>
-    <input id="accordion2" type="checkbox">
-    <label for="accordion2"><font size="4"><b>
+    <input id="accordion12" type="checkbox">
+    <label for="accordion12"><font size="4"><b>
 		2.	Will maintenance costs be funded under SGIS?</b></font>
 </label>
     <div>
@@ -111,8 +111,8 @@ description: ""
          </div>
 </li>
 	<li>
-    <input id="accordion3" type="checkbox">
-    <label for="accordion3"><font size="4"><b>    
+    <input id="accordion13" type="checkbox">
+    <label for="accordion13"><font size="4"><b>    
 		3.	Is the scheme applicable for indoor vertical greenery?
 </b></font><font color="green">
 </font></label>
@@ -121,8 +121,8 @@ description: ""
          </div>
 </li>
 	<li>
-    <input id="accordion4" type="checkbox">
-    <label for="accordion4"><font size="4"><b>    
+    <input id="accordion14" type="checkbox">
+    <label for="accordion14"><font size="4"><b>    
 4.	Can my contractor apply for this scheme on the building owner’s behalf?
 </b></font><font color="green">
 </font></label>
@@ -132,8 +132,8 @@ description: ""
          </div>
 </li>
 		<li>
-    <input id="accordion5" type="checkbox">
-    <label for="accordion5"><font size="4"><b>    
+    <input id="accordion15" type="checkbox">
+    <label for="accordion15"><font size="4"><b>    
 5.	Who is eligible for the Skyrise Greenery Incentive Scheme?
 </b></font>
 </label>
@@ -145,8 +145,8 @@ Please refer to here for more details on eligibility.
          </div>
 </li>
 	<li>
-    <input id="accordion6" type="checkbox">
-    <label for="accordion6"><font size="4"><b>    
+    <input id="accordion16" type="checkbox">
+    <label for="accordion16"><font size="4"><b>    
 6.	How much is the incentive payout amount
 </b></font>
 </label>
@@ -156,8 +156,8 @@ Please refer to here for more details on eligibility.
          </div>
 </li>
 	<li>
-    <input id="accordion7" type="checkbox">
-    <label for="accordion7"><font size="4"><b>    
+    <input id="accordion17" type="checkbox">
+    <label for="accordion17"><font size="4"><b>    
 7.	Is it necessary to wait for NParks’ approval before proceeding with the installation?
 </b></font>
 </label>
@@ -167,8 +167,8 @@ Please refer to here for more details on eligibility.
          </div>
 </li>
 	<li>
-    <input id="accordion8" type="checkbox">
-    <label for="accordion8"><font size="4"><b>    
+    <input id="accordion18" type="checkbox">
+    <label for="accordion18"><font size="4"><b>    
 8.	How long will it take for the cash incentive to be disbursed?
 </b></font>
 </label>
@@ -177,8 +177,8 @@ Please refer to here for more details on eligibility.
 </p>
          </div>
 </li>	<li>
-    <input id="accordion9" type="checkbox">
-    <label for="accordion9"><font size="4"><b>    
+    <input id="accordion19" type="checkbox">
+    <label for="accordion19"><font size="4"><b>    
 9.	Why is it necessary to have the five year maintenance contract or assurance?
 </b></font>
 </label>
