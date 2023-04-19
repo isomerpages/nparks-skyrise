@@ -150,7 +150,7 @@ If you are considering installing irrigation for your green roof, drip-irrigatio
 </b></font>
 </label>
     <div>
-      <p>Correct installation of a green roof will not have any adverse effect on the waterproofing. The additional layers of a green roof can protect the roofing membrane from UV rays, extreme temperature fluctuations and puncture. The reduced stress can double the serviceable life of the waterproofing.
+      <p>Correct installation of a green roof will not have any adverse effect on the waterproofing. In fact, the additional layers of a green roof can protect the roofing membrane from UV rays, extreme temperature fluctuations and rain. This reduced stress can double the serviceable life of the waterproofing.
 </p>
          </div>
 </li>
@@ -172,7 +172,7 @@ If you are considering installing irrigation for your green roof, drip-irrigatio
 </b></font>
 </label>
     <div>
-      <p> Please let us know by filling up the query form here.
+      <p> Please let us know by clicking <a href="https://form.gov.sg/5febdf5027a5850012d2848c">here to fill up a query form.</a> 
 </p>
          </div>
 </li></ul>
