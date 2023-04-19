@@ -54,17 +54,28 @@ The proposed skyrise greenery project should:<br>
          </div>
   </li>
 		<li>
-    <input id="accordion3" type="checkbox">
-    <label for="accordion3"><font size="6"><b><font color="green">
-			Eligibility </font></b><font color="green">
+    <input id="accordion4" type="checkbox">
+    <label for="accordion4"><font size="6"><b><font color="green">
+			Funding Support </font></b><font color="green">
 </font></font></label>
     <div>
-      <p>SGIS supports new rooftop greenery and vertical greenery installations in the following development types:<br>
-•	Institution and community building (school, hospital, place of worship, community centre, public building etc.) <br>
-•	Commercial development<br>
-•	Industrial development<br>
-•	Non-landed residential development (only for common area) <br>
-•	Mixed used development<br>
+      <p>There are two categories to consider when applying for SGIS – Rooftop Greenery and Vertical Greenery. SGIS works on a co-funding basis with funding provided through reimbursement. Successful applicants may receive funding of up to 50% of the installation costs for Rooftop Greenery and/or Vertical Greenery, subject to the following cap:<br>
+•	<b>Rooftop Greenery	</b> – reimbursement is capped at $200 per square metre of planted area within the green roof<br>
+•		<b>Vertical Greenery 	</b>– reimbursement is capped at $500 per square metre of green coverage within the vertical greenery installation
+<br>
+				</p><p>Both intensive and extensive rooftop greenery, as well as all types of vertical greenery are funded under the scheme. Learn more about the various forms of rooftop greenery and vertical greenery.</p>
+<p>SGIS supports the following cost items:<br>
+•	Installation costs for rooftop greenery and vertical greenery<br>
+•	Green roof and vertical greenery systems <br>
+•	Items which support rooftop greenery works – root barriers, waterproofing etc.<br>
+•	Items which support vertical greenery works – felt/fabric liner, waterproofing, supporting standalone structure for vertical greenery systems, etc.<br>
+•	Plant materials<br>
+•	Plant media<br>
+•	Irrigation system<br>
+•	Drainage material – geotextile membrane, water retention tray, drainage cells, etc.<br>
+•	Consultancy fees, Professional Engineer (PE) costs, submission to authorities – where required and specific to the rooftop/vertical greenery<br>
+•	Other items that support the growth of the plants under a natural lighting condition<br>
+
 </p>
          </div>
   </li>
