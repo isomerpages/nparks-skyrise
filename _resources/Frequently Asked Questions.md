@@ -80,7 +80,7 @@ description: ""
 	<li>
     <input id="accordion8" type="checkbox">
     <label for="accordion8"><font size="4"><b>    
-8.	How can I post pictures under the ‘projects’ page and/or be listed as a contractor under the 'resources' page?
+8.	How can I showcase my projects and/or be listed as a contractor under the 'Resources' page?
 </b></font>
 </label>
     <div>
