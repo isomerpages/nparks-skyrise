@@ -11,7 +11,7 @@ SGIS was introduced in 2009 by NParks to increase the greenery provision in Sing
 <ul class="jekyllcodex_accordion">
 <li>
     <input id="accordion2" type="checkbox">
-    <label for="accordion2"><font size="7"><b><font color="green">  
+    <label for="accordion2"><font size="7"><b><font color="green"><br>    
 			Objectives</font></b><font color="green">
 </font></font></label>
     <div>
@@ -20,7 +20,7 @@ SGIS was introduced in 2009 by NParks to increase the greenery provision in Sing
   </li>
 	<li>
     <input id="accordion2" type="checkbox">
-    <label for="accordion2"><font size="7"><b><font color="green">  
+    <label for="accordion2"><font size="7"><b><font color="green"><br>    
 			Effective Date</font></b><font color="green">
 </font></font></label>
     <div>
@@ -29,7 +29,7 @@ SGIS was introduced in 2009 by NParks to increase the greenery provision in Sing
   </li>
 		<li>
     <input id="accordion2" type="checkbox">
-    <label for="accordion2"><font size="7"><b><font color="green">  
+    <label for="accordion2"><font size="7"><b><font color="green"><br>  
 			Eligibility </font></b><font color="green">
 </font></font></label>
     <div>
