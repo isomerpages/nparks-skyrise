@@ -46,4 +46,15 @@ If you are considering installing irrigation for your green roof, drip-irrigatio
 </p><br>
          </div>
 </li>
+		<li>
+    <input id="accordion4" type="checkbox">
+    <label for="accordion4"><font size="4"><b>    
+5.	What is the lifespan of green roof?
+</b></font><font color="green">
+</font></label>
+    <div>
+      <p>The lifespan of a green roof is about 20 years. It can last longer when well maintained. The conventional exposed roofs need maintenance every five to ten years.
+</p><br>
+         </div>
+</li>
 </ul>
