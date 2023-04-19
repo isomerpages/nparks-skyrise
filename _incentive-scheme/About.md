@@ -13,18 +13,9 @@ SGIS was introduced in 2009 by NParks to increase the greenery provision in Sing
     <input id="accordion2" type="checkbox">
     <label for="accordion2"><font size="7"><b><font color="green">  
 			Objectives</font></b><font color="green">
-</font></font></label><font size="7">
+</font></font></label>
     <div>
       <p>With skyrise greenery being an important strategy under Singapore’s City in Nature vision and a key pillar of Singapore Green Plan 2030, SGIS aims to promote the implementation of sustainably designed and well-maintained rooftop and vertical greenery that can contribute towards Singapore’s climate, ecological and social resilience. </p>
          </div>
-  </font></li><font size="7">
-	<li>
-    <input id="accordion3" type="checkbox">
-    <label for="accordion3">Multi-line Block</label>
-    <div>
-      <p>This is line 1</p>
-      <p>This is line 2<br>
-        This is line 3</p>
-    </div>
   </li>
-	</font></ul>
+	</ul>
