@@ -15,8 +15,8 @@ In association with our partners, the results of our studies are published in va
 	</tr>
 		<tr>
 		<td><img style="width:200px" src="/images/Icons/design-and-construction-of-pitched-green-roof.PNG"> <b>Guidelines on Design and Construction of Pitched Green Roof</b> </td>
-			<td><img style="width:200px" src="/images/Icons/design-and-construction-of-pitched-green-roof.PNG"> <b>Guidelines on Design and Construction of Pitched Green Roof<!--
-				</tr-->
+			<td><img style="width:200px" src="/images/Icons/design-loads-for-skyrise-greenery.PNG"> <b>Guidelines on Design Loads for Rooftop Greenery
 	</b></td></tr><tr>		
-		<td><a href="www.google.com"> Guidelines on Design for Safety of Skyrise Greenery</a></td>
+		<td> <img style="width:200px" src="/images/Icons/design-loads-for-skyrise-greenery.PNG"> <b>Guidelines on Design Loads for Rooftop Greenery
+	</b></td>
 	<td></td></tr></tbody></table>
