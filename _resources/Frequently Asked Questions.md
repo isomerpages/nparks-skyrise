@@ -73,7 +73,7 @@ description: ""
 </b></font>
 </label>
     <div>
-      <p>Correct installation of a green roof will not have any adverse effect on the waterproofing. The additional layers of a green roof can protect the roofing membrane from UV rays, extreme temperature fluctuations and puncture. The reduced stress can double the serviceable life of the waterproofing.
+      <p>Maintenance costs will vary depending on the nature, scale and design of the project. You can work with your contractor to design a solution to fit within your budget. To minimise cost, consider a sustainable green roof where plants are allowed to flourish together as nature intends. Such naturalistic landscape design requires less maintenance and is a great choice to achieve biodiversity, and an environmentally friendly rooftop greenery.
 </p>
          </div>
 </li>
@@ -84,7 +84,7 @@ description: ""
 </b></font>
 </label>
     <div>
-      <p> Please let us know by filling up the query form here.
+      <p> Please let us know by clicking <a href="https://form.gov.sg/5febdf5027a5850012d2848c">here to fill up a query form.</a> 
 </p>
          </div>
 </li></ul>
@@ -94,63 +94,64 @@ description: ""
 <li>
     <input id="accordion1" type="checkbox">
     <label for="accordion1"><font size="4"><b>
-			1.	My building is not applicable under SGIS. Is it still possible for us to seek your advice?</b></font>
+			1.	How do I apply for the Skyrise Greenery Incentive Scheme?</b></font>
 </label>
     <div>
-      <p>Yes. We provide free consultancy services regarding the Skyrise Greenery systems available in the market and suitable plant selection. We also provide advice on certain issues in pre- and post-installation matters based on experiences gathered from other completed projects of similar nature.</p>
+      <p>Thank you for your interest in - please fill up the <a href="https://form.gov.sg/5febdf5027a5850012d2848c">query form</a> 
+ and we will get back to you. </p>
          </div>
 </li>
 <li>
     <input id="accordion2" type="checkbox">
     <label for="accordion2"><font size="4"><b>
-		2.	If plants are exposed to a prolonged period of drought, will they grow back subsequently?</b></font>
+		2.	Will maintenance costs be funded under SGIS?</b></font>
 </label>
     <div>
-      <p>It depends on your choice of plants, hardy and drought-tolerant plant species are more likely to survive prolonged periods of drought.</p><br>
+      <p>No, maintenance costs will not be fundable.</p><br>
          </div>
 </li>
 	<li>
     <input id="accordion3" type="checkbox">
     <label for="accordion3"><font size="4"><b>    
-		3.	What is the average weight of a green roof system?
+		3.	Is the scheme applicable for indoor vertical greenery?
 </b></font><font color="green">
 </font></label>
     <div>
-      <p>The average weight of green roof system ranges from 50-150 kg/m2. It is advisable to consult a certified Professional Engineer on the load bearing capacity of the roof structure, regardless of whether you are working with a new or existing building.</p><br>
+      <p>No. If you are unsure, please feel free to clarify with us by filling up the <a href="https://form.gov.sg/5febdf5027a5850012d2848c">query form here</a></p><br>
          </div>
 </li>
 	<li>
     <input id="accordion4" type="checkbox">
     <label for="accordion4"><font size="4"><b>    
-4.	Is an irrigation system required?
+4.	Can my contractor apply for this scheme on the building owner’s behalf?
 </b></font><font color="green">
 </font></label>
     <div>
-      <p>Green roofs are intended to be non-irrigated. Usually, the drainage layer comes incorporated with an integrated water reservoir. However, green roofs with integrated irrigation are not uncommon.
-
-If you are considering installing irrigation for your green roof, drip-irrigation is the preferred choice. Sub-surface drip irrigation optimizes the use of water by directly dampening the substrate.
+      <p>Yes, the contractor can submit the application form on behalf of the building owner. Please note that the applicant is still the building owner, who will have to sign off on the application forms. 
 </p><br>
          </div>
 </li>
 		<li>
     <input id="accordion5" type="checkbox">
     <label for="accordion5"><font size="4"><b>    
-5.	What is the lifespan of green roof?
+5.	Who is eligible for the Skyrise Greenery Incentive Scheme?
 </b></font>
 </label>
     <div>
-      <p>The lifespan of a green roof is about 20 years. It can last longer when well maintained. The conventional exposed roofs need maintenance every five to ten years.
+      <p>SGIS is applicable to developers and owners of existing buildings throughout Singapore 
+Please refer to here for more details on eligibility.
+
 </p>
          </div>
 </li>
 	<li>
     <input id="accordion6" type="checkbox">
     <label for="accordion6"><font size="4"><b>    
-6.	Will a green roof affect my waterproofing?
+6.	How much is the incentive payout amount
 </b></font>
 </label>
     <div>
-      <p>Correct installation of a green roof will not have any adverse effect on the waterproofing. In fact, the additional layers of a green roof can protect the roofing membrane from UV rays, extreme temperature fluctuations and rain. This reduced stress can double the serviceable life of the waterproofing.
+      <p>The cash incentive covers up to 50% of the Skyrise Greenery installation costs or a maximum of $200 per metre square for rooftop greenery and a maximum of $500 per metre square for vertical greenery, <b>whichever is lower.</b> 
 </p>
          </div>
 </li>
