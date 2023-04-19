@@ -40,10 +40,8 @@ description: ""
 </b></font><font color="green">
 </font></label>
     <div>
-      <p>Green roofs are intended to be non-irrigated. Usually, the drainage layer comes incorporated with an integrated water reservoir. However, green roofs with integrated irrigation are not uncommon.
-
-If you are considering installing irrigation for your green roof, drip-irrigation is the preferred choice. Sub-surface drip irrigation optimizes the use of water by directly dampening the substrate.
-</p><br>
+      <p>An irrigation system is generally required for most green wall systems and intensive roof gardens to ensure the healthy growth of plants. </p><p>Extensive green roofs may be designed to be self-sustaining without irrigation through the use of integrated water reservoirs in the drainage layer and the selection of drought tolerant plants. However, green roofs with integrated irrigation are not uncommon. If you are considering installing irrigation for your skyrise greenery, sub-surface drip-irrigation system is the preferred choice as it optimizes the use of water by directly dampening the substrate.
+</p>
          </div>
 </li>
 		<li>
