@@ -15,7 +15,7 @@ SGIS was introduced in 2009 by NParks to increase the greenery provision in Sing
 			Objectives</font></b><font color="green">
 </font></font></label>
     <div>
-      <p>With skyrise greenery being an important strategy under Singapore’s City in Nature vision and a key pillar of Singapore Green Plan 2030, SGIS aims to promote the implementation of sustainably designed and well-maintained rooftop and vertical greenery that can contribute towards Singapore’s climate, ecological and social resilience. </p>
+      <p>With skyrise greenery being an important strategy under Singapore’s City in Nature vision and a key pillar of Singapore Green Plan 2030, SGIS aims to promote the implementation of sustainably designed and well-maintained rooftop and vertical greenery that can contribute towards Singapore’s climate, ecological and social resilience. </p><br>
          </div>
   </li>
 	<li>
@@ -24,7 +24,7 @@ SGIS was introduced in 2009 by NParks to increase the greenery provision in Sing
 			Effective Date</font></b><font color="green">
 </font></font></label>
     <div>
-      <p>SGIS will end on 31 March 2026, or when SGIS funds have been fully disbursed, whichever is earlier. Interested applicants are encouraged to apply for SGIS early as participation in the scheme will be on a first-come, first-served basis, and subject to availability of funds.</p>
+      <p>SGIS will end on 31 March 2026, or when SGIS funds have been fully disbursed, whichever is earlier. Interested applicants are encouraged to apply for SGIS early as participation in the scheme will be on a first-come, first-served basis, and subject to availability of funds.</p><br>
          </div>
   </li>
 		<li>
@@ -33,24 +33,23 @@ SGIS was introduced in 2009 by NParks to increase the greenery provision in Sing
 			Eligibility </font></b><font color="green">
 </font></font></label>
     <div>
-      <p>SGIS supports new rooftop greenery and vertical greenery installations in the following development types:<br>
-•	Institution and community building (school, hospital, place of worship, community centre, public building etc.) <br>
+      <p><b>SGIS supports new rooftop greenery and vertical greenery installations in the following development types:<br></b>
+• 	Institution and community building (school, hospital, place of worship, community centre, public building etc.) <br>
 •	Commercial development<br>
 •	Industrial development<br>
 •	Non-landed residential development (only for common area) <br>
-•	Mixed used development<br>
-				The building must be:<br>
+•	Mixed used development<br><br>
+				<b>The building must be:<br></b>
 •	Physically existing and occupied at the time of application, or<br>
-•	Undergoing Additions &amp; Alterations (A&amp;A) works<br>
-The applicant:<br>
+•	Undergoing Additions &amp; Alterations (A&amp;A) works<br><br>
+<b>The applicant:<br></b>
 •	Must be an owner or a tenant of the premise, and<br>
 •	Must not receive any other grant for the proposed rooftop and/or vertical greenery installations<br>
 The proposed skyrise greenery project should:<br>
 •	Contribute towards climate, ecological and/or social resilience in Singapore<br>
 •	Not be indoors or in an enclosed area <br>
 •	Not be used for the cultivation of food crops or other plants for profit<br>
-•	Not be in a premise which primarily retails and/or promotes products related to greenery, plant, flora and gardening related products, and which may be seen as commercial advertising by the applicant for its products<br>
-
+•	Not be in a premise which primarily retails and/or promotes products related to greenery, plant, flora and gardening related products, and which may be seen as commercial advertising by the applicant for its products<br><br>
 </p>
          </div>
   </li>
