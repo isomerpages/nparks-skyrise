@@ -27,4 +27,19 @@ SGIS was introduced in 2009 by NParks to increase the greenery provision in Sing
       <p>SGIS will end on 31 March 2026, or when SGIS funds have been fully disbursed, whichever is earlier. Interested applicants are encouraged to apply for SGIS early as participation in the scheme will be on a first-come, first-served basis, and subject to availability of funds.</p>
          </div>
   </li>
+		<li>
+    <input id="accordion2" type="checkbox">
+    <label for="accordion2"><font size="7"><b><font color="green">  
+			Eligibility </font></b><font color="green">
+</font></font></label>
+    <div>
+      <p>SGIS supports new rooftop greenery and vertical greenery installations in the following development types:<br>
+•	Institution and community building (school, hospital, place of worship, community centre, public building etc.) <br>
+•	Commercial development<br>
+•	Industrial development<br>
+•	Non-landed residential development (only for common area) <br>
+•	Mixed used development<br>
+</p>
+         </div>
+  </li>
 	</ul>
