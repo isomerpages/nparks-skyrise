@@ -17,8 +17,8 @@ SGIS was introduced in 2009 by NParks to increase the greenery provision in Sing
     <div>
       <p>With skyrise greenery being an important strategy under Singapore’s City in Nature vision and a key pillar of Singapore Green Plan 2030, SGIS aims to promote the implementation of sustainably designed and well-maintained rooftop and vertical greenery that can contribute towards Singapore’s climate, ecological and social resilience. </p><br>
          </div>
-  </li>
-	<li>
+</li>
+<li>
     <input id="accordion2" type="checkbox">
     <label for="accordion2"><font size="6"><b><font color="green">   
 			Effective Date</font></b><font color="green">
@@ -26,8 +26,8 @@ SGIS was introduced in 2009 by NParks to increase the greenery provision in Sing
     <div>
       <p>SGIS will end on 31 March 2026, or when SGIS funds have been fully disbursed, whichever is earlier. Interested applicants are encouraged to apply for SGIS early as participation in the scheme will be on a first-come, first-served basis, and subject to availability of funds.</p><br>
          </div>
-  </li>
-		<li>
+ </li>
+<li>
     <input id="accordion3" type="checkbox">
     <label for="accordion3"><font size="6"><b><font color="green">
 			Eligibility </font></b><font color="green">
@@ -52,8 +52,8 @@ The proposed skyrise greenery project should:<br>
 •	Not be in a premise which primarily retails and/or promotes products related to greenery, plant, flora and gardening related products, and which may be seen as commercial advertising by the applicant for its products<br><br>
 </p>
          </div>
-  </li>
-		<li>
+</li>
+<li>
     <input id="accordion4" type="checkbox">
     <label for="accordion4"><font size="6"><b><font color="green">
 			Funding Support </font></b><font color="green">
@@ -86,4 +86,21 @@ The proposed skyrise greenery project should:<br>
 •	Movable pots  <p>
 The grant will be disbursed after the completion of works and the submission of the completed reimbursement form with supporting documents. </p><p>
          </p></div>
-	</li></ul>
+</li>
+<li>
+    <input id="accordion5" type="checkbox">
+    <label for="accordion5"><font size="6"><b><font color="green">    
+      Requirements</font></b><font color="green">
+</font></font></label>
+    <div>
+      <p>Rooftop greenery and vertical greenery installed under SGIS are required to meet the following performance requirements: </p><p>
+•	Contribute towards climate, ecological and/or social resilience<br>
+•	Designed to be safe, including taking into consideration wind/structural loading issues on elevated levels<br>
+•	Designed to be maintainable with appropriate maintenance access<br>
+•	Well designed, lushly landscaped, and integrated with the overall form and architectural treatment of the building<br>
+•	Retained as a permanent installation </p><p>
+			The green roof or vertical greenery must be maintained for a <b>minimum of 5 years after its completion (undertaking period)</b>. The reimbursement will be recovered on a pro-rated basis, over 5 years, should the rooftop greenery/ vertical greenery installation be removed. In the event of a change in building ownership, the existing building owner must transfer the responsibilities assumed in association with the Schemes to the new building owner as part of the terms and conditions. NParks’ approval is required for any changes to the rooftop greenery or vertical greenery that will result in a reduction in the Total Green Area during the undertaking period. 
+</p><br>
+         </div>
+  </li>
+</ul>
