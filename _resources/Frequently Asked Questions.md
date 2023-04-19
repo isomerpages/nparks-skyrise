@@ -50,8 +50,8 @@ If you are considering installing irrigation for your green roof, drip-irrigatio
     <input id="accordion5" type="checkbox">
     <label for="accordion5"><font size="4"><b>    
 5.	What is the lifespan of green roof?
-</b></font><font color="green">
-</font></label>
+</b></font>
+</label>
     <div>
       <p>The lifespan of a green roof is about 20 years. It can last longer when well maintained. The conventional exposed roofs need maintenance every five to ten years.
 </p>
@@ -61,8 +61,19 @@ If you are considering installing irrigation for your green roof, drip-irrigatio
     <input id="accordion6" type="checkbox">
     <label for="accordion6"><font size="4"><b>    
 6.	Will a green roof affect my waterproofing?
-</b></font><font color="green">
-</font></label>
+</b></font>
+</label>
+    <div>
+      <p>Correct installation of a green roof will not have any adverse effect on the waterproofing. The additional layers of a green roof can protect the roofing membrane from UV rays, extreme temperature fluctuations and puncture. The reduced stress can double the serviceable life of the waterproofing.
+</p>
+         </div>
+</li>
+	<li>
+    <input id="accordion7" type="checkbox">
+    <label for="accordion7"><font size="4"><b>    
+6.	Will a green roof affect my waterproofing?
+</b></font>
+</label>
     <div>
       <p>Correct installation of a green roof will not have any adverse effect on the waterproofing. The additional layers of a green roof can protect the roofing membrane from UV rays, extreme temperature fluctuations and puncture. The reduced stress can double the serviceable life of the waterproofing.
 </p>
