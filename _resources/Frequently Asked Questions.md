@@ -71,7 +71,7 @@ If you are considering installing irrigation for your green roof, drip-irrigatio
 	<li>
     <input id="accordion7" type="checkbox">
     <label for="accordion7"><font size="4"><b>    
-6.	Will a green roof affect my waterproofing?
+7.	Is rooftop greenery expensive to maintain?
 </b></font>
 </label>
     <div>
@@ -79,4 +79,14 @@ If you are considering installing irrigation for your green roof, drip-irrigatio
 </p>
          </div>
 </li>
-</ul>
+	<li>
+    <input id="accordion8" type="checkbox">
+    <label for="accordion8"><font size="4"><b>    
+8.	How can I post pictures under the ‘projects’ page and/or be listed as a contractor under the 'resources' page?
+</b></font>
+</label>
+    <div>
+      <p> Please let us know by filling up the query form here.
+</p>
+         </div>
+</li></ul>
