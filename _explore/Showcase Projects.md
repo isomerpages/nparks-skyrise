@@ -9,7 +9,7 @@ description: ""
 
 Check out our e-booklet on skyrise greenery projects by landscape designers!
 
-*If you would like to feature your projects on our newsletter, do feel free to drop us an email at* skyrisegreenery@nparks.gov.sg.
+*If you would like to feature your projects on our newsletter, please let us know by*   <i><a href="https://form.gov.sg/5febdf5027a5850012d2848c">filling up this query form.</a></i>
 
 ### 3rd Edition 
 
