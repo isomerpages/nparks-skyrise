@@ -17,8 +17,8 @@ In association with our partners, the results of our studies are published in va
 		<td><img style="width:200px" src="/images/Icons/design-and-construction-of-pitched-green-roof.PNG"> <b>Guidelines on Design and Construction of Pitched Green Roof</b> </td>
 			<td><img style="width:200px" src="/images/Icons/design-loads-for-skyrise-greenery.PNG"> <b>Guidelines on Design Loads for Rooftop Greenery
 	</b></td></tr><tr>		
-		<td> <img style="width:200px" src="/images/Icons/filter-drainage-root-penetration-barrier-layers-rooftop-greenery.PNG"> <b>Guidelines on Filter, Drainage and Root Penetration Barrier Layers For Rooftop Greenery
+		<td> <img style="width:200px" src="/images/Icons/irrigation-for-rooftop-greenery.PNG"> <b>Guidelines on Irrigation For Rooftop Greenery
 	</b></td>
-		<td> <img style="width:200px" src="/images/Icons/general-maintenance-for-rooftop-greenery.PNG"> <b>Guidelines on General Maintenance For Rooftop Greenery
+		<td> <img style="width:200px" src="/images/Icons/substrate-layer-for-rooftop-greenery.PNG"> <b>Guidelines on Substrate Layer for Rooftop Greenery
 	</b></td>
 	<td></td></tr></tbody></table>
