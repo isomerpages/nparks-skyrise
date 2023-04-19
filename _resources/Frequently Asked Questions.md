@@ -162,7 +162,7 @@ Please refer to  <a href="https://www.skyrisegreenery.nparks.gov.sg/incentive-sc
 </b></font>
 </label>
     <div>
-      <p> 
+      <p> Yes, Your proposed skyrise greenery project will be assessed for SGIS based on the project’s merits. NParks will provide the necessary advice on your proposal if required. Upon approval of your application, you will receive a letter of offer from NParks, following which, installation works may begin.
 </p>
          </div>
 </li>
