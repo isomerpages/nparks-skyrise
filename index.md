@@ -8,7 +8,7 @@ notification: NParks will never send an SMS to request for payment/money
   transfers or links to ask for users' login credentials/passwords
 sections:
   - hero:
-      background: /images/test.jpg
+      background: /images/Skyrise Greenery/hortpark-roof.png
       title: Gardens in the Sky
       subtitle: Where greenery is integrated into urbanscapes
   - infopic:
