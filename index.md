@@ -10,6 +10,7 @@ sections:
   - hero:
       title: Gardens in the Sky
       subtitle: Where greenery is integrated into urbanscapes
+      background: /images/Skyrise Greenery/green-wall-dao.jpg
   - infopic:
       title: " What is Skyrise Greenery?"
       button: Learn more
