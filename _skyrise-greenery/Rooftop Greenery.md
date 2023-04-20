@@ -40,7 +40,6 @@ There are five basic components to a green roof system:
 *   Protection membrane and root barrier layer
 
 ![](/images/Graphics/green-roof-cross-section.png)
-<img style="width:800px" src="/images/Graphics/green-roof-cross-section.png">
 
 Though there are different systems and technology used in the industry, all of them are based on the same component principles. These systems are designed differently in order to meet various site conditions and needs.
 
