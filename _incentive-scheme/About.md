@@ -52,7 +52,6 @@ SGIS was introduced in 2009 by NParks to increase the greenery provision in Sing
 The proposed skyrise greenery project should:<br>
 •	Contribute towards climate, ecological and/or social resilience in Singapore<br>
 •	Not be indoors or in an enclosed area <br>
-•	Not be used for the cultivation of food crops or other plants for profit<br>
 •	Not be in a premise which primarily retails and/or promotes products related to greenery, plant, flora and gardening related products, and which may be seen as commercial advertising by the applicant for its products<br><br>
 </p>
          </div>
