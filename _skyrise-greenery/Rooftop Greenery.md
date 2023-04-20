@@ -5,7 +5,7 @@ description: ""
 ---
 ## **THE HORIZONTAL DIMENSION**
 
-<img style="width:450px" src="/images/Skyrise Greenery/Dulwich.jpg">
+<img style="width:550px" src="/images/Skyrise Greenery/Dulwich.jpg">
 
 Rooftop greenery refers to the greening efforts and landscaping on the rooftop. When appropriately designed, rooftop greenery can significantly improve building performance, and the benefits includes:
 * Improved air quality
@@ -22,7 +22,7 @@ In general, there are three types of rooftop greenery:
 * Roof gardens (intensive)
 
 Increasingly, rooftop spaces are also being transformed into spaces for urban farming. 
-<img style="width:400px" src="/images/Graphics/Rooftop%20Greenery.png">
+<img style="width:500px" src="/images/Graphics/Rooftop%20Greenery.png">
 
 #### Green Roof (extensive rooftop greenery)
 Green roofs are considered extensive in nature and are generally not designed for active recreational use. They are developed mainly for aesthetic and ecological benefits. Generally, these type of roofs are low in installation costs, lightweight (90 - 150 kg/m2) and require minimal maintenance.
