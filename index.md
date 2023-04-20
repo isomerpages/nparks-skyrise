@@ -10,7 +10,7 @@ sections:
   - hero:
       title: Gardens in the Sky
       subtitle: Where greenery is integrated into urbanscapes
-      background: /images/Capturenew.png
+      background: /images/test.jpg
   - infopic:
       title: " What is Skyrise Greenery?"
       button: Learn more
