@@ -23,7 +23,9 @@ In association with our partners, the results of our studies are published in va
 	</b></td>
 	<td></td></tr></tbody>
 </table>
-Copies of these publications are available at the [Singapore Botanic Gardens Gardens Shop](https://botanicgardensshop.sg/collections/books#MainContent) 
+These publications are available at the 
+
+[Singapore Botanic Gardens Gardens Shop](https://botanicgardensshop.sg/collections/books#MainContent) 
 	
 ### 	Journal articles
 
