@@ -33,7 +33,7 @@ Roof Gardens, on the other hand, are considered intensive in nature and are desi
 #### Components of the Green Roof System
 There are five basic components to a green roof system:
 
-*   Plants layer
+*   Vegetation/Plant layer
 *   Substrates and media layer
 *   Filter layer
 *   Drainage and storage cells layer
