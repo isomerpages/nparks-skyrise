@@ -8,27 +8,27 @@ description: ""
 <img style="width:550px" src="/images/Skyrise Greenery/Dulwich.jpg">
 
 Rooftop greenery refers to the greening efforts and landscaping on the rooftop. When appropriately designed, rooftop greenery can significantly improve building performance, and the benefits includes:
+
+* Reduced urban heat island effect
+* Increased energy efficiency
+* Enhanced durability of water-proof barriers
 * Improved air quality
 * Better acoustic insulation
-* Enhanced durability of water-proof barriers
-* Reduced urban heat island effect
-* Improved rainwater retention
-* Increased energy efficiency
+* Reduce stormwater run off
 
-In general, there are three types of rooftop greenery:
+
+In general, there are two types of rooftop greenery:
 
 * Green roofs (extensive)
-* Hybrid gardens
 * Roof gardens (intensive)
 
-Increasingly, rooftop spaces are also being transformed into spaces for urban farming. 
-<img style="width:500px" src="/images/Graphics/Rooftop%20Greenery.png">
+![](/images/Graphics/types-of-rooftop-greenery.PNG)
 
 #### Green Roof (extensive rooftop greenery)
 Green roofs are considered extensive in nature and are generally not designed for active recreational use. They are developed mainly for aesthetic and ecological benefits. Generally, these type of roofs are low in installation costs, lightweight (90 - 150 kg/m2) and require minimal maintenance.
 
 #### Roof Garden (intensive rooftop greenery)
-Roof Gardens, on the other hand, are considered intensive in nature and are designed to be accessible. Often used as recreation and social spaces, these roof gardens have higher capital costs, associated with added weight and have higher maintenance requirements.
+Roof Gardens, on the other hand, are considered intensive in nature and are designed to be accessible. They are often used for recreation and social gatherings, offering spaces for respite and contribute to mental wellbeing.
 
 #### Components of the Green Roof System
 There are five basic components to a green roof system:
