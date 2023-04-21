@@ -65,4 +65,4 @@ Roof gardens are able to accommodate a wide selection of plants, ranging from gr
  
 Comparatively, green roofs are more suitable for plants that are able to grow in shallow substrates such as groundcover and smaller shrubs.
 
-Click here for a recommended list of plants for green roofs.
+Head to our [plant resources](/resources/plant-resources/) page for recommendations of plants for rooftop greenery.
