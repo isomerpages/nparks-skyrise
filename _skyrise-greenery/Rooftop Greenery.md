@@ -45,3 +45,5 @@ There are five basic components to a green roof system:
 Though there are different systems and technology used in the industry, all of them are based on the same component principles. These systems are designed differently in order to meet various site conditions and needs.
 
 The green roof system of an intensive rooftop garden needs a more substantial depth of the substrate/ soil media layer to accommodate the healthy growth of a wider variety of plant groups, as compared to a simple extensive green roof.
+
+Rooftop greenery system may be implemented as a modular system or a blanket system. While modular systems are mainly used for extensive green roofs, blanket systems can be used for both intensive and extensive forms.
