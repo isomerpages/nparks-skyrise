@@ -23,6 +23,7 @@ In association with our partners, the results of our studies are published in va
 	</b></td>
 	<td></td></tr></tbody>
 </table>
+Copies of these publications are available at the [Singapore Botanic Gardens Gardens Shop](https://botanicgardensshop.sg/collections/books#MainContent) 
 	
 ### 	Journal articles
 
@@ -47,7 +48,3 @@ In association with our partners, the results of our studies are published in va
 10.	Wong, N H, K W Cheong, H Yan, J Soh, C L Ong and A Sia, The effects of rooftop garden on energy consumption of a commercial building in Singapore. Energy and Buildings. 35, 4 (21 January 2003): 353-364
 
 11.	Wong, N H, V L Wong, Y Chen, S E Lee, K W Cheong, G T Lim, C L Ong and A Sia, The thermal effects of plants on buildings. Architectural Science Review. 45 (2002): 1-12
-
-	
-	
-	
