@@ -18,6 +18,7 @@ Benefits of skyrise greenery include:
 
 <img style="width:800px" src="/images/Graphics/sgbenefits.PNG">
 
+With skyrise greenery, urban dwellers can enjoy the benefits of greenery not only at ground level but also at elevated spaces, enhancing their quality of life through living and working in a greener environment.
+
 ![](/images/Graphics/climateecologicalsocialresilience.png)
 
-With skyrise greenery, urban dwellers can enjoy the benefits of greenery not only at ground level but also at elevated spaces, enhancing their quality of life through living and working in a greener environment. 
