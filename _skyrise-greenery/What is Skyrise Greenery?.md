@@ -17,4 +17,4 @@ Sustainably designed and well-maintained skyrise greenery acts as a nature-based
 Benefits of skyrise greenery include:
 ![](/images/Graphics/sgbenefits.PNG)
 
-<img style="width:700px" src="/images/Graphics/sgbenefits.PNG">
+<img style="width:800px" src="/images/Graphics/sgbenefits.PNG">
