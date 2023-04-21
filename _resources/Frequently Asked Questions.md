@@ -80,7 +80,19 @@ description: ""
 	<li>
     <input id="accordion8" type="checkbox">
     <label for="accordion8"><font size="4"><b>    
-8.	How can I showcase my projects and/or be listed as a contractor under the 'Resources' page?
+8.	Who are the contractors I can engage to implement my skyrise greenery?
+</b></font>
+</label>
+    <div>
+      <p> For a full of companies on the Landscape Company Register, please refer to <a href="https://form.gov.sg/5febdf5027a5850012d2848c">this website</a> 
+</p>
+         </div>
+</li>
+
+	<li>
+    <input id="accordion9" type="checkbox">
+    <label for="accordion9"><font size="4"><b>    
+9.	How can I showcase my projects and/or be listed as a contractor under the 'Resources' page?
 </b></font>
 </label>
     <div>
