@@ -15,7 +15,7 @@ sections:
       title: " What is Skyrise Greenery?"
       button: Learn more about the benefits
       alt: Skyrise Greenery
-      image: /images/Graphics/skyrise greenery - whatis300.png
+      image: /images/Graphics/skyrise greenery - examples500.png
       url: /whatis
       description: Skyrise Greenery significantly improves building performance and
         enhances quality of life through living and working in a greener
