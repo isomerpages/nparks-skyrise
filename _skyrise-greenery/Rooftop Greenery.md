@@ -39,7 +39,7 @@ There are five basic components to a green roof system:
 *   Drainage and storage cells layer
 *   Protection membrane and root barrier layer
 
-<img style="width:550px" src="/images/Graphics/green-roof-cross-section.png">
+<img style="width:500px" src="/images/Graphics/green-roof-cross-section.png">
 
 ![](/images/Graphics/green-roof-cross-section.png)
 *Extensive and intensive green roof systems differ primarily in the thickness and type of growing medium, as well as the species of plants used.*
