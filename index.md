@@ -13,11 +13,13 @@ sections:
       background: /images/Skyrise Greenery/insead.jpg
   - infopic:
       title: " What is Skyrise Greenery?"
-      button: Learn more
+      button: Learn more about the benefits
       alt: Skyrise Greenery
       image: /images/Graphics/skyrise greenery - whatis300.png
       url: /whatis
-      description: Do you  know that 'Skyrise Greenery' is a term coined in Singapore?
+      description: Skyrise Greenery significantly improves building performance and
+        enhances quality of life through living and working in a greener
+        environment
   - infopic:
       title: Skyrise Greenery Incentive Scheme
       description: Your project may be eligible for up to 50% funding
