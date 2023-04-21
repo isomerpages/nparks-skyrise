@@ -26,7 +26,7 @@ sections:
       button: Find out more
       url: /incentive-scheme/about
       alt: Image alt text
-      image: /images/Skyrise Greenery/CapitaSpring.png
+      image: /images/SG Main Page/capitaspring800x400.png
   - infopic:
       title: Showcase Projects
       description: Looking for inspirations for your projects?
