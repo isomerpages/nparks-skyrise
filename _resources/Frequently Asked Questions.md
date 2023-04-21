@@ -76,8 +76,7 @@ description: ""
       <p>Maintenance costs will vary depending on the nature, scale and design of the project. You can work with your contractor to design a solution to fit within your budget. To minimise cost, consider a sustainable green roof where plants are allowed to flourish together as nature intends. Such naturalistic landscape design requires less maintenance and is a great choice to achieve biodiversity, and an environmentally friendly rooftop greenery.
 </p>
          </div>
-</li>
-	<li>
+</li><li>
     <input id="accordion8" type="checkbox">
     <label for="accordion8"><font size="4"><b>    
 8.	Who are the contractors I can engage to implement my skyrise greenery?
@@ -88,8 +87,7 @@ description: ""
 </p>
          </div>
 </li>
-
-	<li>
+<li>
     <input id="accordion9" type="checkbox">
     <label for="accordion9"><font size="4"><b>    
 9.	How can I showcase my projects and/or be listed as a contractor under the 'Resources' page?
