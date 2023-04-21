@@ -12,8 +12,9 @@ Vertical greenery systems fall into three broad categories:
 * Support systems
 * Cassette systems
 * Planter systems
+* Pocket systems
 
-Other hybrid forms have been seen emerging in the market.
+Other hybrid forms of vertical greenery system also exist in the market.
  
  ![](/images/Graphics/4%20type%20of%20vertical%20-%20combined.png)
  
@@ -42,9 +43,10 @@ There are 3 basic components:
 * Irrigation
 
 
-There have been many different systems developed, each experimenting with different ways of containing the media for vertical planting. However beyond the efficiency, weight, and suitability of the system and media, the key criteria for a successful vertical greenery system are the planting and irrigation factors.
+There have been many different systems developed, with each experimenting with different ways of containing the media for vertical planting. However beyond the efficiency, weight, and suitability of the system and media, the key criteria for a successful vertical greenery system are the planting and irrigation factors.
  
 It is also pertinent to take note of the drainage outlet for vertical greenery installations to avoid unsightly puddles forming at the base of the wall. Simple drainage trays at the base of the installation or even locating the green wall strategically at a natural drainage outlet are some possible solutions.
+
 
 ### **Plant Selection**
 
@@ -52,4 +54,5 @@ Plant selection is crucial to the success of vertical greenery. The types of pla
  
 Due to the thin profile of the system and gravity, the substrate media dries up rapidly and contributes to the high rate of evaporation. As such, drought-tolerant plants are a better choice for vertical greenery systems despite having a complete irrigation system in place. However, it is not an absolute criterion. With a suitable and timely irrigation regime, appropriate planting media, and proper system design, it is still possible to grow a wide variety of plants.
  
-Head to our [plant resources](/resources/plant-resources/) page for some recommendations of plants for green walls.
+
+Head to our [plant resources](/resources/plant-resources/) page for  recommendations of plants for green walls.
