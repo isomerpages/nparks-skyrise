@@ -26,7 +26,7 @@ sections:
       button: Find out more
       url: /incentive-scheme/about
       alt: Image alt text
-      image: /images/Skyrise Greenery/Kim Tian.jpg
+      image: /images/Skyrise Greenery/CapitaSpring.png
   - infopic:
       title: Showcase Projects
       description: Looking for inspirations for your projects?
