@@ -15,6 +15,5 @@ vertical greenery. It is an important strategy to increase greenery in urban env
 Sustainably designed and well-maintained skyrise greenery acts as a nature-based solution that can contribute towards climate, ecological and social resilience in Singapore. This multi-tiered greening help bring nature into the city while optimising urban spaces for greenery and recreation. 
 
 Benefits of skyrise greenery include:
-![](/images/Graphics/sgbenefits.PNG)
 
 <img style="width:800px" src="/images/Graphics/sgbenefits.PNG">
