@@ -50,4 +50,6 @@ The green roof system of an intensive rooftop garden needs a more substantial de
 
 Rooftop greenery system may be implemented as a modular system or a blanket system. While modular systems are mainly used for extensive green roofs, blanket systems can be used for both intensive and extensive forms.
 
+<img style="width:550px" src="/images/Graphics/blanketmodularsystem.png">
+
 ![](/images/Graphics/blanketmodularsystem.png)
