@@ -50,3 +50,19 @@ The green roof system of an intensive rooftop garden needs a more substantial de
 Rooftop greenery system may be implemented as a modular system or a blanket system. While modular systems are mainly used for extensive green roofs, blanket systems can be used for both intensive and extensive forms.
 
 <img style="width:550px" src="/images/Graphics/blanketmodularsystem.png">
+
+#### Plant Selection
+Plants chosen for rooftop greenery should typically be able to thrive in drier rooftop conditions, withstand intense sunlight, and tolerate low soil moisture.
+
+* The selection of plants will depend on the following:
+* Design objectives (biodiversity attracting, therapeutic benefits, support native plants, improve aesthetics etc.)
+* Budget
+* Environmental factors
+* Depth of the substrate
+* Expected level of maintenance
+
+Roof gardens are able to accommodate a wide selection of plants, ranging from ground covers to small trees. The placement of bulkier landscape components such as small trees should consider the efficient transfer of the load throughout the building structures and other safety issues.
+ 
+Comparatively, green roofs are more suitable for plants that are able to grow in shallow substrates such as groundcover and smaller shrubs.
+
+Click here for a recommended list of plants for green roofs.
