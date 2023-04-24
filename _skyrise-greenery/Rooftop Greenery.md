@@ -3,7 +3,7 @@ title: Rooftop Greenery
 permalink: /skyrise-greenery/rooftop/
 description: ""
 ---
-<img style="width:550px" src="/images/Skyrise%20Greenery/kkhosp3.JPG">
+<img style="width:550px" src="/images/Skyrise%20Greenery/parkroyal.jpg">
 
 Rooftop greenery refers to the greening efforts and landscaping on the rooftop. When appropriately designed, rooftop greenery can significantly improve building performance, and the benefits includes:
 
