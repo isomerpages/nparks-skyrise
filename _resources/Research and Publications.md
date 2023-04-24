@@ -6,7 +6,7 @@ description: ""
 In association with our partners, the results of our studies are published in various forms for dissemination to the industry and relevant professionals.
 
 ### **Publications**
-
+These Technical Guidelines by the Centre for Urban Greenery and Ecology (CUGE) address issues ranging from design and systems to installation to maintenance.
 <table>
 	<tbody>
 		<tr>
