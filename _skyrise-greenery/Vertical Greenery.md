@@ -6,7 +6,7 @@ description: ""
 ## **MOVING UPWARDS**
 Vertical greenery represents an innovative dimension in greenery-related infrastructure, where plants are incorporated within vertical surfaces. Traditionally, vertical greenery involved climbing plants with self-clinging roots growing directly on the building surfaces, twining plants growing on trellis and pergolas, or plants growing within the crevices of stacked rocks. In recent years, numerous contemporary systems have been developed to grow a variety of plants on vertical surfaces.
 
-### Different Categories of Vertical Greenery Systems
+#### **Different Categories of Vertical Greenery Systems**
 
 Vertical greenery systems fall into three broad categories:
 * Support systems
@@ -35,7 +35,7 @@ Planter systems consist of individual pots mounted at regular intervals onto a s
 
 A pocket system consists of panels fabricated from at least two layers of moisture retention mats. These mats are attached to a rigid backing for support and pockets are created out of the outer layer for plant placement.
 
-### **Components of a Vertical Greenery System**
+#### **Components of a Vertical Greenery System**
 
 There are 3 basic components:
 * Plants
