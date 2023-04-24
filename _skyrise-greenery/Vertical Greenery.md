@@ -48,7 +48,7 @@ There have been many different systems developed, with each experimenting with d
 It is also pertinent to take note of the drainage outlet for vertical greenery installations to avoid unsightly puddles forming at the base of the wall. Simple drainage trays at the base of the installation or even locating the green wall strategically at a natural drainage outlet are some possible solutions.
 
 
-### **Plant Selection**
+#### **Plant Selection**
 
 Plant selection is crucial to the success of vertical greenery. The types of plants selected depend on system type, design intention, environmental factors, budget, and expected degree of maintenance. There are numerous plant species that can be grown vertically.
  
