@@ -11,7 +11,6 @@ Vertical greenery represents an innovative dimension in greenery-related infrast
 
 Vertical greenery systems fall into three broad categories:
 * Support systems
-* Cassette systems
 * Planter systems
 * Pocket systems
 
@@ -23,9 +22,6 @@ Other hybrid forms of vertical greenery system also exist in the market.
 
 A support system consists of planters mounted at regular intervals (typically 3 m apart) onto welded wire trellises. The trellises are ideal for accommodating climbing plants to spread over the structure and thus creating a ‘green screen’.
 
-**Cassette Systems**
-
-Cassette systems consist of modular units containing growing media that can be easily mounted on metal framings as standalone systems or attached to wall surfaces.
 
 **Planter Systems**
 
