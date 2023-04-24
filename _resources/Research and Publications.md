@@ -5,7 +5,7 @@ description: ""
 ---
 In association with our partners, the results of our studies are published in various forms for dissemination to the industry and relevant professionals.
 
-### Publications
+### **Publications**
 
 <table>
 	<tbody>
@@ -27,7 +27,7 @@ In association with our partners, the results of our studies are published in va
 Find out more about these publications [here](https://www.nparks.gov.sg/Cuge/Resources/Publications/CUGE%20Standards), or get them at
  the [Singapore Botanic Gardens Gardens Shop](https://botanicgardensshop.sg/collections/books#MainContent)! 
 	
-### 	Journal articles
+### 	**Journal articles**
 
 1.	Wong N. H., Tan A. Y. K., Chen Y., Sekar K., Tan P. Y., Chan D., Chiang K. and Wong N. C. (2009). Thermal Evaluation of Vertical Greenery Systems for Building Walls. Building and Environment, article in press.
 
