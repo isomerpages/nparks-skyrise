@@ -18,7 +18,7 @@ These Technical Guidelines by the Centre for Urban Greenery and Ecology (CUGE) a
 			<td><img style="width:180px" src="/images/Icons/filter-drainage-root-penetration-barrier-layers-rooftop-greenery.PNG"><b> 4 Guidelines on Filter, Drainage and Root Penetration Barrier Layers For Rooftop Greenery </b></td>
 	</tr>
 		<tr>
-		<td><img style="width:180px" src="/images/Icons/design-and-construction-of-pitched-green-roof.PNG"> <b>CS E05:2012 - Guidelines on Waterproofing For Rooftop Greenery </b> </td>
+		<td><img style="width:180px" src="/images/Icons/waterproofing-for-rooftop-greenery.PNG"> <b>CS E05:2012 - Guidelines on Waterproofing For Rooftop Greenery </b> </td>
 			<td><img style="width:180px" src="/images/Icons/design-loads-for-skyrise-greenery.PNG"> <b>Guidelines on Design Loads for Rooftop Greenery
 	</b></td></tr>
 			<tr>
