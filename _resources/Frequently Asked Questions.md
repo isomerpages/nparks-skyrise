@@ -90,7 +90,7 @@ description: ""
 <li>
     <input id="accordion9" type="checkbox">
     <label for="accordion9"><font size="4"><b>    
-9.	How can I showcase my projects and/or be listed as a contractor under the 'Resources' page?
+9.	How can I showcase my projects on your website?
 </b></font>
 </label>
     <div>
