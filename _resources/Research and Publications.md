@@ -10,8 +10,12 @@ These Technical Guidelines by the Centre for Urban Greenery and Ecology (CUGE) a
 <table>
 	<tbody>
 		<tr>
-		<td><img style="width:180px" src="/images/Icons/guidelines-on-design-for-safety-of-skyrise-greenery_icon.jpg"> <b>Guidelines on Design for Safety of Skyrise Greenery</b> </td>
-			<td><img style="width:180px" src="/images/Icons/a-selection-of-plants-for-green-roofs-in-singapore-2nd-edition.png"><b> A Selection of Plants for Green Roofs in Singapore (2nd Edition) </b></td>
+		<td><img style="width:180px" src="/images/Icons/design-loads-for-skyrise-greenery.PNG"> <b>Guidelines on Design Loads for Rooftop Greenery</b> </td>
+			<td><img style="width:180px" src="/images/Icons/a-selection-of-plants-for-green-roofs-in-singapore-2nd-edition.png"><b> Guidelines on Design for Safety on Rooftop Greenery</b></td>
+	</tr>
+		<tr>
+		<td><img style="width:180px" src="/images/Icons/substrate-layer-for-rooftop-greenery.PNG"> <b>Guidelines on Substrate Layer for Rooftop Greenery</b> </td>
+			<td><img style="width:180px" src="/images/Icons/filter-drainage-root-penetration-barrier-layers-rooftop-greenery.PNG"><b> Guidelines on Filter, Drainage and Root Penetration Barrier Layers For Rooftop Greenery </b></td>
 	</tr>
 		<tr>
 		<td><img style="width:180px" src="/images/Icons/design-and-construction-of-pitched-green-roof.PNG"> <b>Guidelines on Design and Construction of Pitched Green Roof</b> </td>
