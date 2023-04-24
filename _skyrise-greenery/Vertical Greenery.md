@@ -10,13 +10,15 @@ Vertical greenery represents an innovative dimension in greenery-related infrast
 #### **Different Categories of Vertical Greenery Systems**
 
 Vertical greenery systems fall into three broad categories:
-* Support systems
+
 * Planter systems
 * Pocket systems
+* Support systems
 
 Other hybrid forms of vertical greenery system also exist in the market.
  
  ![](/images/Graphics/4%20type%20of%20vertical%20-%20combined.png)
+ ![](/images/Graphics/3-type-vertical.png)
  
 **Support Systems**
 
