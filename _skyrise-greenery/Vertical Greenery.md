@@ -3,6 +3,8 @@ title: Vertical Greenery
 permalink: /skyrise-greenery/vertical/
 description: ""
 ---
+![](/images/Skyrise%20Greenery/oasiahotel.jpg)
+
 Vertical greenery represents an innovative dimension in greenery-related infrastructure, where plants are incorporated within vertical surfaces. Traditionally, vertical greenery involved climbing plants with self-clinging roots growing directly on the building surfaces, twining plants growing on trellis and pergolas, or plants growing within the crevices of stacked rocks. In recent years, numerous contemporary systems have been developed to grow a variety of plants on vertical surfaces.
 
 #### **Different Categories of Vertical Greenery Systems**
