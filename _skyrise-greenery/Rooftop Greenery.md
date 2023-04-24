@@ -3,7 +3,7 @@ title: Rooftop Greenery
 permalink: /skyrise-greenery/rooftop/
 description: ""
 ---
-<img style="width:550px" src="/images/Skyrise%20Greenery/kkhosp.JPG">
+<img style="width:550px" src="/images/Skyrise%20Greenery/kkhosp3.JPG">
 
 
 <img style="width:550px" src="/images/Skyrise%20Greenery/kkhcloseup.JPG">
