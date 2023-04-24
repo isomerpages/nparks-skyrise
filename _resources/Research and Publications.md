@@ -31,7 +31,7 @@ These Technical Guidelines by the Centre for Urban Greenery and Ecology (CUGE) a
 		<tr>		
 		<td> <img style="width:180px" src="/images/Icons/guidelines-on-design-for-safety-of-skyrise-greenery_icon.jpg"> <b>Guidelines on Design for Safety of Skyrise Greenery
 	</b></td>
-		<td> <img style="width:180px" src="/images/Icons/biodiversity-on-roof-gardens.PNG"> <b>Design Guides to Promote Biodiversity on Roof Gardens 
+		<td> <img style="width:180px" src="/images/Icons/biodiversit-on-roof-gardens.PNG"> <b>Design Guides to Promote Biodiversity on Roof Gardens 
 	</b></td>
 	<td></td></tr></tbody>
 </table>
