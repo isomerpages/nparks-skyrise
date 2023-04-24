@@ -17,7 +17,6 @@ Vertical greenery systems fall into three broad categories:
 
 Other hybrid forms of vertical greenery system also exist in the market.
  
- ![](/images/Graphics/4%20type%20of%20vertical%20-%20combined.png)
  ![](/images/Graphics/3-type-vertical.png)
  
 **Support Systems**
