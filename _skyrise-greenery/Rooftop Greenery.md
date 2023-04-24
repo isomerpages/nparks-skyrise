@@ -5,7 +5,6 @@ description: ""
 ---
 <img style="width:550px" src="/images/Skyrise%20Greenery/kkhosp3.JPG">
 
-
 Rooftop greenery refers to the greening efforts and landscaping on the rooftop. When appropriately designed, rooftop greenery can significantly improve building performance, and the benefits includes:
 
 * Reduced urban heat island effect
