@@ -9,7 +9,8 @@ notification: NParks will never send an SMS to request for payment/money
 sections:
   - hero:
       title: Gardens in the Sky
-      subtitle: Integrating greenery into urban built environments
+      subtitle: Integrating greenery into urban built environments to enhance climate,
+        social, and ecological resilience for our City in Nature
       background: /images/Skyrise Greenery/insead.jpg
   - infopic:
       title: " What is Skyrise Greenery?"
