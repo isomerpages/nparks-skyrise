@@ -11,7 +11,7 @@ sections:
       title: Gardens in the Sky
       subtitle: Integrating greenery into urban built environments to enhance climate,
         social, and ecological resilience for our City in Nature
-      background: /images/Skyrise Greenery/kampoongadmiralty.jpg
+      background: /images/Skyrise Greenery/kampongadmiralty.jpg
   - infopic:
       title: " What is Skyrise Greenery?"
       button: Learn more about the benefits
