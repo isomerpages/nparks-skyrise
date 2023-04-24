@@ -25,13 +25,13 @@ These Technical Guidelines by the Centre for Urban Greenery and Ecology (CUGE) a
 		<td><img style="width:180px" src="/images/Icons/general-maintenance-for-rooftop-greenery.PNG"> <b>7 Guidelines on General Maintenance for Rooftop Greenery</b> </td>
 			<td><img style="width:180px" src="/images/Icons/design-and-construction-of-pitched-green-roof.PNG"> <b>8 Guidelines on Design and Construction of Pitched Green Roof</b></td></tr>
 			<tr>
-		<td><img style="width:180px" src="/images/Icons/design-and-construction-of-pitched-green-roof.PNG"> <b>9 Guidelines on Planting of Trees, Palms and Tall Shrubs on Rooftop </b> </td>
-			<td><img style="width:180px" src="/images/Icons/design-loads-for-skyrise-greenery.PNG"> <b>Guidelines on Design Loads for Rooftop Greenery
+		<td><img style="width:180px" src="/images/Icons/tall-shrubs.PNG"> <b>9 Guidelines on Planting of Trees, Palms and Tall Shrubs on Rooftop </b> </td>
+			<td><img style="width:180px" src="/images/Icons/design-loads-for-skyrise-greenery.PNG"> <b>10 Guidelines on Design Loads for Rooftop Greenery
 	</b></td></tr>
 		<tr>		
-		<td> <img style="width:180px" src="/images/Icons/irrigation-for-rooftop-greenery.PNG"> <b>Guidelines on Irrigation For Rooftop Greenery
+		<td> <img style="width:180px" src="/images/Icons/irrigation-for-rooftop-greenery.PNG"> <b>Guidelines on Design for Safety of Skyrise Greenery
 	</b></td>
-		<td> <img style="width:180px" src="/images/Icons/substrate-layer-for-rooftop-greenery.PNG"> <b>Guidelines on Substrate Layer for Rooftop Greenery
+		<td> <img style="width:180px" src="/images/Icons/substrate-layer-for-rooftop-greenery.PNG"> <b>Design Guides to Promote Biodiversity on Roof Gardens 
 	</b></td>
 	<td></td></tr></tbody>
 </table>
