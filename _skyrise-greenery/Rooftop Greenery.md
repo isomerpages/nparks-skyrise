@@ -3,7 +3,6 @@ title: Rooftop Greenery
 permalink: /skyrise-greenery/rooftop/
 description: ""
 ---
-## **THE HORIZONTAL DIMENSION**
 
 <img style="width:550px" src="/images/Skyrise Greenery/Dulwich.jpg">
 
