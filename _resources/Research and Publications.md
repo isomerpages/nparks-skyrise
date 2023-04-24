@@ -24,8 +24,8 @@ In association with our partners, the results of our studies are published in va
 	<td></td></tr></tbody>
 </table>
 
-
-Find these publicatons at the [Singapore Botanic Gardens Gardens Shop](https://botanicgardensshop.sg/collections/books#MainContent)! 
+Find out more about these publications [here](https://www.nparks.gov.sg/Cuge/Resources/Publications/CUGE%20Standards), or get them at
+ the [Singapore Botanic Gardens Gardens Shop](https://botanicgardensshop.sg/collections/books#MainContent)! 
 	
 ### 	Journal articles
 
