@@ -20,13 +20,15 @@ In general, there are two types of rooftop greenery:
 * Green roofs (extensive)
 * Roof gardens (intensive)
 
-![](/images/Graphics/types-of-rooftop-greenery.PNG)
+![](/images/Skyrise%20Greenery/rooftop-intensive-extensive.png)
 
 #### **Green Roof (extensive rooftop greenery)**
 Green roofs are considered extensive in nature and are generally not designed for active recreational use. They are developed mainly for aesthetic and ecological benefits. Generally, these type of roofs are low in installation costs, lightweight (90 - 150 kg/m2) and require minimal maintenance.
 
 #### **Roof Garden (intensive rooftop greenery)**
 Roof Gardens, on the other hand, are considered intensive in nature and are designed to be accessible. They are often used for recreation and social gatherings, offering spaces for respite and contribute to mental wellbeing.
+
+![](/images/Graphics/types-of-rooftop-greenery.PNG)
 
 #### **Components of the Green Roof System**
 There are five basic components to a green roof system:
