@@ -19,19 +19,18 @@ Other hybrid forms of vertical greenery system also exist in the market.
  
  ![](/images/Graphics/3-type-vertical.png)
  
-**Support Systems**
-
-A support system consists of planters mounted at regular intervals (typically 3 m apart) onto welded wire trellises. The trellises are ideal for accommodating climbing plants to spread over the structure and thus creating a ‘green screen’.
-
-
 **Planter Systems**
 
 Planter systems consist of individual pots mounted at regular intervals onto a structure or frame. Draping or trailing plant species are ideal for this type of system, as they create the appearance of a continuous wall of greenery.
 
-
 **Pocket Systems**
 
 A pocket system consists of panels fabricated from at least two layers of moisture retention mats. These mats are attached to a rigid backing for support and pockets are created out of the outer layer for plant placement.
+
+**Support Systems**
+
+A support system consists of planters mounted at regular intervals (typically 3 m apart) onto welded wire trellises. The trellises are ideal for accommodating climbing plants to spread over the structure and thus creating a ‘green screen’.
+
 
 #### **Components of a Vertical Greenery System**
 
