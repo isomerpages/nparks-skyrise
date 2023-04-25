@@ -3,7 +3,7 @@ title: About
 permalink: /incentive-scheme/about/
 description: ""
 ---
-## Skyrise Greenery Incentive Scheme 
+## **Skyrise Greenery Incentive Scheme** 
 
 The Skyrise Greenery Incentive Scheme (SGIS) provides funding of up to 50% of installation costs for rooftop greenery and vertical greenery projects on existing buildings, with a cap of $200 per square metre for rooftop greenery and $500 per square metre for vertical greenery. Projects will be assessed for SGIS based on the project’s merits and ability to contribute towards climate, ecological and social resilience goals.
 
