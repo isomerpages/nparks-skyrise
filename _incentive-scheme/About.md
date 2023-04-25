@@ -63,7 +63,7 @@ SGIS was introduced in 2009 by NParks to increase the greenery provision in Sing
 •	<b>Rooftop Greenery	</b> – reimbursement is capped at $200 per square metre of planted area within the green roof<br>
 •		<b>Vertical Greenery 	</b>– reimbursement is capped at $500 per square metre of green coverage within the vertical greenery installation
 <br>
-				</p><p>Both intensive and extensive rooftop greenery, as well as all types of vertical greenery are funded under the scheme. Click on the links to learn more about the various forms of   <a href="/skyrise-greenery/rooftop/">rooftop greenery</a> and <a href="/skyrise-greenery/vertical/">vertical greenery</a>. </p>
+				</p><p>Both intensive and extensive rooftop greenery, as well as all types of vertical greenery may be funded under the scheme. Click on the links to learn more about the various forms of   <a href="/skyrise-greenery/rooftop/">rooftop greenery</a> and <a href="/skyrise-greenery/vertical/">vertical greenery</a>. </p>
 <p>SGIS supports the following cost items:<br>
 •	Installation costs for rooftop greenery and vertical greenery<br>
 •	Green roof and vertical greenery systems <br>
