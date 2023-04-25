@@ -133,11 +133,11 @@ description: ""
 	<li>
     <input id="accordion14" type="checkbox">
     <label for="accordion14"><font size="4"><b>    
-4.	Can my consultant apply for this scheme on the building owner’s behalf?
+4.	Why is it necessary to have the five year maintenance contract or assurance?
 </b></font><font color="green">
 </font></label>
     <div>
-      <p>Yes, the consultant can submit the application form on behalf of the building owner. Please note that the applicant is still the building owner, who will have to sign off on the application forms. 
+      <p>SGIS aims to promote the implementation of sustainably designed and well-maintained rooftop and vertical greenery that can contribute towards Singapore’s climate, ecological and social resilience. 
 </p><br>
          </div>
 </li>
