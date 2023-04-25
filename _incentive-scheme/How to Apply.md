@@ -57,7 +57,7 @@ Once the installation is completed, please contact your Skyrise Greenery Manager
 * Planting plan indicating plant species
 * Documentary proof of installation cost
 * Proof of payment for installation of the Rooftop/Vertical Greenery
-* Direct credit authorisation form or PayNow authorisation form
+* Completed Direct credit authorisation form or PayNow authorisation form - forms will be provided by NParks
 * Letter of undertaking to maintain the Rooftop/Vertical Greenery for the Holding Period of a minimum of 5 years 
 
 You will receive a reimbursement letter once the reimbursement is approved. Please be reminded that the rooftop/vertical greenery must be maintained for a period of **5 years**  after completion as part of the undertaking period, failing which NParks reserve the right to recover the funds. Please seek NParks approval prior to implementing any changes to the rooftop/vertical greenery that will result in a reduction in the Total Green Area during the undertaking period.<p></p>
