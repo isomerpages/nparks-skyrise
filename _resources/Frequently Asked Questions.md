@@ -138,7 +138,7 @@ description: ""
 </font></label>
     <div>
       <p>SGIS aims to promote the implementation of sustainably designed and well-maintained rooftop and vertical greenery that can contribute towards Singapore’s climate, ecological and social resilience. The five years undertaking period is to ensure the sustainability of the project. 
-</p><br>
+</p>
          </div>
 </li>
 		<li>
