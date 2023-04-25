@@ -3,7 +3,6 @@ title: How to Apply
 permalink: /incentive-scheme/apply/
 description: ""
 ---
-
 ## **Application Process**
 
 To begin an application for the Skyrise Greenery Incentive Scheme (SGIS), please submit your details on [**FormSG**](https://form.gov.sg/5cee3b050a5be80010bd5a73)**.**
@@ -30,6 +29,7 @@ If your application is approved, you will receive a letter of offer from NParks.
 Schools under the Ministry of Education (MOE) are required to inform MOE (School Campus Division) of their proposed skyrise greenery installation. A copy of MOE SCD's written acknowledgement of the works should be submitted to NParks together with the application documents.
 
 #### **Documents Required for SGIS Application for Rooftop/Vertical Greenery**
+<p>
 
 * Completed Application Form - Application form will be provided after NParks confirms that the site is eligible for SGIS
 * Completed SGIS application checklist 
@@ -60,4 +60,4 @@ Once the installation is completed, please contact your Skyrise Greenery Manager
 * Direct credit authorisation form or PayNow authorisation form
 * Letter of undertaking to maintain the Rooftop/Vertical Greenery for the Holding Period of a minimum of 5 years 
 
-You will receive a reimbursement letter once the reimbursement is approved. Please be reminded that the rooftop/vertical greenery must be maintained for a period of **5 years**  after completion as part of the undertaking period, failing which NParks reserve the right to recover the funds. Please seek NParks approval prior to implementing any changes to the rooftop/vertical greenery that will result in a reduction in the Total Green Area during the undertaking period.
+You will receive a reimbursement letter once the reimbursement is approved. Please be reminded that the rooftop/vertical greenery must be maintained for a period of **5 years**  after completion as part of the undertaking period, failing which NParks reserve the right to recover the funds. Please seek NParks approval prior to implementing any changes to the rooftop/vertical greenery that will result in a reduction in the Total Green Area during the undertaking period.</p>
