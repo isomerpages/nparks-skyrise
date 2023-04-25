@@ -10,7 +10,7 @@ A good planting palette is key to the success of your skyrise greenery. Plants s
 
 <img style="width:600px" src="/images/Skyrise%20Greenery/Kranji.jpg">
 
-### **Suggested plant  for green walls** 
+### **Suggested plants for green walls** 
 [Click here to download](/files/Plant%20resources/suggested%20plant%20species%20for%20green%20walls.pdf)
 
 <img style="width:600px" src="/images/Skyrise%20Greenery/keppel.jpg">
