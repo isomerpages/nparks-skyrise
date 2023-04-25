@@ -45,8 +45,8 @@ SGIS was introduced in 2009 by NParks to increase the greenery provision in Sing
 •	Undergoing Additions &amp; Alterations (A&amp;A) works<br><br>
 <b>The applicant:<br></b>
 •	Must be an owner or a tenant of the premise, and<br>
-•	Must not receive any other grant for the proposed rooftop and/or vertical greenery installations<br>
-The proposed skyrise greenery project should:<br>
+•	Must not receive any other grant for the proposed rooftop and/or vertical greenery installations<br><br>
+<b>The proposed skyrise greenery project should:</b><br>
 •	Contribute towards climate, ecological and/or social resilience in Singapore<br>
 •	Not be indoors or in an enclosed area <br>
 •	Not be in a premise which primarily retails and/or promotes products related to greenery, plant, flora and gardening related products, and which may be seen as commercial advertising by the applicant for its products<br><br>
