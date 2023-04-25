@@ -83,7 +83,7 @@ description: ""
 </b></font>
 </label>
     <div>
-      <p> For a full list of companies on the Landscape Company Register, please refer to <a href="https://www.nparks.gov.sg/Cuge/Resources/Landscape%20Company%20Register%20(LCR)%20list">this website</a>. 
+      <p> For a full list of companies on the Landscape Company Register, please refer to <a href="https://www.nparks.gov.sg/Cuge/Resources/Landscape%20Company%20Register%20(LCR)%20list">this website</a> Do note that these companies are not representative of NParks’ endorsement, recommendation nor guarantee on the quality of product or service offered by the contractors. 
 </p>
          </div>
 </li>
