@@ -39,4 +39,12 @@ sections:
       image: /images/Resources.png
       alt: Image alt text
       url: /resources/plant-resources
+  - infopic:
+      title: Why Skyrise Greenery?
+      description: "Skyrise greenery plays a vital role in contributing towards
+        Singapore’s vision of a City in Nature as well as the Singapore Green
+        Plan 2030. "
+      button: Button Text
+      image: /images/SG Main Page/why-skyrise-greenery.PNG
+      alt: Image alt text
 ---
