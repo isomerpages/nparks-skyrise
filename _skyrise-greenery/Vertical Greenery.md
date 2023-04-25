@@ -54,5 +54,4 @@ Due to the thin profile of the system and gravity, the substrate media dries up 
 
 Head to our [plant resources](/resources/plant-resources/) page for  recommendations of plants for green walls.
 
-##### Need help funding your new rooftop greenery or vertical greenery? Find out more about the Skyrise Greenery Incentive Scheme [here](/incentive-scheme/about). 
- 
+###### Need help funding your new rooftop greenery or vertical greenery? Find out more about the Skyrise Greenery Incentive Scheme [here](/incentive-scheme/about).
