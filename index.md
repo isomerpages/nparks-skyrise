@@ -5,7 +5,7 @@ description: An Isomer site of the Singapore Government
 image: /images/Skyrise Greenery Logo.png
 permalink: /
 notification: NParks will never send an SMS to request for payment/money
-  transfers or links to ask for users' login credentials/passwords
+  transfers or links to ask for credentials/passwords
 sections:
   - hero:
       title: Gardens in the Sky
