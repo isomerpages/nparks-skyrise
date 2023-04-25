@@ -186,14 +186,6 @@ Please refer to  <a href="https://www.skyrisegreenery.nparks.gov.sg/incentive-sc
       <p> Processing takes about eight weeks upon inspection of completed works and submission of approved invoice.
 </p>
          </div>
-</li>	<li>
-    <input id="accordion19" type="checkbox">
-    <label for="accordion19"><font size="4"><b>    
-9.	Why is it necessary to have the five year maintenance contract or assurance?
-</b></font>
-</label>
-    <div>
-      <p> SGIS aims to promote the implementation of sustainably designed and well-maintained rooftop and vertical greenery that can contribute towards Singapore’s climate, ecological and social resilience. 
-</p>
-         </div>
-</li></ul>
+</li>
+         
+</ul>
