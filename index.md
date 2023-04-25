@@ -20,7 +20,7 @@ sections:
       url: /whatis
       description: Skyrise greenery plays a vital role in contributing towards
         Singapore’s vision of a City in Nature as well as the Singapore Green
-        Plan 2030.
+        Plan 2030
   - infopic:
       title: Skyrise Greenery Incentive Scheme
       description: Your project may be eligible for up to 50% funding
