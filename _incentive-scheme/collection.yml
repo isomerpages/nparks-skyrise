@@ -1,0 +1,6 @@
+collections:
+  incentive-scheme:
+    output: true
+    order:
+      - About.md
+      - How to Apply.md

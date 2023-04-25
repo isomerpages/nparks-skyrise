@@ -1,13 +1,34 @@
-##################################
-#                                #
-# Feel free to edit this file :) #
-#                                #
-##################################
-
-logo: /images/isomer-logo.svg
-
+logo: /images/Skyrise Greenery Logo.png
 links:
-  - title: Contact Us
-    url: /contact-us/
-  - title: Example Page
-    url: /example-page/
+  - title: Skyrise Greenery
+    url: /whatis
+    sublinks:
+      - title: What is Skyrise Greenery?
+        url: /whatis
+      - title: Rooftop Greenery
+        url: /skyrise-greenery/rooftop
+      - title: Vertical Greenery
+        url: /skyrise-greenery/vertical
+  - title: Incentive Scheme
+    url: /incentive-scheme/about
+    sublinks:
+      - title: About
+        url: /incentive-scheme/about
+      - title: How to Apply
+        url: /incentive-scheme/apply
+  - title: Explore
+    url: /explore/showcase-projects
+    sublinks:
+      - title: Showcase Projects
+        url: /explore/showcase-projects
+  - title: Resources
+    url: /resources/guidelines
+    sublinks:
+      - title: Guidelines
+        url: /resources/guidelines
+      - title: Research and Publications
+        url: /resources/research-and-publications
+      - title: Plant Resources
+        url: /resources/plant-resources
+      - title: FAQ
+        url: /resources/faq

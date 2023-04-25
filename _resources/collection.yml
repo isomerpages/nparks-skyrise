@@ -1,0 +1,8 @@
+collections:
+  resources:
+    output: true
+    order:
+      - Guidelines.md
+      - Research and Publications.md
+      - Plant Resources.md
+      - Frequently Asked Questions.md
