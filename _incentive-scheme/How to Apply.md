@@ -3,9 +3,10 @@ title: How to Apply
 permalink: /incentive-scheme/apply/
 description: ""
 ---
+
 ## **Application Process**
 
-To begin an application for SGIS, please submit your details on [**FormSG**](https://form.gov.sg/5cee3b050a5be80010bd5a73)**.**
+To begin an application for the Skyrise Greenery Incentive Scheme (SGIS), please submit your details on [**FormSG**](https://form.gov.sg/5cee3b050a5be80010bd5a73)**.**
 
 There are two stages in the SGIS application process:
 
