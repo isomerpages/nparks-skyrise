@@ -175,17 +175,5 @@ Please refer to  <a href="https://www.skyrisegreenery.nparks.gov.sg/incentive-sc
       <p> Yes, your proposed skyrise greenery project will be assessed for SGIS based on the project’s merits. NParks will provide the necessary advice on your proposal if required. Upon approval of your application, you will receive a letter of offer from NParks, following which, installation works may begin.
 </p>
          </div>
-</li>
-	<li>
-    <input id="accordion18" type="checkbox">
-    <label for="accordion18"><font size="4"><b>    
-8.	How long will it take for the cash incentive to be disbursed?
-</b></font>
-</label>
-    <div>
-      <p> Processing takes about eight weeks upon inspection of completed works and submission of approved invoice.
-</p>
-         </div>
-</li>
-         
+</li>      
 </ul>
