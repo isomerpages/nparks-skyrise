@@ -15,7 +15,7 @@ Rooftop greenery refers to the greening efforts and landscaping on the rooftop. 
 * Reduced stormwater run off
 
 
-### **In general, there are two types of rooftop greenery:**
+**In general, there are two types of rooftop greenery:**
 
 * Green roofs (extensive)
 * Roof gardens (intensive)
