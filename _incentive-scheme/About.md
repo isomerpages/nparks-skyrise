@@ -99,7 +99,7 @@ The grant will be disbursed after the completion of works and the submission of 
 •	Designed to be maintainable with appropriate maintenance access<br>
 •	Well designed, lushly landscaped, and integrated with the overall form and architectural treatment of the building<br>
 •	Retained as a permanent installation </p><p>
-			The green roof or vertical greenery must be maintained for a <b>minimum of 5 years after its completion (undertaking period)</b>. The reimbursement will be recovered on a pro-rated basis, over 5 years, should the rooftop greenery/ vertical greenery installation be removed. In the event of a change in building ownership, the existing building owner must transfer the responsibilities assumed in association with the Schemes to the new building owner as part of the terms and conditions. NParks’ approval is required for any changes to the rooftop greenery or vertical greenery that will result in a reduction in the Total Green Area during the undertaking period. 
+			The green roof or vertical greenery must be maintained for a <b>minimum of 5 years after its completion (undertaking period)</b>. The reimbursement will be recovered on a pro-rated basis, over 5 years, should the rooftop greenery/ vertical greenery installation be removed. In the event of a change in building ownership, the existing building owner must transfer the responsibilities assumed in association with SGIS to the new building owner as part of the terms and conditions. NParks’ approval is required for any changes to the rooftop greenery or vertical greenery that will result in a reduction in the Total Green Area during the undertaking period. 
 </p>
          </div>
   </li>
