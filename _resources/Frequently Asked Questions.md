@@ -133,7 +133,7 @@ description: ""
 	<li>
     <input id="accordion14" type="checkbox">
     <label for="accordion14"><font size="4"><b>    
-4.	Why is it necessary to have the five year maintenance contract or assurance?
+4.	Why is it necessary to have the five year undertaking period?
 </b></font><font color="green">
 </font></label>
     <div>
