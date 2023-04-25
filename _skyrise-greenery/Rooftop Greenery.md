@@ -11,8 +11,8 @@ Rooftop greenery refers to the greening efforts and landscaping on the rooftop. 
 * Increased energy efficiency
 * Enhanced durability of water-proof barriers
 * Improved air quality
-* Better acoustic insulation
-* Reduce stormwater run off
+* Improved acoustic insulation
+* Reduced stormwater run off
 
 
 In general, there are two types of rooftop greenery:
