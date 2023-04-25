@@ -133,11 +133,11 @@ description: ""
 	<li>
     <input id="accordion14" type="checkbox">
     <label for="accordion14"><font size="4"><b>    
-4.	Can my contractor apply for this scheme on the building owner’s behalf?
+4.	Can my consultant apply for this scheme on the building owner’s behalf?
 </b></font><font color="green">
 </font></label>
     <div>
-      <p>Yes, the contractor can submit the application form on behalf of the building owner. Please note that the applicant is still the building owner, who will have to sign off on the application forms. 
+      <p>Yes, the consultant can submit the application form on behalf of the building owner. Please note that the applicant is still the building owner, who will have to sign off on the application forms. 
 </p><br>
          </div>
 </li>
