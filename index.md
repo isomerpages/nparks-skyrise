@@ -13,10 +13,6 @@ sections:
         social, and ecological resilience for our City in Nature
       background: /images/Skyrise Greenery/kav003.jpg
   - infopic:
-      title: Why Skyrise Greenery?
-      description: "Skyrise greenery plays a vital role in contributing towards
-        Singapore’s vision of a City in Nature as well as the Singapore Green
-        Plan 2030. "
       image: /images/SG Main Page/why skyrise greenery.PNG
       alt: Why Skyrise Greenery?
   - infopic:
