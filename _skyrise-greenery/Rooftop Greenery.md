@@ -28,7 +28,7 @@ In general, there are two types of rooftop greenery:
 Green roofs are considered extensive in nature and are generally not designed for active recreational use. They are developed mainly for aesthetic and ecological benefits. Generally, these type of roofs are low in installation costs, lightweight (90 - 150 kg/m2) and require minimal maintenance.
 
 #### **Roof Garden (intensive rooftop greenery)**
-Roof Gardens, on the other hand, are considered intensive in nature and are designed to be accessible. They are often used for recreation and social gatherings, offering spaces for respite and contribute to mental wellbeing.
+Roof Gardens, on the other hand, are considered intensive in nature and are designed to be accessible. They are often used for recreation and social gatherings, offer spaces for respite and contribute to mental wellbeing.
 
 ![](/images/Graphics/types-of-rooftop-greenery.PNG)
 
