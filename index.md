@@ -18,9 +18,6 @@ sections:
       alt: Skyrise Greenery
       image: /images/SG Main Page/skyrise greenery - whatis800x400.png
       url: /whatis
-      description: Skyrise Greenery significantly improves building performance and
-        enhances quality of life through living and working in a greener
-        environment
   - infopic:
       title: Skyrise Greenery Incentive Scheme
       description: Your project may be eligible for up to 50% funding
@@ -31,7 +28,7 @@ sections:
   - infopic:
       title: Showcase Projects
       description: Looking for inspirations for your projects?
-      button: "Check out our e-booklet "
+      button: Check out our e-bulletins
       alt: Image alt text
       image: /images/Graphics/Showcase editions.png
       url: /explore/showcase-projects
