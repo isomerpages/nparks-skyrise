@@ -107,7 +107,7 @@ description: ""
 			1.	How do I apply for the Skyrise Greenery Incentive Scheme?</b></font>
 </label>
     <div>
-      <p>Thank you for your interest - please fill up the <a href="https://form.gov.sg/5cee3b050a5be80010bd5a73">query form</a> 
+      <p>Thank you for your interest, please head over to our <a href="/incentive-scheme/apply/"> How to Apply</a> page to learn more! Once you are ready, please fill up the <a href="https://form.gov.sg/5cee3b050a5be80010bd5a73">query form</a> 
  and we will get back to you. </p>
          </div>
 </li>
