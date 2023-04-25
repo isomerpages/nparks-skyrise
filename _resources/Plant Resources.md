@@ -11,6 +11,6 @@ A good planting palette is key to the success of your skyrise greenery. Plants s
 <img style="width:600px" src="/images/Skyrise%20Greenery/Kranji.jpg">
 
 ### **Suggested plants for green walls** 
-[Click here to download](/files/Plant%20resources/suggested%20plant%20species%20for%20green%20walls.pdf) or see the full list on [NParks' Flora Fauna Web]()
+[Click here to download](/files/Plant%20resources/suggested%20plant%20species%20for%20green%20walls.pdf). You may also refer to [NParks' Flora Fauna Web](https://www.nparks.gov.sg/florafaunaweb) to search for more plants!
 
 <img style="width:600px" src="/images/Skyrise%20Greenery/keppel.jpg">
