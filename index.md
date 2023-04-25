@@ -45,4 +45,5 @@ sections:
         Singapore’s vision of a City in Nature as well as the Singapore Green
         Plan 2030. "
       image: /images/SG Main Page/why-skyrise-greenery.PNG
+      alt: Why Skyrise Greenery?
 ---
