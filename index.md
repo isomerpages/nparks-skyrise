@@ -37,7 +37,7 @@ sections:
       url: /explore/showcase-projects
   - infopic:
       title: Resources
-      description: To help you with your skyrise journey
+      description: Need help with your skyrise journey?
       button: Read on
       image: /images/Resources.png
       alt: Image alt text
