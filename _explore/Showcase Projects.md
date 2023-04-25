@@ -7,7 +7,7 @@ description: ""
 
 ## **Looking for inspirations for your projects?**
 
-Check out our e-booklet on skyrise greenery projects by landscape designers!
+Check out our e-bulletins on skyrise greenery projects by landscape designers!
 
 *If you would like to feature your projects on our newsletter, please let us know by*   <i><a href="https://form.gov.sg/5febdf5027a5850012d2848c">filling up this query form.</a></i>
 
