@@ -127,7 +127,7 @@ description: ""
 </b></font><font color="green">
 </font></label>
     <div>
-      <p>No, if you are unsure, please feel free to clarify with us by filling up the <a href="https://form.gov.sg/5cee3b050a5be80010bd5a73">query form here</a></p><br>
+      <p>No, please feel free to clarify with us by filling up the <a href="https://form.gov.sg/5cee3b050a5be80010bd5a73">query form here</a>.</p><br>
          </div>
 </li>
 	<li>
