@@ -193,7 +193,7 @@ Please refer to  <a href="https://www.skyrisegreenery.nparks.gov.sg/incentive-sc
 </b></font>
 </label>
     <div>
-      <p> The purpose of SGIS is to encourage public-private partnership in environmental sustainability and the five years of maintenance contract is to ensure the sustainability of the project.
+      <p> SGIS aims to promote the implementation of sustainably designed and well-maintained rooftop and vertical greenery that can contribute towards Singapore’s climate, ecological and social resilience. 
 </p>
          </div>
 </li></ul>
