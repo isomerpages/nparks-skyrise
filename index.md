@@ -16,7 +16,7 @@ sections:
       title: " Why Skyrise Greenery?"
       button: Learn about Skyrise Greenery
       alt: Skyrise Greenery
-      image: /images/SG Main Page/why-skyrise-greenery.PNG
+      image: /images/SG Main Page/why-skyrise-greeneryv4.png
       url: /whatis
       description: Skyrise greenery plays a vital role in contributing towards
         Singapore’s vision of a City in Nature as well as the Singapore Green

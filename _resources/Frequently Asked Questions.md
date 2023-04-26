@@ -117,7 +117,7 @@ description: ""
 		2.	Will maintenance costs be funded under SGIS?</b></font>
 </label>
     <div>
-      <p>No, maintenance costs will not be fundable.</p><br>
+      <p>No, maintenance costs will not be fundable.</p>
          </div>
 </li>
 	<li>
@@ -127,7 +127,7 @@ description: ""
 </b></font><font color="green">
 </font></label>
     <div>
-      <p>No, please feel free to clarify with us by filling up the <a href="https://form.gov.sg/5cee3b050a5be80010bd5a73">query form here</a>.</p><br>
+      <p>No, please feel free to clarify with us by filling up the <a href="https://form.gov.sg/5cee3b050a5be80010bd5a73">query form here</a>.</p>
          </div>
 </li>
 	<li>
@@ -144,12 +144,12 @@ description: ""
 		<li>
     <input id="accordion15" type="checkbox">
     <label for="accordion15"><font size="4"><b>    
-5.	Who is eligible for the Skyrise Greenery Incentive Scheme?
+5.	Is my building eligible for the Skyrise Greenery Incentive Scheme?
 </b></font>
 </label>
     <div>
-      <p>SGIS is applicable to developers and owners of existing buildings throughout Singapore 
-Please refer to  <a href="https://www.skyrisegreenery.nparks.gov.sg/incentive-scheme/about/">this page </a> for more details on eligibility.
+      <p>Existing buildings that are occupied at the time of application or undergoing Additions &amp; Alterations (A&amp;A) works may be eligible for SGIS. 
+Please refer to  <a href="https://skyrisegreenery.nparks.gov.sg/incentive-scheme/about/">this page</a> for more details on eligibility.
 
 </p>
          </div>

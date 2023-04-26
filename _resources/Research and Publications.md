@@ -7,6 +7,10 @@ In association with our partners, the results of our studies are published in va
 
 ### **Publications**
 These Technical Guidelines by the Centre for Urban Greenery and Ecology (CUGE) address important considerations in the design of Skyrise Greenery, ranging from design and systems to installation to maintenance.
+
+Find out more about these publications [here](https://www.nparks.gov.sg/Cuge/Resources/Publications/CUGE%20Standards), or get them at
+ the [Singapore Botanic Gardens Gardens Shop](https://botanicgardensshop.sg/collections/books#MainContent)! 
+ 
 <table>
 	<tbody>
 		<tr>
@@ -36,8 +40,6 @@ These Technical Guidelines by the Centre for Urban Greenery and Ecology (CUGE) a
 	<td></td></tr></tbody>
 </table>
 
-Find out more about these publications [here](https://www.nparks.gov.sg/Cuge/Resources/Publications/CUGE%20Standards), or get them at
- the [Singapore Botanic Gardens Gardens Shop](https://botanicgardensshop.sg/collections/books#MainContent)! 
 	
 ### 	**Journal articles**
 
