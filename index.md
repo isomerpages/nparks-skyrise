@@ -1,7 +1,8 @@
 ---
 layout: homepage
 title: Skyrise Greenery
-description: An Isomer site of the Singapore Government
+description: Integrating greenery into urban built environments to enhance
+  climate, social, and ecological resilience for our City in Nature
 image: /images/Skyrise Greenery Logo.png
 permalink: /
 notification: NParks will never send an SMS to request for payment/money
@@ -13,7 +14,7 @@ sections:
         social, and ecological resilience for our City in Nature
       background: /images/Skyrise Greenery/kav003.jpg
   - infopic:
-      title: " Why Skyrise Greenery?"
+      title: Why Skyrise Greenery?
       button: Learn about Skyrise Greenery
       alt: Skyrise Greenery
       image: /images/SG Main Page/why-skyrise-greeneryv4.png
