@@ -117,7 +117,7 @@ description: ""
 		2.	Will maintenance costs be funded under SGIS?</b></font>
 </label>
     <div>
-      <p>No, maintenance costs will not be fundable.</p><br>
+      <p>No, maintenance costs will not be fundable.</p>
          </div>
 </li>
 	<li>
@@ -127,7 +127,7 @@ description: ""
 </b></font><font color="green">
 </font></label>
     <div>
-      <p>No, please feel free to clarify with us by filling up the <a href="https://form.gov.sg/5cee3b050a5be80010bd5a73">query form here</a>.</p><br>
+      <p>No, please feel free to clarify with us by filling up the <a href="https://form.gov.sg/5cee3b050a5be80010bd5a73">query form here</a>.</p>
          </div>
 </li>
 	<li>
