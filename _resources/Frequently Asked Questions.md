@@ -144,11 +144,11 @@ description: ""
 		<li>
     <input id="accordion15" type="checkbox">
     <label for="accordion15"><font size="4"><b>    
-5.	Who is eligible for the Skyrise Greenery Incentive Scheme?
+5.	Is my building eligible for the Skyrise Greenery Incentive Scheme?
 </b></font>
 </label>
     <div>
-      <p>SGIS is applicable to developers and owners of existing buildings throughout Singapore. 
+      <p>Existing buildings that are occupied at the time of application or undergoing Additions &amp; Alterations (A&amp;A) works may be eligible for SGIS. 
 Please refer to  <a href="https://skyrisegreenery.nparks.gov.sg/incentive-scheme/about/">this page</a> for more details on eligibility.
 
 </p>
