@@ -1,6 +1,6 @@
 title: Skyrise Greenery
 url: https://skyrisegreenery.nparks.gov.sg
-favicon: /images/favicon-isomer.ico
+favicon: /images/Icons/favicon.png
 colors:
   primary-color: "#417505"
   secondary-color: "#417505"
@@ -15,7 +15,8 @@ colors:
       color: "#78a22f"
     - title: media-color-five
       color: "#f7d117"
-description: ""
+description: Integrating greenery into urban built environments to enhance
+  climate, social, and ecological resilience for our City in Nature
 permalink: none
 baseurl: ""
 exclude:
