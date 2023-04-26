@@ -15,8 +15,10 @@ colors:
       color: "#78a22f"
     - title: media-color-five
       color: "#f7d117"
-description: Integrating greenery into urban built environments to enhance
-  climate, social, and ecological resilience for our City in Nature
+description: >
+  Skyrise greenery plays a vital role in contributing towards
+  Singapore’s vision of a City in Nature as well as the Singapore Green Plan
+  2030
 permalink: none
 baseurl: ""
 exclude:
