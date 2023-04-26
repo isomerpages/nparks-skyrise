@@ -1,8 +1,10 @@
 ---
 layout: homepage
 title: Skyrise Greenery
-description: Integrating greenery into urban built environments to enhance
-  climate, social, and ecological resilience for our City in Nature
+description: >
+  Skyrise greenery plays a vital role in contributing towards
+  Singapore’s vision of a City in Nature as well as the Singapore Green Plan
+  2030
 image: /images/Skyrise Greenery Logo.png
 permalink: /
 notification: NParks will never send an SMS to request for payment/money
