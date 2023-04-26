@@ -49,8 +49,8 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-remote-theme
-staging: https://nparks-skyrise-staging.netlify.app
-prod: https://nparks-skyrise-prod.netlify.app
+staging: https://staging.d2zt53kpe1pc0k.amplifyapp.com/
+prod: https://master.d2zt53kpe1pc0k.amplifyapp.com/
 shareicon: /images/Skyrise Greenery Logo.png
 is_government: false
 facebook-pixel: ""
