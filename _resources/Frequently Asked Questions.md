@@ -148,8 +148,8 @@ description: ""
 </b></font>
 </label>
     <div>
-      <p>SGIS is applicable to developers and owners of existing buildings throughout Singapore 
-Please refer to  <a href="https://skyrisegreenery.nparks.gov.sg/incentive-scheme/about/">this page </a> for more details on eligibility.
+      <p>SGIS is applicable to developers and owners of existing buildings throughout Singapore. 
+Please refer to  <a href="https://skyrisegreenery.nparks.gov.sg/incentive-scheme/about/">this page</a> for more details on eligibility.
 
 </p>
          </div>
