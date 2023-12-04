@@ -46,7 +46,7 @@ Find out more about these publications [here](https://www.nparks.gov.sg/Cuge/Res
 
 <table>	
 	<tbody><tr><td>       <p>
- Singapore Urban Design Guidebook
+<b>Singapore Urban Design Guidebook</b>
 		</p><p>
 This e-book, published by the Urban Redevelopment Authority (URA) looks at the ways greenery is integrated into the urban fabric at various scales to enhance the liveability of the city, covering planning and urban design efforts to help Singapore transition from being a “Garden City” to a “City in Nature”.
 
@@ -57,9 +57,10 @@ Find out more about the Landscaping for Urban Spaces and High-Rises (LUSH) polic
 
 		
 [![](/images/Icons/GreenLiveableCity.png)](https://www.ura.gov.sg/Corporate/Resources/Publications/Books/Book-Details/Green-loveable-city)
-[**A Green &amp; Liveable City**](https://www.ura.gov.sg/Corporate/Resources/Publications/Books/Book-Details/Green-loveable-city)
-		
-### 	**Journal articles**
+[A Green &amp; Liveable City](https://www.ura.gov.sg/Corporate/Resources/Publications/Books/Book-Details/Green-loveable-city)
+			
+			
+### ****Journal articles****
 
 1.	Wong N. H., Tan A. Y. K., Chen Y., Sekar K., Tan P. Y., Chan D., Chiang K. and Wong N. C. (2009). Thermal Evaluation of Vertical Greenery Systems for Building Walls. Building and Environment, article in press.
 
