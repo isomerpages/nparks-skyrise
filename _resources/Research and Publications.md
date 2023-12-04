@@ -51,7 +51,7 @@ This e-book, published by the Urban Redevelopment Authority (URA) looks at the w
 
 It presents URA’s urban design strategies in shaping buildings and skyrise greenery, sharing how greenery is created within development spaces where people live, work and play.
 
-Find out more about the Landscaping for Urban Spaces and High-Rises (LUSH) policy, and how it influences developers to design and incorporate skyrise greenery into new developments.[<img style="width:480px" src="/images/Icons/GreenLiveableCity.png">](https://www.ura.gov.sg/Corporate/Resources/Publications/Books/Book-Details/Green-loveable-city) <b> [A Green &amp; Livable City](https://www.ura.gov.sg/Corporate/Resources/Publications/Books/Book-Details/Green-loveable-city) </b> 
+Find out more about the Landscaping for Urban Spaces and High-Rises (LUSH) policy, and how it influences developers to design and incorporate skyrise greenery into new developments. [<img style="width:480px" src="/images/Icons/GreenLiveableCity.png">](https://www.ura.gov.sg/Corporate/Resources/Publications/Books/Book-Details/Green-loveable-city) <b> [A Green &amp; Livable City](https://www.ura.gov.sg/Corporate/Resources/Publications/Books/Book-Details/Green-loveable-city) </b> 
 		</p><p>
 	</p></td></tr></tbody></table>
 	
