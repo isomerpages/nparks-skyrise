@@ -58,9 +58,10 @@ Find out more about the Landscaping for Urban Spaces and High-Rises (LUSH) polic
 		
 [![](/images/Icons/GreenLiveableCity.png)](https://www.ura.gov.sg/Corporate/Resources/Publications/Books/Book-Details/Green-loveable-city)
 [A Green &amp; Liveable City](https://www.ura.gov.sg/Corporate/Resources/Publications/Books/Book-Details/Green-loveable-city)
+</p></td></tr></tbody></table></p>
+		
 			
-			
-### ***Journal articles***
+### **Journal articles**
 
 1.	Wong N. H., Tan A. Y. K., Chen Y., Sekar K., Tan P. Y., Chan D., Chiang K. and Wong N. C. (2009). Thermal Evaluation of Vertical Greenery Systems for Building Walls. Building and Environment, article in press.
 
@@ -82,4 +83,4 @@ Find out more about the Landscaping for Urban Spaces and High-Rises (LUSH) polic
 
 10.	Wong, N H, K W Cheong, H Yan, J Soh, C L Ong and A Sia, The effects of rooftop garden on energy consumption of a commercial building in Singapore. Energy and Buildings. 35, 4 (21 January 2003): 353-364
 
-11.	Wong, N H, V L Wong, Y Chen, S E Lee, K W Cheong, G T Lim, C L Ong and A Sia, The thermal effects of plants on buildings. Architectural Science Review. 45 (2002): 1-12</p></td></tr></tbody></table></p>
+11.	Wong, N H, V L Wong, Y Chen, S E Lee, K W Cheong, G T Lim, C L Ong and A Sia, The thermal effects of plants on buildings. Architectural Science Review. 45 (2002): 1-12
