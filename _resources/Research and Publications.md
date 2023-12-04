@@ -45,18 +45,20 @@ Find out more about these publications [here](https://www.nparks.gov.sg/Cuge/Res
 </tbody></table>
 
 <table>	
-	<tbody><tr><td>       
-	<p>	</p><p><b>Singapore Urban Design Guidebook</b></p><p>
+	<tbody><tr><td>       <p>
+#### Singapore Urban Design Guidebook
+		</p><p>
 This e-book, published by the Urban Redevelopment Authority (URA) looks at the ways greenery is integrated into the urban fabric at various scales to enhance the liveability of the city, covering planning and urban design efforts to help Singapore transition from being a “Garden City” to a “City in Nature”.
 
 It presents URA’s urban design strategies in shaping buildings and skyrise greenery, sharing how greenery is created within development spaces where people live, work and play.
 
 Find out more about the Landscaping for Urban Spaces and High-Rises (LUSH) policy, and how it influences developers to design and incorporate skyrise greenery into new developments. 
-		<img style="width:480px" src="/images/Icons/GreenLiveableCity.png">(https://www.ura.gov.sg/Corporate/Resources/Publications/Books/Book-Details/Green-loveable-city) <b>
-</b></p><p><b>A Green &amp; Livable City (https://www.ura.gov.sg/Corporate/Resources/Publications/Books/Book-Details/Green-loveable-city)</b> 
-		</p><p> [A Green &amp; Liveable City](https://www.ura.gov.sg/Corporate/Resources/Publications/Books/Book-Details/Green-loveable-city)
-	</p></td></tr></tbody></table>
 	
+
+		
+[![](/images/Icons/GreenLiveableCity.png)](https://www.ura.gov.sg/Corporate/Resources/Publications/Books/Book-Details/Green-loveable-city)
+[**A Green &amp; Liveable City**](https://www.ura.gov.sg/Corporate/Resources/Publications/Books/Book-Details/Green-loveable-city)
+		
 ### 	**Journal articles**
 
 1.	Wong N. H., Tan A. Y. K., Chen Y., Sekar K., Tan P. Y., Chan D., Chiang K. and Wong N. C. (2009). Thermal Evaluation of Vertical Greenery Systems for Building Walls. Building and Environment, article in press.
@@ -79,4 +81,4 @@ Find out more about the Landscaping for Urban Spaces and High-Rises (LUSH) polic
 
 10.	Wong, N H, K W Cheong, H Yan, J Soh, C L Ong and A Sia, The effects of rooftop garden on energy consumption of a commercial building in Singapore. Energy and Buildings. 35, 4 (21 January 2003): 353-364
 
-11.	Wong, N H, V L Wong, Y Chen, S E Lee, K W Cheong, G T Lim, C L Ong and A Sia, The thermal effects of plants on buildings. Architectural Science Review. 45 (2002): 1-12</p>
+11.	Wong, N H, V L Wong, Y Chen, S E Lee, K W Cheong, G T Lim, C L Ong and A Sia, The thermal effects of plants on buildings. Architectural Science Review. 45 (2002): 1-12</p></td></tr></tbody></table></p>
