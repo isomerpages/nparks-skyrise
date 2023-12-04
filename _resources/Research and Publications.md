@@ -60,7 +60,7 @@ Find out more about the Landscaping for Urban Spaces and High-Rises (LUSH) polic
 [A Green &amp; Liveable City](https://www.ura.gov.sg/Corporate/Resources/Publications/Books/Book-Details/Green-loveable-city)
 			
 			
-### ****Journal articles****
+### ***Journal articles***
 
 1.	Wong N. H., Tan A. Y. K., Chen Y., Sekar K., Tan P. Y., Chan D., Chiang K. and Wong N. C. (2009). Thermal Evaluation of Vertical Greenery Systems for Building Walls. Building and Environment, article in press.
 
