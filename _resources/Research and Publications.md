@@ -54,11 +54,11 @@ It presents URA’s urban design strategies in shaping buildings and skyrise gre
 
 Find out more about the Landscaping for Urban Spaces and High-Rises (LUSH) policy, and how it influences developers to design and incorporate skyrise greenery into new developments. 
 	
-
+</p></td></tr></tbody></table></p>
 		
 [![](/images/Icons/GreenLiveableCity.png)](https://www.ura.gov.sg/Corporate/Resources/Publications/Books/Book-Details/Green-loveable-city)
 [A Green &amp; Liveable City](https://www.ura.gov.sg/Corporate/Resources/Publications/Books/Book-Details/Green-loveable-city)
-</p></td></tr></tbody></table></p>
+
 		
 			
 ### **Journal articles**
