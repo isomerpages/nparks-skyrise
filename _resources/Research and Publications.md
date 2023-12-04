@@ -2,11 +2,12 @@
 title: Research and Publications
 permalink: /resources/research-and-publications/
 description: ""
+variant: markdown
 ---
 In association with our partners, the results of our studies are published in various forms for dissemination to the industry and relevant professionals.
 
 ### **Publications**
-These Technical Guidelines by the Centre for Urban Greenery and Ecology (CUGE) address important considerations in the design of Skyrise Greenery, ranging from design and systems to installation to maintenance.
+<b>Technical Guidelines</b><p> These Technical Guidelines by the Centre for Urban Greenery and Ecology (CUGE) address important considerations in the design of Skyrise Greenery, ranging from design and systems to installation to maintenance.
 
 Find out more about these publications [here](https://www.nparks.gov.sg/Cuge/Resources/Publications/CUGE%20Standards), or get them at
  the [Singapore Botanic Gardens Gardens Shop](https://botanicgardensshop.sg/collections/books#MainContent)! 
@@ -37,9 +38,22 @@ Find out more about these publications [here](https://www.nparks.gov.sg/Cuge/Res
 	</b></td>
 		<td> <img style="width:180px" src="/images/Icons/biodiversit-on-roof-gardens.PNG"> <b>Design Guides to Promote Biodiversity on Roof Gardens 
 	</b></td>
-	<td></td></tr></tbody>
-</table>
+				</tr><tr> 
+				</tr>
 
+
+</tbody></table>
+
+<table>	
+	<tbody><tr><td>       
+		<p><b>Singapore Urban Design Guidebook</b></p><p>
+This e-book, published by the Urban Redevelopment Authority (URA) looks at the ways greenery is integrated into the urban fabric at various scales to enhance the liveability of the city, covering planning and urban design efforts to help Singapore transition from being a “Garden City” to a “City in Nature”.
+
+It presents URA’s urban design strategies in shaping buildings and skyrise greenery, sharing how greenery is created within development spaces where people live, work and play.
+
+Find out more about the Landscaping for Urban Spaces and High-Rises (LUSH) policy, and how it influences developers to design and incorporate skyrise greenery into new developments.[<img style="width:480px" src="/images/Icons/GreenLiveableCity.png">](https://www.ura.gov.sg/Corporate/Resources/Publications/Books/Book-Details/Green-loveable-city) <b> [A Green &amp; Livable City](https://www.ura.gov.sg/Corporate/Resources/Publications/Books/Book-Details/Green-loveable-city) </b> 
+		</p><p>
+	</p></td></tr></tbody></table>
 	
 ### 	**Journal articles**
 
@@ -63,4 +77,4 @@ Find out more about these publications [here](https://www.nparks.gov.sg/Cuge/Res
 
 10.	Wong, N H, K W Cheong, H Yan, J Soh, C L Ong and A Sia, The effects of rooftop garden on energy consumption of a commercial building in Singapore. Energy and Buildings. 35, 4 (21 January 2003): 353-364
 
-11.	Wong, N H, V L Wong, Y Chen, S E Lee, K W Cheong, G T Lim, C L Ong and A Sia, The thermal effects of plants on buildings. Architectural Science Review. 45 (2002): 1-12
+11.	Wong, N H, V L Wong, Y Chen, S E Lee, K W Cheong, G T Lim, C L Ong and A Sia, The thermal effects of plants on buildings. Architectural Science Review. 45 (2002): 1-12</p>
