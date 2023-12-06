@@ -46,18 +46,17 @@ Find out more about these publications [here](https://www.nparks.gov.sg/Cuge/Res
 
 </tbody></table>
  
+ 
 		
 <b>Singapore Urban Design Guidebook</b>
 	<br>
-	<table>	
-	<tbody><tr><td>     
+ 
 This e-book, published by the Urban Redevelopment Authority (URA) looks at the ways greenery is integrated into the urban fabric at various scales to enhance the liveability of the city, covering planning and urban design efforts to help Singapore transition from being a “Garden City” to a “City in Nature”.
 
 It presents URA’s urban design strategies in shaping buildings and skyrise greenery, sharing how greenery is created within development spaces where people live, work and play.
 
 Find out more about the Landscaping for Urban Spaces and High-Rises (LUSH) policy, and how it influences developers to design and incorporate skyrise greenery into new developments. 
-	
-</td></tr></tbody></table>
+
 		
 [![](/images/Icons/GreenLiveableCity.png)](https://www.ura.gov.sg/Corporate/Resources/Publications/Books/Book-Details/Green-loveable-city)
 [A Green &amp; Liveable City](https://www.ura.gov.sg/Corporate/Resources/Publications/Books/Book-Details/Green-loveable-city)
