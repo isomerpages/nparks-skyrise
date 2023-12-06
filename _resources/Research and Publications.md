@@ -22,7 +22,7 @@ Find out more about these publications [here](https://www.nparks.gov.sg/Cuge/Res
 	</tr>
 		<tr>
 		<td><img style="width:180px" src="/images/Icons/substrate-layer-for-rooftop-greenery.PNG"> <b>Guidelines on Substrate Layer for Rooftop Greenery</b> </td>
-			<td><img style="width:180px" src="/images/Icons/filter-drainage-root-penetration-barrier-layers-rooftop-greenery.PNG"><center><b>Guidelines on Filter, Drainage and Root Penetration Barrier Layers For Rooftop Greenery </b></center></td>
+			<td><img style="width:180px" src="/images/Icons/filter-drainage-root-penetration-barrier-layers-rooftop-greenery.PNG"><b>Guidelines on Filter, Drainage and Root Penetration Barrier Layers For Rooftop Greenery </b></td>
 	</tr>
 		<tr>
 		<td><img style="width:180px" src="/images/Icons/waterproofing-for-rooftop-greenery.PNG"> <b>Guidelines on Waterproofing For Rooftop Greenery </b> </td>
