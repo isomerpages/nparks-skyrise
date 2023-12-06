@@ -7,7 +7,9 @@ variant: markdown
 In association with our partners, the results of our studies are published in various forms for dissemination to the industry and relevant professionals.
 
 ### **Publications**
-<b>Technical Guidelines</b><p> These Technical Guidelines by the Centre for Urban Greenery and Ecology (CUGE) address important considerations in the design of Skyrise Greenery, ranging from design and systems to installation to maintenance.
+<b>Technical Guidelines</b>
+
+These Technical Guidelines by the Centre for Urban Greenery and Ecology (CUGE) address important considerations in the design of Skyrise Greenery, ranging from design and systems to installation to maintenance.
 
 Find out more about these publications [here](https://www.nparks.gov.sg/Cuge/Resources/Publications/CUGE%20Standards), or get them at
  the [Singapore Botanic Gardens Gardens Shop](https://botanicgardensshop.sg/collections/books#MainContent)! 
@@ -46,16 +48,17 @@ Find out more about these publications [here](https://www.nparks.gov.sg/Cuge/Res
 
 
 <table>	
-	<tbody><tr><td>       <p>
+	<tbody><tr><td>      
+		
 <b>Singapore Urban Design Guidebook</b>
-		</p><p>
+	<br>
 This e-book, published by the Urban Redevelopment Authority (URA) looks at the ways greenery is integrated into the urban fabric at various scales to enhance the liveability of the city, covering planning and urban design efforts to help Singapore transition from being a “Garden City” to a “City in Nature”.
 
 It presents URA’s urban design strategies in shaping buildings and skyrise greenery, sharing how greenery is created within development spaces where people live, work and play.
 
 Find out more about the Landscaping for Urban Spaces and High-Rises (LUSH) policy, and how it influences developers to design and incorporate skyrise greenery into new developments. 
 	
-</p></td></tr></tbody></table></p>
+</td></tr></tbody></table>
 		
 [![](/images/Icons/GreenLiveableCity.png)](https://www.ura.gov.sg/Corporate/Resources/Publications/Books/Book-Details/Green-loveable-city)
 [A Green &amp; Liveable City](https://www.ura.gov.sg/Corporate/Resources/Publications/Books/Book-Details/Green-loveable-city)
