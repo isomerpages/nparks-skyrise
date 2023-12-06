@@ -45,13 +45,12 @@ Find out more about these publications [here](https://www.nparks.gov.sg/Cuge/Res
 
 
 </tbody></table>
-
-
-<table>	
-	<tbody><tr><td>      
+ 
 		
 <b>Singapore Urban Design Guidebook</b>
 	<br>
+	<table>	
+	<tbody><tr><td>     
 This e-book, published by the Urban Redevelopment Authority (URA) looks at the ways greenery is integrated into the urban fabric at various scales to enhance the liveability of the city, covering planning and urban design efforts to help Singapore transition from being a “Garden City” to a “City in Nature”.
 
 It presents URA’s urban design strategies in shaping buildings and skyrise greenery, sharing how greenery is created within development spaces where people live, work and play.
