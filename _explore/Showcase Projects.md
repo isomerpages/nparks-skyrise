@@ -12,7 +12,7 @@ variant: tiptap
 designers</p>
 <h3>4th Edition</h3>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Icons/4thEdSkyriseGreeneryShowcaseCover_JPG.png">
+<img style="width: 30%;" height="auto" width="100%" alt="" src="/images/Icons/4thEdSkyriseGreeneryShowcaseCover_JPG.png">
 </div>
 <h3>3rd Edition</h3>
 <p>Published in 2022, this edition features projects completed in 2021:</p>
