@@ -2,6 +2,7 @@
 title: Guidelines
 permalink: /resources/guidelines/
 description: ""
+variant: markdown
 ---
 *Please click on the images below to download a copy*
  
@@ -11,4 +12,4 @@ description: ""
 
 ####  **Monsoon Advisory** <br><br>Maintaining rooftop gardens during strong winds and heavy rain 
 
-In Singapore, winds are exceptionally strong during the monsoon seasons of December to January and June to September, while rainfall tends to become heavier from November to January. These elements place additional pressure on all exposed building surfaces, including rooftop gardens. Building owners and facility managers should hence pay special attention to tall shrubs and trees present on your rooftop garden during this period to ensure safety of users. The following poster highlights some points to note for softscape maintenance. This resource should be used alongside the “Trees on Rooftops” Guide above, which highlights other areas of concern for both hardscapes and softscapes.[![](/images/Graphics/monsoon-advisory-corner-400.png)](/files/monsoon%20advisory%20-%20rooftop%20garden%202023.pdf)
+In Singapore, winds are exceptionally strong during the monsoon seasons of December to January and June to September, while rainfall tends to become heavier from November to January. These elements place additional pressure on all exposed building surfaces, including rooftop gardens. Building owners and facility managers should hence pay special attention to tall shrubs and trees present on your rooftop garden during this period to ensure safety of users. The following poster highlights some points to note for softscape maintenance. This resource should be used alongside the “Trees on Rooftops” Guide above, which highlights other areas of concern for both hardscapes and softscapes. [![](/images/Icons/monsoon-advisory-corner-400.png)](/files/monsoon_advisory_rooftop_garden.pdf)
