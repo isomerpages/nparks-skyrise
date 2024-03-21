@@ -10,7 +10,7 @@ variant: tiptap
 <h2><strong>Looking for inspirations for your projects?</strong></h2>
 <p>Our e-bulletins features notable skyrise greenery projects by landscape
 designers</p>
-<h3>4th Edition</h3><a class="isomer-image-wrapper" href="https://skyrisegreenery.nparks.gov.sg/files/Explore%20Tab/4thEdSkyriseGreeneryShowcase.pdf"><img style="width: 30%;" height="auto" width="100%" alt="" src="/images/Icons/4thEdSkyriseGreeneryShowcaseCover_JPG.png"></a>
+<h3>4th Edition</h3><a class="isomer-image-wrapper" href="https://staging-lite.d2ydwr2srh8vam.amplifyapp.com/files/Explore%20Tab/4thEdSkyriseGreeneryShowcase.pdf"><img style="width: 30%;" height="auto" width="100%" alt="" src="/images/Icons/4thEdSkyriseGreeneryShowcaseCover_JPG.png"></a>
 <p><a href="/files/Explore Tab/4thEdSkyriseGreeneryShowcase.pdf" rel="noopener noreferrer nofollow" target="_blank">Click here</a>
 </p>
 <h3>3rd Edition</h3>
