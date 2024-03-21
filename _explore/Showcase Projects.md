@@ -11,6 +11,8 @@ variant: tiptap
 <p>Our e-bulletins features notable skyrise greenery projects by landscape
 designers</p>
 <h3>4th Edition</h3><a class="isomer-image-wrapper" href="https://skyrisegreenery.nparks.gov.sg/files/Explore%20Tab/4thEdSkyriseGreeneryShowcase.pdf"><img style="width: 30%;" height="auto" width="100%" alt="" src="/images/Icons/4thEdSkyriseGreeneryShowcaseCover_JPG.png"></a>
+<p><a href="/files/Explore Tab/4thEdSkyriseGreeneryShowcase.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>
+</p>
 <h3>3rd Edition</h3>
 <p>Published in 2022, this edition features projects completed in 2021:</p>
 <p><a href="/files/Explore%20Tab/part%201%20skyrise%20greenery%20showcase%203rd%20edition.pdf" rel="noopener noreferrer nofollow" target="_blank">Part 1: Commercial, Residential and Community Facilities</a>
