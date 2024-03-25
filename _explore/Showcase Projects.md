@@ -14,9 +14,38 @@ by landscape designers for ideas and inspiration.</p>
 <p><a href="/files/Explore Tab/4thEdSkyriseGreeneryShowcase.pdf" rel="noopener noreferrer nofollow" target="_blank"><sup>Click here</sup></a>
 </p>
 <h3>3rd Edition</h3>
-<p>Published in 2022, this edition features projects completed in 2021:
-<br><a href="/files/Explore%20Tab/part%201%20skyrise%20greenery%20showcase%203rd%20edition.pdf" rel="noopener noreferrer nofollow" target="_blank">Part 1: Commercial, Residential and Community Facilities</a> 
-<br><a href="/files/Explore%20Tab/part%202%20skyrise%20greenery%20showcase%203rd%20edition.pdf" rel="noopener noreferrer nofollow" target="_blank">Part 2: Educational Institution</a>
+<p>Published in 2022, this edition features projects completed in 2021:</p>
+<table>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Icons/3rdP1EdSkyriseGreeneryShowcaseCover.png">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Icons/3rdP2EdSkyriseGreeneryShowcaseCover.png">
+</div>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="/files/Explore%20Tab/part%201%20skyrise%20greenery%20showcase%203rd%20edition.pdf" rel="noopener noreferrer nofollow" target="_blank">Part 1: Commercial, Residential and Community Facilities</a> 
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://cms.isomer.gov.sg/files/Explore%20Tab/part%202%20skyrise%20greenery%20showcase%203rd%20edition.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Part 2: Educational Institution</u></a>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>
+<br>
+<br>
 </p>
 <h3>2nd Edition</h3>
 <p>Published in 2021, this edition features projects completed in 2020|
