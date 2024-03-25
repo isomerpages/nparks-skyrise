@@ -19,7 +19,10 @@ by landscape designers for ideas and inspiration.</p>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p></p><a class="isomer-image-wrapper" href="https://cms.isomer.gov.sg/files/Explore%20Tab/part%201%20skyrise%20greenery%20showcase%203rd%20edition.pdf"><img style="width: 40%;" height="auto" width="100%" alt="" src="/images/Icons/3rdP1EdSkyriseGreeneryShowcaseCover.png"></a>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/Icons/3rdP1EdSkyriseGreeneryShowcaseCover.png">
+</div>
 </th>
 <th rowspan="1" colspan="1">
 <p></p>
