@@ -39,7 +39,12 @@ by landscape designers for ideas and inspiration.</p>
 </table>
 <p></p>
 <h3>2nd Edition</h3>
-<p>Published in 2021, this edition features projects completed in 2020|
+<p>Published in 2021, this edition features projects completed in 2020</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 20%;" height="auto" width="100%" alt="" src="/images/Icons/2ndEdSkyriseGreeneryShowcaseCover.png">
+</div>
+<p>
 <br><a href="/files/Explore%20Tab/skyrise%20greenery%20showcase%202nd%20edition_final.pdf" rel="noopener noreferrer nofollow" target="_blank">click here</a>
 </p>
 <h3>1st Edition</h3>
