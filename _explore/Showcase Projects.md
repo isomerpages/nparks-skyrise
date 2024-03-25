@@ -14,7 +14,6 @@ by landscape designers for ideas and inspiration.</p>
 <p><a href="/files/Explore Tab/4thEdSkyriseGreeneryShowcase.pdf" rel="noopener noreferrer nofollow" target="_blank"><sup>Click here</sup></a>
 </p>
 <h3>3rd Edition</h3>
-<p>Published in 2022, this edition features projects completed in 2021:</p>
 <table>
 <tbody>
 <tr>
@@ -37,10 +36,9 @@ by landscape designers for ideas and inspiration.</p>
 </tr>
 </tbody>
 </table>
-<p></p>
+<p>Published in 2022, this edition features projects completed in 2021.</p>
 <h3>2nd Edition</h3>
 <p>Published in 2021, this edition features projects completed in 2020</p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 20%;" height="auto" width="100%" alt="" src="/images/Icons/2ndEdSkyriseGreeneryShowcaseCover.png">
 </div>
