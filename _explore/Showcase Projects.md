@@ -10,7 +10,10 @@ variant: tiptap
 <h3><strong>Looking for inspirations for your projects?</strong></h3>
 <p>Explore our e-bulletins showcasing the latest skyrise greenery projects
 by landscape designers for ideas and inspiration.</p>
-<h3>4th Edition</h3><a class="isomer-image-wrapper" href="https://staging-lite.d2ydwr2srh8vam.amplifyapp.com/files/Explore%20Tab/4thEdSkyriseGreeneryShowcase.pdf"><img style="width: 30%;" height="auto" width="100%" alt="" src="/images/Icons/4thEdSkyriseGreeneryShowcaseCover_JPG.png"></a>
+<h3>4th Edition</h3>
+<div class="isomer-image-wrapper">
+<img style="width: 25%;" height="auto" width="100%" alt="" src="/images/Icons/4thEdSkyriseGreeneryShowcaseCover_JPG.png">
+</div>
 <p>Published in 2024, this edition features projects completed in 2023.
 <br><a href="/files/Explore Tab/4thEdSkyriseGreeneryShowcase.pdf" rel="noopener noreferrer nofollow" target="_blank"><sup>Click here</sup></a>
 </p>
@@ -19,10 +22,16 @@ by landscape designers for ideas and inspiration.</p>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p></p><a class="isomer-image-wrapper" href="https://cms.isomer.gov.sg/files/Explore%20Tab/part%201%20skyrise%20greenery%20showcase%203rd%20edition.pdf"><img style="width: 40%;" height="auto" width="100%" alt="" src="/images/Icons/3rdP1EdSkyriseGreeneryShowcaseCover.png"></a>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/Icons/3rdP1EdSkyriseGreeneryShowcaseCover.png">
+</div>
 </th>
 <th rowspan="1" colspan="1">
-<p></p><a class="isomer-image-wrapper" href="https://cms.isomer.gov.sg/files/Explore%20Tab/part%202%20skyrise%20greenery%20showcase%203rd%20edition.pdf"><img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Icons/3rdP2EdSkyriseGreeneryShowcaseCover.png"></a>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Icons/3rdP2EdSkyriseGreeneryShowcaseCover.png">
+</div>
 </th>
 </tr>
 <tr>
@@ -31,7 +40,7 @@ by landscape designers for ideas and inspiration.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://cms.isomer.gov.sg/files/Explore%20Tab/part%202%20skyrise%20greenery%20showcase%203rd%20edition.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Part 2: Educational Institution</u></a>
+<p><a href="/files/Explore Tab/part 2 skyrise greenery showcase 3rd edition.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Part 2: Educational Institution</u></a>
 </p>
 </td>
 </tr>
