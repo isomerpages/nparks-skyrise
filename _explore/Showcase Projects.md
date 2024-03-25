@@ -22,7 +22,10 @@ by landscape designers for ideas and inspiration.</p>
 <p></p><a class="isomer-image-wrapper" href="https://cms.isomer.gov.sg/files/Explore%20Tab/part%201%20skyrise%20greenery%20showcase%203rd%20edition.pdf"><img style="width: 40%;" height="auto" width="100%" alt="" src="/images/Icons/3rdP1EdSkyriseGreeneryShowcaseCover.png"></a>
 </th>
 <th rowspan="1" colspan="1">
-<p></p><a class="isomer-image-wrapper" href="https://cms.isomer.gov.sg/files/Explore%20Tab/part%202%20skyrise%20greenery%20showcase%203rd%20edition.pdf"><img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Icons/3rdP2EdSkyriseGreeneryShowcaseCover.png"></a>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Icons/3rdP2EdSkyriseGreeneryShowcaseCover.png">
+</div>
 </th>
 </tr>
 <tr>
@@ -31,7 +34,7 @@ by landscape designers for ideas and inspiration.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://cms.isomer.gov.sg/files/Explore%20Tab/part%202%20skyrise%20greenery%20showcase%203rd%20edition.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Part 2: Educational Institution</u></a>
+<p><a href="/files/Explore Tab/part 2 skyrise greenery showcase 3rd edition.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Part 2: Educational Institution</u></a>
 </p>
 </td>
 </tr>
