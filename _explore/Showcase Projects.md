@@ -18,7 +18,7 @@ by landscape designers for ideas and inspiration.</p>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p></p><a class="isomer-image-wrapper" href="https://cms.isomer.gov.sg/files/Explore%20Tab/part%201%20skyrise%20greenery%20showcase%203rd%20edition.pdf"><img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Icons/3rdP1EdSkyriseGreeneryShowcaseCover.png"></a>
+<p></p><a class="isomer-image-wrapper" href="https://cms.isomer.gov.sg/files/Explore%20Tab/part%201%20skyrise%20greenery%20showcase%203rd%20edition.pdf"><img style="width: 40%;" height="auto" width="100%" alt="" src="/images/Icons/3rdP1EdSkyriseGreeneryShowcaseCover.png"></a>
 </th>
 <th rowspan="1" colspan="1">
 <p></p><a class="isomer-image-wrapper" href="https://cms.isomer.gov.sg/files/Explore%20Tab/part%202%20skyrise%20greenery%20showcase%203rd%20edition.pdf"><img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Icons/3rdP2EdSkyriseGreeneryShowcaseCover.png"></a>
@@ -40,7 +40,7 @@ by landscape designers for ideas and inspiration.</p>
 <h3>2nd Edition</h3>
 <p>Published in 2021, this edition features projects completed in 2020</p>
 <div class="isomer-image-wrapper">
-<img style="width: 20%;" height="auto" width="100%" alt="" src="/images/Icons/2ndEdSkyriseGreeneryShowcaseCover.png">
+<img style="width: 30%;" height="auto" width="100%" alt="" src="/images/Icons/2ndEdSkyriseGreeneryShowcaseCover.png">
 </div>
 <p>
 <br><a href="/files/Explore%20Tab/skyrise%20greenery%20showcase%202nd%20edition_final.pdf" rel="noopener noreferrer nofollow" target="_blank">click here</a>
