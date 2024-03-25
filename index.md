@@ -33,7 +33,7 @@ sections:
       description: Looking for inspirations for your projects?
       button: Check out our e-bulletins
       alt: Image alt text
-      image: /images/Graphics/Showcase editions.png
+      image: /images/Icons/ebulletins.png
       url: /explore/showcase-projects
   - infopic:
       title: Resources
