@@ -10,7 +10,10 @@ variant: tiptap
 <h3><strong>Looking for inspirations for your projects?</strong></h3>
 <p>Explore our e-bulletins showcasing the latest skyrise greenery projects
 by landscape designers for ideas and inspiration.</p>
-<h3>4th Edition</h3><a class="isomer-image-wrapper" href="https://staging-lite.d2ydwr2srh8vam.amplifyapp.com/files/Explore%20Tab/4thEdSkyriseGreeneryShowcase.pdf"><img style="width: 30%;" height="auto" width="100%" alt="" src="/images/Icons/4thEdSkyriseGreeneryShowcaseCover_JPG.png"></a>
+<h3>4th Edition</h3>
+<div class="isomer-image-wrapper">
+<img style="width: 25%;" height="auto" width="100%" alt="" src="/images/Icons/4thEdSkyriseGreeneryShowcaseCover_JPG.png">
+</div>
 <p>Published in 2024, this edition features projects completed in 2023.
 <br><a href="/files/Explore Tab/4thEdSkyriseGreeneryShowcase.pdf" rel="noopener noreferrer nofollow" target="_blank"><sup>Click here</sup></a>
 </p>
