@@ -51,8 +51,8 @@ by landscape designers for ideas and inspiration.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 30%;" height="auto" width="100%" alt="" src="/images/Icons/1stEdSkyriseGreeneryShowcaseCover.png">
 </div>
-<p>Published in 2020, this edition features projects completed in 2019
-<br><a href="/files/Explore%20Tab/compressed%20final%20e-booklet%20on%20skyrise%20greenery%20project%20showcase_1st%20ed%202019.pdf" rel="noopener noreferrer nofollow" target="_blank">click here</a>
+<p>Published in 2020, this edition features projects completed in 2019.
+<br><a href="/files/Explore%20Tab/compressed%20final%20e-booklet%20on%20skyrise%20greenery%20project%20showcase_1st%20ed%202019.pdf" rel="noopener noreferrer nofollow" target="_blank"><sup>click here</sup></a>
 </p>
 <p><em>If you would like to feature your projects on our newsletter, please let us know by</em>  <em><a href="https://form.gov.sg/5febdf5027a5850012d2848c" rel="noopener noreferrer nofollow" target="_blank">filling up this query form.</a></em>
 </p>
