@@ -134,7 +134,7 @@ to be included in the list, please contact us.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><em>Office:</em>&nbsp;48 Kong Seng Road, #04-03 Singapore 426983</p>
-<p>&nbsp;</p>
+<p></p>
 <p><em>Nursery:</em>&nbsp;378 Tanjong Katong Road Singapore 437134</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -267,10 +267,8 @@ to be included in the list, please contact us.</p>
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Office: 421 Tagore Industrial Avenue</p>
-<p>#03-25 Tagore 8</p>
-<p>Singapore 787805</p>
-<p>&nbsp;</p>
+<p>Office: 421 Tagore Industrial Avenue #03-25 Tagore 8 Singapore 787805</p>
+<p></p>
 <p>Nursery: No. 11 Lim Chu Kang Lane 6, Singapore 718 927</p>
 <p>&nbsp;</p>
 </td>
