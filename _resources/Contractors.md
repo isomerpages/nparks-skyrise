@@ -315,7 +315,7 @@ to be included in the list, please contact us.</p>
 <td rowspan="1" colspan="1">
 <p><em>Tel:</em>&nbsp;(65) 6755 0055
 <br><em>Email:</em>&nbsp;info@uniseal.com.sg
-<br><em>Website:</em>&nbsp;<a href="https://uniseal.com.sg/contact-us/" rel="noopener noreferrer nofollow" target="_blank">https://unisealsg.com/contact-us</a>&nbsp;</p>
+<br><em>Website:</em>&nbsp;<a href="https://uniseal.com.sg/contact-us/" rel="noopener noreferrer nofollow" target="_blank">https://www.unisealsg.com/contact-us</a>&nbsp;</p>
 </td>
 </tr>
 <tr>
