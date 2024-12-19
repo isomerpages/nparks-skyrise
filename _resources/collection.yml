@@ -2,6 +2,7 @@ collections:
   resources:
     output: true
     order:
+      - Contractors.md
       - Guidelines.md
       - Research and Publications.md
       - Plant Resources.md
