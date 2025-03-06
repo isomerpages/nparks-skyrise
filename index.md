@@ -1,7 +1,7 @@
 ---
 layout: homepage
-title: Skyrise Greenery
-description: Gardens in the Sky
+title: National Parks Board
+description: Skyrise Greenery - Gardens in the Sky
 image: /images/Skyrise Greenery Logo.png
 permalink: /
 notification: NParks will never send an SMS to request for payment/money
