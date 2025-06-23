@@ -4,9 +4,11 @@ title: National Parks Board
 description: Skyrise Greenery - Gardens in the Sky
 image: /images/Skyrise Greenery Logo.png
 permalink: /
-notification: Government officials will NEVER ask you to transfer money or
-  disclose bank log-in details over a phone call. Call the 24/7 ScamShield
-  Helpline at 1799 if you are unsure if something is a scam.
+notification: <b>Government official impersonation scam alert</b> Government
+  officials will NEVER ask you to transfer money or disclose bank log-in details
+  over a phone call. Call the 24/7 <a
+  href="https://www.scamshield.gov.sg/">ScamShield</a> Helpline at 1799 if you
+  are unsure if something is a scam.
 sections:
   - hero:
       title: Gardens in the Sky
