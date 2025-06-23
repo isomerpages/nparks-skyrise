@@ -4,7 +4,7 @@ title: National Parks Board
 description: Skyrise Greenery - Gardens in the Sky
 image: /images/Skyrise Greenery Logo.png
 permalink: /
-notification: '<p style="text-align: left;"> <strong>Government official
+notification: '<p style="text-align: left;"><strong>Government official
   impersonation scam alert</strong> Government officials will NEVER ask you to
   transfer money or disclose bank log-in details over a phone call. Call the
   24/7 <a href="https://www.scamshield.gov.sg/">ScamShield</a> Helpline at 1799
