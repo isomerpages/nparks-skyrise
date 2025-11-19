@@ -11,8 +11,7 @@ in various forms for dissemination to the industry and relevant professionals.</
 </p>
 <p>These Technical Guidelines by the Centre for Urban Greenery and Ecology
 (CUGE) address important considerations in the design of Skyrise Greenery,
-ranging from design and systems to installation to maintenance. Please
-click on the image to download the Guideline.</p>
+ranging from design and systems to installation to maintenance.</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -24,7 +23,7 @@ click on the image to download the Guideline.</p>
 <div class="isomer-image-wrapper">
 <img style="width:180px" height="auto" width="100%" src="/images/Icons/substrate-layer-for-rooftop-greenery.PNG">
 </div>
-<p><strong>CS E03:2010 - Guidelines on Substrate Layer for Rooftop Greenery</strong>
+<p><strong><a href="/files/CUGE Standards/CSE03_2010___Guidelines_on_Substrate_Layer_for_Rooftop_Greenery.pdf" rel="noopener noreferrer nofollow" target="_blank">CS E03:2010 - Guidelines on Substrate Layer for Rooftop Greenery</a></strong>
 </p>
 <p><em>Guidelines on Substrate Layer for Rooftop Greenery&nbsp;</em>outlines
 the basic physical and chemical properties for quality referencing in the
@@ -37,7 +36,7 @@ greenery.</p>
 <div class="isomer-image-wrapper">
 <img style="width:180px" height="auto" width="100%" src="/images/Icons/filter-drainage-root-penetration-barrier-layers-rooftop-greenery.PNG">
 </div>
-<p><strong>CS E04:2010 - Guidelines on Filter, Drainage and Root Penetration Barrier Layers For Rooftop Greenery</strong>
+<p><strong><a href="/files/CUGE Standards/CSE04_2010___Guidelines_on_Filter__Drainage_and_Root_Penetration_Barrier_Layers_For_Rooftop_Greenery.pdf" rel="noopener noreferrer nofollow" target="_blank">CS E04:2010 - Guidelines on Filter, Drainage and Root Penetration Barrier Layers For Rooftop Greenery</a></strong>
 </p>
 <p><em>Guidelines on Filter, Drainage and Root Penetration Barrier Layers For Rooftop Greenery&nbsp;</em>outlines
 the basic technical requirements for quality referencing in the construction
@@ -52,7 +51,7 @@ greenery.</p>
 <div class="isomer-image-wrapper">
 <img style="width:180px" height="auto" width="100%" src="/images/Icons/waterproofing-for-rooftop-greenery.PNG">
 </div>
-<p><strong>CS E05:2012 - Guidelines on Waterproofing For Rooftop Greenery</strong>
+<p><strong><a href="/files/CUGE Standards/CSE05_2012___Guidelines_on_Waterproofing_For_Rooftop_Greenery.pdf" rel="noopener noreferrer nofollow" target="_blank">CS E05:2012 - Guidelines on Waterproofing For Rooftop Greenery</a></strong>
 </p>
 <p></p>
 <p><em>Guidelines on Waterproofing for Rooftop Greenery&nbsp;</em>outlines
@@ -66,7 +65,7 @@ gardens.</p>
 <div class="isomer-image-wrapper">
 <img style="width:180px" height="auto" width="100%" src="/images/Icons/irrigation-for-rooftop-greenery.PNG">
 </div>
-<p><strong>CS E06:2012 - Guidelines on Irrigation For Rooftop Greenery</strong>
+<p><strong><a href="/files/CUGE Standards/CSE06_2012___Guidelines_on_Irrigation_For_Rooftop_Greenery.pdf" rel="noopener noreferrer nofollow" target="_blank">CS E06:2012 - Guidelines on Irrigation For Rooftop Greenery</a></strong>
 </p>
 <p></p>
 <p><em>Guidelines on Irrigation for Rooftop Greenery&nbsp;</em>sets out the
@@ -81,7 +80,7 @@ and up-keep of the irrigation system for green roofs and roof gardens.</p>
 <div class="isomer-image-wrapper">
 <img style="width:180px" height="auto" width="100%" src="/images/Icons/general-maintenance-for-rooftop-greenery.PNG">
 </div>
-<p><strong>CS&nbsp;E07:2012 - Guidelines on General Maintenance for Rooftop Greenery&nbsp;</strong>
+<p><strong><a href="/files/CUGE Standards/CSE07_2012___Guidelines_on_General_Maintenance_for_Rooftop_Greenery.pdf" rel="noopener noreferrer nofollow" target="_blank">CS&nbsp;E07:2012 - Guidelines on General Maintenance for Rooftop Greenery&nbsp;</a></strong>
 </p>
 <p><em>Guidelines on General Maintenance for Rooftop Greenery&nbsp;</em>describes
 the basic requirements for the general maintenance of green roofs and roof
@@ -93,7 +92,7 @@ technical components.</p>
 <div class="isomer-image-wrapper">
 <img style="width:180px" height="auto" width="100%" src="/images/Icons/design-and-construction-of-pitched-green-roof.PNG">
 </div>
-<p><strong>CS&nbsp;E08:2012 - Guidelines on Design and Construction of Pitched Green Roof</strong>
+<p><strong><a href="/files/CUGE Standards/CSE08_2012___Guidelines_on_Design_and_Construction_of_Pitched_Green_Roof.pdf" rel="noopener noreferrer nofollow" target="_blank">CS&nbsp;E08:2012 - Guidelines on Design and Construction of Pitched Green Roof</a></strong>
 </p>
 <p><em>Guidelines on Design and Construction of Pitched Green Roof&nbsp;</em>identifies
 the basic requirements for the design and construction of pitched green
@@ -106,7 +105,7 @@ roof to address pitched green roof stability and feasibility issues.</p>
 <div class="isomer-image-wrapper">
 <img style="width:180px" height="auto" width="100%" src="/images/Icons/tall-shrubs.PNG">
 </div>
-<p><strong>CS E09:2012 - Guidelines on Planting of Trees, Palms and Tall Shrubs on Rooftop&nbsp;</strong>
+<p><strong><a href="/files/CUGE Standards/CSE09_2012___Guidelines_on_Planting_of_Trees__Palms_and_Tall_Shrubs_on_Rooftop.pdf" rel="noopener noreferrer nofollow" target="_blank">CS E09:2012 - Guidelines on Planting of Trees, Palms and Tall Shrubs on Rooftop&nbsp;</a></strong>
 </p>
 <p><em>Guidelines on Planting of Trees, Palms and Tall Shrubs on Rooftop</em>&nbsp;identifies
 the basic horticulture requirements for the planting of trees, palms and
@@ -118,7 +117,7 @@ such as the sizing and design of rooftop tree planter.</p>
 <div class="isomer-image-wrapper">
 <img style="width:180px" height="auto" width="100%" src="/images/Icons/design-loads-for-skyrise-greenery.PNG">
 </div>
-<p><strong>CS E10:2014 - Guidelines on Design Loads for Skyrise Greenery</strong>
+<p><strong><a href="/files/CUGE Standards/CSE10_2014___Guidelines_on_Design_Loads_for_Skyrise_Greenery.pdf" rel="noopener noreferrer nofollow" target="_blank">CS E10:2014 - Guidelines on Design Loads for Skyrise Greenery</a></strong>
 </p>
 <p><em>Guidelines on Design Loads for Skyrise Greenery&nbsp;</em>identifies
 the basic requirements, considerations and estimates for associated design
@@ -132,7 +131,7 @@ greenery.</p>
 <div class="isomer-image-wrapper">
 <img style="width:180px" height="auto" width="100%" src="/images/Icons/guidelines-on-design-for-safety-of-skyrise-greenery_icon.jpg">
 </div>
-<p><strong>CS E11:2014 - Guidelines on Design for Safety of Skyrise Greenery</strong>
+<p><strong><a href="/files/CUGE Standards/CSE11_2014___Guidelines_on_Design_for_Safety_of_Skyrise_Greenery.pdf" rel="noopener noreferrer nofollow" target="_blank">CS E11:2014 - Guidelines on Design for Safety of Skyrise Greenery</a></strong>
 </p>
 <p><em>Guidelines on Design For Safety of Skyrise Greenery&nbsp;</em>sets
 out relevant safety requirements and safe design considerations. This highlights
@@ -145,7 +144,7 @@ vegetated work spaces.</p>
 <div class="isomer-image-wrapper">
 <img style="width:180px" height="auto" width="100%" src="/images/Icons/biodiversit-on-roof-gardens.PNG">
 </div>
-<p><strong>CS E12:2017 - Design Guides to Promote Biodiversity on Roof Gardens&nbsp;</strong>
+<p><strong><a href="/files/CUGE Standards/CSE12_2017___Design_Guides_to_Promote_Biodiversity_on_Roof_Gardens.pdf" rel="noopener noreferrer nofollow" target="_blank">CS E12:2017 - Design Guides to Promote Biodiversity on Roof Gardens&nbsp;</a></strong>
 </p>
 <p><em>Design Guides to Promote Biodiversity</em>&nbsp;<em>on Roof Gardens</em>&nbsp;sets
 out to illustrate the basic evidence-based design-principles and the associated
