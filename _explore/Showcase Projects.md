@@ -14,11 +14,14 @@ by landscape designers for ideas and inspiration.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 25%;" height="auto" width="100%" alt="" src="/images/Icons/4thEdSkyriseGreeneryShowcaseCover_JPG.png">
 </div>
-<p>Published in 2024, this edition features projects completed in 2023.
-<br><a href="/files/Explore Tab/4thEdSkyriseGreeneryShowcase.pdf" rel="noopener noreferrer nofollow" target="_blank"><sup>Click here</sup></a>
-</p>
+<p>Published in 2024, this edition features projects completed in 2023. Please
+contact us for a copy.</p>
 <h3>3rd Edition</h3>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
