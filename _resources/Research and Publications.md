@@ -11,7 +11,8 @@ in various forms for dissemination to the industry and relevant professionals.</
 </p>
 <p>These Technical Guidelines by the Centre for Urban Greenery and Ecology
 (CUGE) address important considerations in the design of Skyrise Greenery,
-ranging from design and systems to installation to maintenance.</p>
+ranging from design and systems to installation to maintenance. Please
+click on the image to download the Guideline.</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -49,43 +50,30 @@ greenery.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width:180px" height="auto" width="100%" src="/images/Icons/design-loads-for-skyrise-greenery.PNG">
-</div>
-<p><strong>Guidelines on Design Loads for Rooftop Greenery</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width:180px" height="auto" width="100%" src="/images/Icons/guidelines-on-design-for-safety-of-skyrise-greenery_icon.jpg">
-</div>
-<p><strong>Guidelines on Design for Safety on Rooftop Greenery</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Guidelines on Substrate Layer for Rooftop Greenery</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Guidelines on Filter, Drainage and Root Penetration Barrier Layers For Rooftop Greenery</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
 <img style="width:180px" height="auto" width="100%" src="/images/Icons/waterproofing-for-rooftop-greenery.PNG">
 </div>
-<p><strong>Guidelines on Waterproofing For Rooftop Greenery</strong>
+<p><strong>CS E05:2012 - Guidelines on Waterproofing For Rooftop Greenery</strong>
 </p>
+<p></p>
+<p><em>Guidelines on Waterproofing for Rooftop Greenery&nbsp;</em>outlines
+the basic considerations and requirements for the selection, application,
+protection and testing of the waterproofing layer of green roofs and roof
+gardens.</p>
+<p></p>
+<p><strong>ISBN:</strong>&nbsp;978-981-07-1271-6</p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="width:180px" height="auto" width="100%" src="/images/Icons/irrigation-for-rooftop-greenery.PNG">
 </div>
-<p><strong>Guidelines on Irrigation For Rooftop Greenery</strong>
+<p><strong>CS E06:2012 - Guidelines on Irrigation For Rooftop Greenery</strong>
 </p>
+<p></p>
+<p><em>Guidelines on Irrigation for Rooftop Greenery&nbsp;</em>sets out the
+basic technical considerations and requirements for the design, construction
+and up-keep of the irrigation system for green roofs and roof gardens.</p>
+<p></p>
+<p><strong>ISBN:</strong>&nbsp;978-981-07-1272-3</p>
 </td>
 </tr>
 <tr>
@@ -93,15 +81,24 @@ greenery.</p>
 <div class="isomer-image-wrapper">
 <img style="width:180px" height="auto" width="100%" src="/images/Icons/general-maintenance-for-rooftop-greenery.PNG">
 </div>
-<p><strong>Guidelines on General Maintenance for Rooftop Greenery</strong>
+<p><strong>CS&nbsp;E07:2012 - Guidelines on General Maintenance for Rooftop Greenery&nbsp;</strong>
 </p>
+<p><em>Guidelines on General Maintenance for Rooftop Greenery&nbsp;</em>describes
+the basic requirements for the general maintenance of green roofs and roof
+gardens, including basic maintenance needs of rooftop vegetation and other
+technical components.</p>
+<p><strong>ISBN:&nbsp;</strong>978-981-07-1273-0</p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="width:180px" height="auto" width="100%" src="/images/Icons/design-and-construction-of-pitched-green-roof.PNG">
 </div>
-<p><strong>Guidelines on Design and Construction of Pitched Green Roof</strong>
+<p><strong>CS&nbsp;E08:2012 - Guidelines on Design and Construction of Pitched Green Roof</strong>
 </p>
+<p><em>Guidelines on Design and Construction of Pitched Green Roof&nbsp;</em>identifies
+the basic requirements for the design and construction of pitched green
+roof to address pitched green roof stability and feasibility issues.</p>
+<p><strong>ISBN:</strong>&nbsp;978-981-07-4726-8</p>
 </td>
 </tr>
 <tr>
@@ -109,15 +106,25 @@ greenery.</p>
 <div class="isomer-image-wrapper">
 <img style="width:180px" height="auto" width="100%" src="/images/Icons/tall-shrubs.PNG">
 </div>
-<p><strong>Guidelines on Planting of Trees, Palms and Tall Shrubs on Rooftop</strong>
+<p><strong>CS E09:2012 - Guidelines on Planting of Trees, Palms and Tall Shrubs on Rooftop&nbsp;</strong>
 </p>
+<p><em>Guidelines on Planting of Trees, Palms and Tall Shrubs on Rooftop</em>&nbsp;identifies
+the basic horticulture requirements for the planting of trees, palms and
+tall shrubs on roof gardens, as well as addressing basic architecture issues
+such as the sizing and design of rooftop tree planter.</p>
+<p><strong>ISBN:</strong>&nbsp;978-981-07-4726-8</p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="width:180px" height="auto" width="100%" src="/images/Icons/design-loads-for-skyrise-greenery.PNG">
 </div>
-<p><strong>Guidelines on Design Loads for Rooftop Greenery</strong>
+<p><strong>CS E10:2014 - Guidelines on Design Loads for Skyrise Greenery</strong>
 </p>
+<p><em>Guidelines on Design Loads for Skyrise Greenery&nbsp;</em>identifies
+the basic requirements, considerations and estimates for associated design
+loads in the design, planning and operation of rooftop greenery and vertical
+greenery.</p>
+<p><strong>ISBN:</strong>&nbsp;978-981-09-1217-8</p>
 </td>
 </tr>
 <tr>
@@ -125,27 +132,38 @@ greenery.</p>
 <div class="isomer-image-wrapper">
 <img style="width:180px" height="auto" width="100%" src="/images/Icons/guidelines-on-design-for-safety-of-skyrise-greenery_icon.jpg">
 </div>
-<p><strong>Guidelines on Design for Safety of Skyrise Greenery</strong>
+<p><strong>CS E11:2014 - Guidelines on Design for Safety of Skyrise Greenery</strong>
 </p>
+<p><em>Guidelines on Design For Safety of Skyrise Greenery&nbsp;</em>sets
+out relevant safety requirements and safe design considerations. This highlights
+the importance and need for safe design when planning, designing and operating
+rooftop greenery and vertical greenery, which are fundamentally elevated
+vegetated work spaces.</p>
+<p><strong>ISBN:</strong>&nbsp;978-981-09-1217-8</p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="width:180px" height="auto" width="100%" src="/images/Icons/biodiversit-on-roof-gardens.PNG">
 </div>
-<p><strong>Design Guides to Promote Biodiversity on Roof Gardens</strong>
+<p><strong>CS E12:2017 - Design Guides to Promote Biodiversity on Roof Gardens&nbsp;</strong>
 </p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<p><em>Design Guides to Promote Biodiversity</em>&nbsp;<em>on Roof Gardens</em>&nbsp;sets
+out to illustrate the basic evidence-based design-principles and the associated
+design-recommendations for the planning, design, construction and operation
+of rooftop greenery, with focus on these elevated vegetated surfaces for
+biodiversity enhancement.</p>
+<p>This design guide was developed together with an Ecology Survey Team and
+an Industry Technical Team. The Ecology Survey Team comprises of members
+from the National University of Singapore, Nature Society Singapore and
+National Parks Board. The Industry Technical Team comprises of members
+from the Urban Redevelopment Authority, Housing and Development Board,
+Singapore Institute of Landscape Architects and Nature Society Singapore.</p>
+<p><strong>ISBN:</strong>&nbsp;978-981-11-5176-7</p>
 </td>
 </tr>
 </tbody>
 </table>
+<p></p>
 <p><strong>Singapore Urban Design Guidebook</strong>
 <br>
 </p>
@@ -160,6 +178,10 @@ people live, work and play.</p>
 <p>Find out more about the Landscaping for Urban Spaces and High-Rises (LUSH)
 policy, and how it influences developers to design and incorporate skyrise
 greenery into new developments.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="A Green &amp; Liveable City" src="/images/Icons/GreenLiveableCity.png">
+</div>
 <p><a href="https://www.ura.gov.sg/Corporate/Resources/Publications/Books/Book-Details/Green-loveable-city" rel="noopener noreferrer nofollow" target="_blank">A Green &amp; Liveable City</a>
 </p>
 <h3><strong>Journal articles</strong></h3>
